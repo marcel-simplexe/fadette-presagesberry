@@ -1,0 +1,5 @@
+# Fadette — dependencies (Python 3.11+)
+PyYAML>=6.0          # read config.yaml
+requests>=2.31       # HTTP: the sky feeds + the Infomaniak API
+ephem>=4.1           # local ephemeris: phase, sun/moon altitude (PHASE only)
+mido>=1.3            # write the .mid files (deterministic engraving of the score)

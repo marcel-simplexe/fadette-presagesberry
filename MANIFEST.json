@@ -1,0 +1,144 @@
+{
+  "work": "Fadette",
+  "in_homage_to": "Marcel Bascoulard",
+  "generated_utc": "2026-06-25T21:45:55Z",
+  "file_count": 34,
+  "files": [
+    {
+      "path": ".github/workflows/fadette.yml",
+      "sha256": "721e6e89afd0a1e0b5bd94d14e14eb5d029f41fcc7501f74fd2453cfa999312c"
+    },
+    {
+      "path": ".gitignore",
+      "sha256": "94c073b624c37ab70ef7ded75cd71e2738b8799dcc3e239dd7d891ca7483d606"
+    },
+    {
+      "path": "CONTROLES-AVANT-LANCEMENT.md",
+      "sha256": "9b2abfcc0749e0eb5eaec2641015271fb94c0634327e7ebb720473bfd47030b0"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "1c747993d0ab9039e7ca86dfd0c26de50db5bf87ca1706be329be98a7a3cb9ae"
+    },
+    {
+      "path": "LICENSE-ART",
+      "sha256": "0fd9fdc063d9cfc351b387016f8bd7f0aa986dbac2675322a5ee0f7d60c25394"
+    },
+    {
+      "path": "NOTICE",
+      "sha256": "74478de72770aa5afcf91280da2a87f4ecbca00f62304e7199f93129d553cf0f"
+    },
+    {
+      "path": "OPERATING-MANUAL.md",
+      "sha256": "0c347e23967b2bf18b7a09c9c61ac1c35d0e003f2e8c4b433651286fc68d7cfe"
+    },
+    {
+      "path": "README.md",
+      "sha256": "c5b826eaf405dda54c0a846fc2c6047f81623c5f5b8992f3ad1dd52410e17d4f"
+    },
+    {
+      "path": "config.yaml",
+      "sha256": "22407f243780bb0139f39346e8a4146ddbe21107463c95b2a4b1eeeb4fabecc9"
+    },
+    {
+      "path": "docs/.nojekyll",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "docs/fr.html",
+      "sha256": "5c2933947c180106618352a49779064a567e1b82e31945da5603122f22a1ae19"
+    },
+    {
+      "path": "docs/index.html",
+      "sha256": "a14c453fa98d3541200f0360b58a74705090a1b67c72821f81de0b5778f68de0"
+    },
+    {
+      "path": "docs/work/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "history/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "index.html",
+      "sha256": "cfec407e084367ec4d2bae96b39028189801946cc72c2ea0973f4c28f4539f91"
+    },
+    {
+      "path": "journal/.gitkeep",
+      "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+    },
+    {
+      "path": "requirements.txt",
+      "sha256": "9ecd8c137dde032a22ff89d751b042158a906a4ef15b61266cff75baf58dc293"
+    },
+    {
+      "path": "src/__init__.py",
+      "sha256": "c568314269e402f526fa962f29db1ee4357f0d06b4a1e1035533c082af901e28"
+    },
+    {
+      "path": "src/augury.py",
+      "sha256": "9f2e28035e584f21b629ccd661f9a8f91409e1f3648cec9935900425257e8f0e"
+    },
+    {
+      "path": "src/conductor.py",
+      "sha256": "0911c5070451c269d8da8c1c10b2af7051898e3da800465d25b087644a9561fa"
+    },
+    {
+      "path": "src/drift.py",
+      "sha256": "de9bf0e2ec943cf385e233fef90fe16c69d5385d993ed74f843043b621759279"
+    },
+    {
+      "path": "src/entropy.py",
+      "sha256": "084b527617c988178c556f3adb9bf5ac0d73fb496fa2f44b34f23789f1cc9e14"
+    },
+    {
+      "path": "src/ephemeris.py",
+      "sha256": "1a0a9a784f7c71befa139a325843e6186d5cc1bfbf1e34228233568f81b90477"
+    },
+    {
+      "path": "src/feeds.py",
+      "sha256": "38eec3a99810c78319fdc764370624cd9bfcee5a7a32340efdc6ff580682d52f"
+    },
+    {
+      "path": "src/finale.py",
+      "sha256": "3f59dcf85e8003f4120f473812bf7c64441b1a9359a533d78e48cd3e7f560021"
+    },
+    {
+      "path": "src/gift.py",
+      "sha256": "a36b047491494f72caebff9cb9cc9848fea674c83ab7175828d8f6de260a8d50"
+    },
+    {
+      "path": "src/infomaniak.py",
+      "sha256": "95203e5a4c0f573b8e3adf0465ddea6de5e776fcfa62d4987d8a8b06035e0d74"
+    },
+    {
+      "path": "src/lens.py",
+      "sha256": "c247671ed216d960ab388826e2a8630ff1b76df55a223fd1f8717431c30e3c88"
+    },
+    {
+      "path": "src/memory.py",
+      "sha256": "2aafd4b998ac1fefd628e6bee81c72bb4e1425b79e8acd293800b3bb93099857"
+    },
+    {
+      "path": "src/midi.py",
+      "sha256": "d69c2b5ba8537b650a27d6561847a59eb8a173fe7eb6566a688cd7847ec4d416"
+    },
+    {
+      "path": "src/render.py",
+      "sha256": "25fa457e348fd5e0de4bbbcf05f696934c99ba9b173e4698ea797ad1c64681b3"
+    },
+    {
+      "path": "src/sky.py",
+      "sha256": "f6261b29fd57f9af5341046519d63c26fac784b8f1337e14e6003391ac2ddd53"
+    },
+    {
+      "path": "src/tempo.py",
+      "sha256": "9c02d7b5ae68a7f39cef1104139b63db2ccc3ce914808517488c98c66152783a"
+    },
+    {
+      "path": "tools/check_feeds.py",
+      "sha256": "546ff8bdb13c3ad7f3bf0382ab39de7488524e50233ee603102d6f28b1181e92"
+    }
+  ]
+}
