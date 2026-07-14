@@ -30,9 +30,29 @@ ALLOWED_NAME = "Marcel Simplexe"
 ALLOWED_EMAILS = {
     "marcel.simplexe@proton.me",          # the page's footer
     "marcel.simplexe@fadette.invalid",    # the machine's own committer
+    "noreply@github.com",                 # le cachet de GitHub — voir WEB_FLOW plus bas.
+                                          # Générique, publique, ne dit rien de personne.
+                                          # Elle figure dans CE fichier : il faut donc que
+                                          # le scan des fichiers l'accepte. L'AUTEUR, lui,
+                                          # exige en plus le nom « Marcel Simplexe ».
 }
 # GitHub's privacy address for the pseudonymous account: <id>+<user>@users.noreply.github.com
 ALLOWED_EMAIL_RE = re.compile(r"^[\w.+-]*\+?marcel-?simplexe@users\.noreply\.github\.com$", re.I)
+
+# LE CACHET DE LA POSTE, PAS UN AUTEUR.
+# GitHub signe TOUT commit fait au navigateur — éditeur crayon, « Create new file »,
+# « Upload files », github.dev — avec sa propre clé GPG « web flow », et se met alors
+# lui-même en COMMITTEUR. C'est ainsi qu'il peut les afficher « Verified ». Aucun
+# réglage n'évite ça : un déploiement sans terminal ne peut STRUCTURELLEMENT pas
+# produire autre chose.
+#
+# Git a deux champs distincts : l'AUTEUR (qui a écrit) et le COMMITTEUR (qui a déposé).
+# La doctrine exige « Marcel Simplexe est l'auteur ici, et le seul » — et elle porte sur
+# l'AUTEUR. GitHub n'est l'auteur de rien ; il est le tampon de l'enveloppe.
+#
+# L'auteur reste donc verrouillé, sans la moindre indulgence. Seul le committeur admet
+# cette identité-là, et elle seule — un nom civil en committeur resterait une fuite.
+WEB_FLOW = ("GitHub", "noreply@github.com")
 
 EMAIL_RE = re.compile(rb"[A-Za-z0-9._%+-]+@[A-Za-z0-9.-]+\.[A-Za-z]{2,}")
 SKIP_DIRS = {".git", "__pycache__", "node_modules", ".venv", "venv"}
@@ -154,24 +174,37 @@ def check_history(forbidden: list[bytes]) -> None:
         ok("aucun commit encore")
         return
 
-    people: set[tuple[str, str]] = set()
+    authors: set[tuple[str, str]] = set()
+    committers: set[tuple[str, str]] = set()
     for line in lines:
         parts = line.split("\x1f")
         if len(parts) < 6:
             continue
         h, an, ae, cn, ce, subj = parts[:6]
-        people.add((an, ae))
-        people.add((cn, ce))
+        authors.add((an, ae))
+        committers.add((cn, ce))
         low = subj.lower().encode()
         for needle in forbidden:
             if needle in low:
                 bad(f"le message du commit {h[:8]} contient une chaîne interdite")
 
-    for name, mail in sorted(people):
+    # L'AUTEUR — verrouillé. C'est lui que la doctrine nomme, et lui seul.
+    for name, mail in sorted(authors):
         if name == ALLOWED_NAME and email_allowed(mail):
-            ok(f"auteur présent dans l'historique : {name} <{mail}>")
+            ok(f"auteur : {name} <{mail}>")
         else:
             bad(f"auteur NON autorisé dans l'historique : {name} <{mail}> "
+                "— un commit ne se corrige pas, il se réécrit")
+
+    # LE COMMITTEUR — le cachet de la poste. GitHub y est inévitable au navigateur.
+    for name, mail in sorted(committers):
+        if name == ALLOWED_NAME and email_allowed(mail):
+            ok(f"committeur : {name} <{mail}>")
+        elif (name, mail) == WEB_FLOW:
+            ok(f"committeur : {name} <{mail}> — le cachet de GitHub sur tout commit "
+               "fait au navigateur. L'auteur, lui, reste Marcel Simplexe.")
+        else:
+            bad(f"committeur NON autorisé dans l'historique : {name} <{mail}> "
                 "— un commit ne se corrige pas, il se réécrit")
     print(f"       ({len(lines)} commit(s) inspecté(s))")
 
