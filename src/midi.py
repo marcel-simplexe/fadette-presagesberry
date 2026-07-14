@@ -2,8 +2,9 @@
 """
 midi.py — the engraving. The model composed a symbolic score (notes); here, with
 no model, we engrave it into a deterministic .mid file, and derive the same voicing
-the browser will sound. A bagpipe drone — tonic and fifth, tuned to the melody — is
-held continuous beneath the chanter, for the Berry veillee air (musette du Centre).
+the browser will sound. The chanter (bagpipe) carries the melody; beneath it a drone
+— tonic and fifth, tuned to the melody — is held continuous on the hurdy-gurdy, the
+two voices of the Berry veillee air (musette et vielle du Centre).
 """
 from __future__ import annotations
 from collections import Counter
@@ -11,7 +12,11 @@ import mido
 
 _TICKS = 480
 _TEMPO_BPM = 72
-_PROG_BAGPIPE = 109   # General MIDI: Bag pipe
+_PROG_BAGPIPE = 109   # General MIDI: Bag pipe — the chanter carries the melody
+_PROG_VIELLE  = 110   # General MIDI: Fiddle — the drone, given to the Berry hurdy-gurdy.
+                      #   GM has no dedicated hurdy-gurdy; 110 is the nearest bowed-string
+                      #   voice. In the browser it reads as strings-under-pipe, the two
+                      #   voices of a Centre-France veillee: chanter above, wheel below.
 
 
 def _clean(notes) -> list:
@@ -73,7 +78,7 @@ def engrave(notes: list, path: str) -> str:
 
     if v["drones"] and v["end"] > 0:
         bass = mido.MidiTrack(); mid.tracks.append(bass)
-        bass.append(mido.Message("program_change", program=_PROG_BAGPIPE, time=0))
+        bass.append(mido.Message("program_change", program=_PROG_VIELLE, time=0))
         for d in v["drones"]:                         # tonic + fifth, struck together
             bass.append(mido.Message("note_on", note=d, velocity=42, time=0))
         last = int(round(v["end"] * _TICKS))
