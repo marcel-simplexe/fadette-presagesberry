@@ -1,0 +1,164 @@
+# ============================================================================
+#  console — la machine, pilotée depuis le navigateur.
+#
+#  Elle ne s'exécute JAMAIS toute seule : aucun cron, aucun push, aucune vie
+#  propre. Elle ne se déclenche qu'à la main, depuis l'onglet Actions. Elle est
+#  aux `tools/` ce que `fadette.yml` est à `src/` : un outil, pas un organe.
+#
+#  Elle existe pour une seule raison : sans terminal, `rearm.py` n'a pas de
+#  mains. Or il doit tourner deux fois — le 15 juillet pour armer l'essai, le
+#  1er août pour armer l'œuvre. Sans elle, l'œuvre ne peut pas naître.
+#
+#  ┌────────────────────────────────────────────────────────────────────────┐
+#  │  N'ÉCRIS JAMAIS RIEN DE PRIVÉ DANS UN CHAMP DE CE FORMULAIRE.          │
+#  │                                                                        │
+#  │  Les entrées d'un workflow_dispatch sont affichées dans l'interface    │
+#  │  Actions et recopiées dans le journal du run — PUBLIQUEMENT, sur un    │
+#  │  dépôt public. Y taper un nom civil pour « vérifier qu'il est absent » │
+#  │  ne serait pas un contrôle : ce serait la fuite elle-même. C'est       │
+#  │  exactement ce qui s'est déjà produit une fois.                        │
+#  │                                                                        │
+#  │  C'est pourquoi check_identity.py est lancé ici SANS ARGUMENT : il     │
+#  │  travaille par liste blanche, et ne nomme personne.                    │
+#  └────────────────────────────────────────────────────────────────────────┘
+# ============================================================================
+name: console
+
+on:
+  workflow_dispatch:
+    inputs:
+      acte:
+        description: "Que doit faire la machine ?"
+        required: true
+        type: choice
+        default: pre-vol
+        options:
+          - pre-vol            # les sens, l'identité, la compilation. N'écrit rien.
+          - preuve-du-flot     # le rejeu du 12 août. N'écrit rien. OBLIGATOIRE avant d'ouvrir.
+          - armer-l-essai      # rearm --test : fenêtre 15-31 juillet.  EFFACE L'ARCHIVE.
+          - armer-l-oeuvre     # rearm --open : fenêtre 1-31 août.      EFFACE L'ARCHIVE.
+      efface:
+        description: "Pour ARMER seulement — recopie exactement : J EFFACE L ARCHIVE"
+        required: false
+        default: ""
+        type: string
+
+permissions:
+  contents: write
+
+concurrency:
+  group: fadette          # jamais en même temps qu'un souffle : un seul push à la fois
+  cancel-in-progress: false
+
+jobs:
+  console:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          fetch-depth: 0        # check_identity inspecte CHAQUE commit, jusqu'au premier
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Les dépendances
+        run: pip install -r requirements.txt
+
+      - name: L'identité de la machine
+        run: |
+          git config user.name  "Marcel Simplexe"
+          git config user.email "marcel.simplexe@fadette.invalid"
+          git config commit.gpgsign false
+
+      # ── PRÉ-VOL — ne touche à rien ────────────────────────────────────────
+      # DIAGNOSTIC SEUL — ne touche ni feeds.py ni check_feeds.py, deja testes et geles.
+      # check_feeds.py avale toute exception (_get_json) et rend None sans distinction :
+      # timeout, 403, 429 ou DNS mort rendent tous le meme [FAIL] muet. Ce step-ci
+      # n'existe que pour faire dire au runner la VRAIE raison, une fois.
+      - name: Diagnostic brut — les vrais codes HTTP (RTE, NOAA)
+        if: inputs.acte == 'pre-vol'
+        run: |
+          echo "::group::Diagnostic brut RTE + NOAA — depuis CE runner, maintenant"
+          for cible in \
+            "RTE national|https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/eco2mix-national-tr/records?order_by=date_heure%20desc&limit=1" \
+            "NOAA Kp|https://services.swpc.noaa.gov/products/noaa-planetary-k-index.json" \
+            "NOAA plasma|https://services.swpc.noaa.gov/products/solar-wind/plasma-1-day.json" \
+            "NOAA xray (temoin, marche toujours)|https://services.swpc.noaa.gov/json/goes/primary/xrays-1-day.json" \
+          ; do
+            nom="${cible%%|*}"; url="${cible#*|}"
+            code=$(curl -sS -o /dev/null -w "%{http_code}" --max-time 20 "$url" 2>/tmp/err || echo "ECHEC")
+            if [ "$code" = "ECHEC" ]; then
+              printf "  %-32s -> PAS DE REPONSE : %s\n" "$nom" "$(cat /tmp/err | tail -1)"
+            else
+              printf "  %-32s -> HTTP %s\n" "$nom" "$code"
+            fi
+          done
+          echo "::endgroup::"
+
+          # Le code HTTP prouve que la porte est ouverte, pas ce qu'il y a derriere.
+          # RTE et Kp ont repondu 200 alors que le pre-vol dit [FAIL]/[warn] :
+          # le probleme est dans le CORPS de la reponse, pas dans le reseau.
+          echo "::group::Diagnostic brut — le corps reel des reponses (RTE, Kp)"
+          echo "--- RTE national (500 premiers caracteres) ---"
+          curl -sS --max-time 20 \
+            "https://odre.opendatasoft.com/api/explore/v2.1/catalog/datasets/eco2mix-national-tr/records?order_by=date_heure%20desc&limit=1" \
+            | head -c 500
+          echo
+          echo
+          echo "--- NOAA Kp (500 premiers caracteres) ---"
+          curl -sS --max-time 20 \
+            "https://services.swpc.noaa.gov/products/noaa-planetary-k-index.json" \
+            | head -c 500
+          echo
+          echo "::endgroup::"
+
+      - name: Le pré-vol — les sens, l'identité, la compilation
+        if: inputs.acte == 'pre-vol'
+        env:
+          INFOMANIAK_TOKEN: ${{ secrets.INFOMANIAK_TOKEN }}
+          INFOMANIAK_PRODUCT_ID: ${{ secrets.INFOMANIAK_PRODUCT_ID }}
+        run: |
+          echo "::group::Tout compile"
+          python -m py_compile src/*.py tools/*.py
+          echo "  code retour 0"
+          echo "::endgroup::"
+          echo "::group::Les sens (RTE, NOAA, METAR, TESS, Infomaniak)"
+          python tools/check_feeds.py
+          echo "::endgroup::"
+          echo "::group::L'identité — sans argument : il ne nomme personne"
+          python tools/check_identity.py
+          echo "::endgroup::"
+
+      # ── LA PREUVE DU FLOT — ne touche à rien ──────────────────────────────
+      - name: La preuve du flot — le rejeu du 12 août
+        if: inputs.acte == 'preuve-du-flot'
+        run: python tools/check_flood.py
+
+      # ── ARMER — EFFACE L'ARCHIVE ──────────────────────────────────────────
+      - name: Le garde-fou
+        if: startsWith(inputs.acte, 'armer')
+        run: |
+          if [ "${{ inputs.efface }}" != "J EFFACE L ARCHIVE" ]; then
+            echo "::error::Confirmation absente ou incorrecte. RIEN n'a été touché."
+            echo "Pour armer, recopie exactement dans le champ « efface » :  J EFFACE L ARCHIVE"
+            exit 1
+          fi
+
+      - name: Le rituel — la fenêtre, une archive vierge, l'optique à sa graine
+        if: startsWith(inputs.acte, 'armer')
+        run: |
+          if [ "${{ inputs.acte }}" = "armer-l-essai" ]; then
+            python tools/rearm.py --test
+          else
+            python tools/rearm.py --open
+          fi
+
+      - name: L'archive
+        if: startsWith(inputs.acte, 'armer')
+        run: |
+          git add -A
+          git diff --cached --quiet && { echo "Rien à archiver : la machine était déjà armée ainsi."; exit 0; }
+          git commit -m "${{ inputs.acte }}"
+          git pull --rebase --autostash || true
+          git push || (sleep 5 && git pull --rebase --autostash && git push)
