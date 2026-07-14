@@ -231,7 +231,7 @@ prompts:
     UNIQUEMENT comme une liste JSON d'événements de note, rien d'autre, sous la
     forme [{"note": 62, "start": 0.0, "duration": 0.5, "force": 70}, ...] où note
     est un numéro MIDI (0-127), start et duration en temps, force une vélocité
-    (1-127) ; garde la mélodie dans l'étendue d'une cornemuse, une octave et une note, et qu'elle retombe sur sa tonique pour que le bourdon tienne dessous ; entre 16 et 40 notes ; et là où le présage dit que la clarté manque,
+    (1-127) ; garde la mélodie dans l'étendue d'une cornemuse, une octave et une note, et qu'elle retombe sur sa tonique pour que le bourdon de la vielle tienne dessous ; entre 16 et 40 notes ; et là où le présage dit que la clarté manque,
     que l'air défaille et se vide.
 
   # 4) LE RAFFINEUR (le re-prompt quotidien). Réécrit le présage et l'air d'un cran
@@ -249,7 +249,7 @@ prompts:
      an ornament, so that this night sounds like no other. Return it ONLY as a JSON
      list of note events, nothing else, in the form [{"note": 62, "start": 0.0,
      "duration": 0.5, "force": 70}, ...] where note is a MIDI number (0-127), start
-     and duration in beats, force a velocity (1-127); keep the melody within a bagpipe's compass, an octave and a note, and let it settle on its tonic so the drone holds beneath; between 16 and 40 notes; and
+     and duration in beats, force a velocity (1-127); keep the melody within a bagpipe's compass, an octave and a note, and let it settle on its tonic so the hurdy-gurdy drone holds beneath; between 16 and 40 notes; and
      where the omen says the light fails, let the air falter and empty.
 
   refiner: >
