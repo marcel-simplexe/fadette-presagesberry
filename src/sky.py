@@ -64,7 +64,7 @@ def state(conf: dict, when_utc: dt.datetime | None = None) -> dict:
     night_light = _safe(feeds.sky_brightness, conf)
     berry = _safe(feeds.metar, conf)
 
-    want_obs, source = _observed_want(eph, day_light, night_light)
+    want_obs, source = _observed_want(eph, day_light, night_light, berry)
 
     computed, watched = ({}, when_utc)
     if conf["gift"]["active"]:
@@ -98,16 +98,47 @@ def state(conf: dict, when_utc: dt.datetime | None = None) -> dict:
     }
 
 
-def _observed_want(eph: dict, day_light, night_light):
+def _observed_want(eph: dict, day_light, night_light, berry=None):
     """Deduce the want of light from MEASURED feeds only, with the ephemeris for
-    context (where the light ought to be). First-version thresholds; calibrate
-    against the chosen station when wiring."""
-    if eph["day"] and eph["sun_alt_deg"] > 2 and day_light and day_light.get("national_mw") is not None:
+    context (where the light ought to be).
+
+    THE TRAP, found on the first cloudy trial day: a covered sky drops solar
+    production exactly as an eclipse does. Read naively, an ordinary grey morning
+    reads as a failing sun. So the observed path only speaks when the weather says
+    the sky is CLEAR: under cloud, low production is expected, not an omen, and we
+    hand back to the computed net (gift), which is blind to weather. An eclipse on a
+    clear day still triggers; a storm no longer counterfeits one."""
+    covered = _is_covered(berry)
+    if (eph["day"] and eph["sun_alt_deg"] > 8 and not covered
+            and day_light and day_light.get("national_mw") is not None):
         expected = max(1.0, eph["sun_alt_deg"] * 700.0)   # MW, order of magnitude
         miss = 1.0 - min(1.0, day_light["national_mw"] / expected)
-        return max(0.0, round(miss, 3)), "observed"
-    if eph["night"] and eph["moon_illum"] > 0.8 and night_light and night_light.get("mag_arcsec2") is not None:
+        # a clear sky that still loses most of its light is the only observed eclipse
+        if miss >= 0.5:
+            return max(0.0, round(miss, 3)), "observed"
+        return 0.0, "observed"
+    if (eph["night"] and eph["moon_illum"] > 0.8 and not covered
+            and night_light and night_light.get("mag_arcsec2") is not None):
         msas = night_light["mag_arcsec2"]                 # ~19 full-moon-clear ; ~22 dark
         miss = min(1.0, max(0.0, (msas - 19.0) / 3.0))
         return round(miss, 3), "observed"
     return None, "undetermined"
+
+
+def _is_covered(berry) -> bool:
+    """Is the Berry sky overcast? Read from the METAR the machine already holds.
+    Cloud cover BKN (broken) or OVC (overcast), or any present weather of rain/storm,
+    means low solar production is the weather's doing, not the moon's. Unknown ->
+    treated as covered, so a missing METAR never manufactures an eclipse."""
+    if not berry:
+        return True
+    raw = (berry.get("metar") or berry.get("raw") or "")
+    if not isinstance(raw, str) or not raw:
+        return True
+    r = raw.upper()
+    if " OVC" in r or " BKN" in r:
+        return True
+    for w in (" RA", " SHRA", " TSRA", " TS", " DZ", " +RA", "-RA", " GR", " FG", " BR"):
+        if w in r:
+            return True
+    return False
