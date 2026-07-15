@@ -206,9 +206,9 @@ _CLOUD = (("OVC", "Le ciel est bouché."),
 
 
 def _clean_presage(raw: str) -> str:
-    """The model chatters: it returns a separator, a meta-comment, or breaks off in the
-    middle of a word when the tokens run out. Keep the omen alone -- three sentences at
-    most, all of them closed."""
+    """The model chatters: it returns a separator, a meta-comment, a stray markdown
+    mark, or breaks off in the middle of a word when the tokens run out. Keep the omen
+    alone -- three sentences at most, all of them closed, no markup left clinging."""
     t = re.sub(r"```[a-zA-Z]*", " ", raw or "").replace("```", " ").strip()
     kept = []
     for ln in t.splitlines():
@@ -218,11 +218,18 @@ def _clean_presage(raw: str) -> str:
         if s.lower().startswith(_META):            # the model's own commentary
             continue
         kept.append(s)
-    t = " ".join(kept).strip().strip('"«»').strip()
+    t = " ".join(kept).strip()
+    # markdown the model sometimes wraps around the omen: **bold**, [brackets], #, *
+    t = t.replace("**", "").replace("__", "")
+    t = t.strip().strip('"«»[]#*·—-–_ ').strip()
     parts = re.findall(r"[^.!?…]+[.!?…]+", t)      # only CLOSED sentences survive
     if parts:
         t = "".join(parts[:3]).strip()
-    return t
+    # a lone opening bracket or quote with no partner, left by truncation
+    for ch in "[«\"":
+        if t.count(ch) > t.count({"[":"]", "«":"»", '"':'"'}[ch]):
+            t = t.replace(ch, "", 1)
+    return t.strip()
 
 
 def _rising(sky: dict) -> bool:
