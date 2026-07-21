@@ -3269,6 +3269,287 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "13:04",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 0,
+      "want_source": "observed",
+      "presage": "Au fil des nuits, un sommeil léger ne sépare pas le veilleur de Laisnel de la Salle du guet du monde spirituel. La lune, fraichement en croissant, éclaire moins intensément. La terre, sans ombres, semble exposée.",
+      "presage_en": "As the nights unfold, the watcher from Laisnel de la Salle's land does not sleep deeply, for the veil between the living and the spirit realm is thin. The moon, still a young crescent, casts a dimmer light. The earth, shadowless, seems laid bare.",
+      "score": [
+        {
+          "note": 62,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 57,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 59,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 52,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 59,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 52,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 45,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 36,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 45,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 36,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 45,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 48,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 52,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 48,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 45,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 42,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 42,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 45,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 48,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 45,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 42,
+          "start": 12.7,
+          "duration": 0.3,
+          "force": 35
+        },
+        {
+          "note": 42,
+          "start": 13.0,
+          "duration": 0.2,
+          "force": 30
+        },
+        {
+          "note": 39,
+          "start": 13.2,
+          "duration": 0.3,
+          "force": 32
+        },
+        {
+          "note": 42,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 45,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 42,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 39,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 32
+        },
+        {
+          "note": 62,
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 57,
+          "start": 17.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 18.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 59,
+          "start": 18.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 52,
+          "start": 19.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 59,
+          "start": 19.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 52,
+          "start": 20.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 45,
+          "start": 20.5,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 36,
+          "start": 21.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 45,
+          "start": 21.5,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 36,
+          "start": 22.0,
+          "duration": 0.5,
+          "force": 30
+        }
+      ],
+      "midi": "work/midi-2026-07-21T1304Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.67",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
