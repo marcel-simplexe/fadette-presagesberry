@@ -4314,6 +4314,185 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "13:50",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 1,
+      "want_source": "observed",
+      "presage": "Cette nuit, c’est le Regard que l’on a fait s’éteindre, laissant le gué sous l’égide des Fades.",
+      "presage_en": "This night, it's the Watcher that was made to dim, leaving the ford under the protection of the Fates.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 64,
+          "start": 1.5,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": 63,
+          "start": 1.8,
+          "duration": 0.3,
+          "force": 55
+        },
+        {
+          "note": 62,
+          "start": 2.1,
+          "duration": 0.3,
+          "force": 50
+        },
+        {
+          "note": 60,
+          "start": 2.4,
+          "duration": 0.3,
+          "force": 45
+        },
+        {
+          "note": 58,
+          "start": 2.7,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 58,
+          "start": 3.2,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 60,
+          "start": 3.7,
+          "duration": 0.3,
+          "force": 30
+        },
+        {
+          "note": 62,
+          "start": 4.0,
+          "duration": 0.3,
+          "force": 30
+        },
+        {
+          "note": 64,
+          "start": 4.3,
+          "duration": 0.3,
+          "force": 25
+        },
+        {
+          "note": 66,
+          "start": 4.6,
+          "duration": 0.3,
+          "force": 20
+        },
+        {
+          "note": 64,
+          "start": 4.9,
+          "duration": 0.3,
+          "force": 15
+        },
+        {
+          "note": 62,
+          "start": 5.2,
+          "duration": 0.5,
+          "force": 10
+        },
+        {
+          "note": 60,
+          "start": 5.7,
+          "duration": 0.5,
+          "force": 8
+        },
+        {
+          "note": 58,
+          "start": 6.2,
+          "duration": 0.5,
+          "force": 6
+        },
+        {
+          "note": 58,
+          "start": 6.7,
+          "duration": 1.0,
+          "force": 4
+        },
+        {
+          "note": 58,
+          "start": 7.7,
+          "duration": 0.3,
+          "force": 3
+        },
+        {
+          "note": 58,
+          "start": 8.0,
+          "duration": 0.3,
+          "force": 2
+        },
+        {
+          "note": 58,
+          "start": 8.3,
+          "duration": 0.3,
+          "force": 1
+        },
+        {
+          "note": 58,
+          "start": 8.6,
+          "duration": 0.5,
+          "force": 0.5
+        },
+        {
+          "note": 58,
+          "start": 9.1,
+          "duration": 1.0,
+          "force": 0
+        },
+        {
+          "note": 58,
+          "start": 10.1,
+          "duration": 2.0,
+          "force": 0
+        }
+      ],
+      "midi": "work/midi-2026-07-24T1350Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
