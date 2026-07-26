@@ -1,0 +1,238 @@
+{
+  "date": "2026-07-26",
+  "breaths": [
+    {
+      "time": "03:17",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 1,
+      "want_source": "fallback-gift",
+      "presage": "Le vent noctambule, écho d'unhirondell perdu, a lâché ses pas leste et oisifs sur les clairières endormies.",
+      "presage_en": "The night-wandering wind, echo of a lost swallow, has let loose its light and idle steps upon the slumbering clearings.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 67,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 69,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 71,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 95
+        },
+        {
+          "note": 72,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 100
+        },
+        {
+          "note": 69,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 67,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 64,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 60,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 60,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 60,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 60,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 60,
+          "start": 8.5,
+          "duration": 2.0,
+          "force": 10
+        },
+        {
+          "note": 60,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 15
+        },
+        {
+          "note": 60,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 60,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 25
+        },
+        {
+          "note": 60,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 60,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 60,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 60,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 60,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 60,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 67,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 69,
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 71,
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 95
+        },
+        {
+          "note": 72,
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 100
+        }
+      ],
+      "midi": "work/midi-2026-07-26T0317Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    }
+  ]
+}
