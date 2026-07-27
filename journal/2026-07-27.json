@@ -1,0 +1,214 @@
+{
+  "date": "2026-07-27",
+  "breaths": [
+    {
+      "time": "01:05",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 1,
+      "want_source": "fallback-gift",
+      "presage": "Ce soir, la dame blanche a lâché les ombres, sous l'œil déserté de la lune croissante.",
+      "presage_en": "This evening, the White Lady has let loose the shadows, under the deserted gaze of the waxing moon.",
+      "score": [
+        {
+          "note": 24,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 24,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 24,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 24,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 0,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 0
+        },
+        {
+          "note": 0,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 0
+        },
+        {
+          "note": 0,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 0
+        },
+        {
+          "note": 0,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 0
+        },
+        {
+          "note": 24,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 24,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 24,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 24,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 24,
+          "start": 8.5,
+          "duration": 0.33,
+          "force": 70
+        },
+        {
+          "note": 24,
+          "start": 9.0,
+          "duration": 0.33,
+          "force": 70
+        },
+        {
+          "note": 24,
+          "start": 9.33,
+          "duration": 0.33,
+          "force": 70
+        },
+        {
+          "note": 24,
+          "start": 9.67,
+          "duration": 0.33,
+          "force": 70
+        },
+        {
+          "note": 0,
+          "start": 10.0,
+          "duration": 0.33,
+          "force": 0
+        },
+        {
+          "note": 0,
+          "start": 10.33,
+          "duration": 0.33,
+          "force": 0
+        },
+        {
+          "note": 0,
+          "start": 10.67,
+          "duration": 0.33,
+          "force": 0
+        },
+        {
+          "note": 12,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 12,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 24,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 24,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 24,
+          "start": 12.5,
+          "duration": 0.75,
+          "force": 55
+        },
+        {
+          "note": 24,
+          "start": 13.25,
+          "duration": 0.75,
+          "force": 55
+        },
+        {
+          "note": 24,
+          "start": 14.0,
+          "duration": 1.0,
+          "force": 45
+        },
+        {
+          "note": 24,
+          "start": 15.0,
+          "duration": 1.0,
+          "force": 45
+        },
+        {
+          "note": 24,
+          "start": 16.0,
+          "duration": 1.0,
+          "force": 45
+        },
+        {
+          "note": 24,
+          "start": 17.0,
+          "duration": 2.0,
+          "force": 50
+        }
+      ],
+      "midi": "work/midi-2026-07-27T0105Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    }
+  ]
+}
