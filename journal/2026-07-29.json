@@ -1,0 +1,244 @@
+{
+  "date": "2026-07-29",
+  "breaths": [
+    {
+      "time": "00:14",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 1,
+      "want_source": "fallback-gift",
+      "presage": "Le veilleur porte dans l'œil un poids de nuit opaque, et l'étang ne rend que l'image du pays désert, ni passant ni présence nulle, seulement pierres et ombres qui se savent.",
+      "presage_en": "The watcher bears in his eye a weight of opaque night and the pond gives back only the image of the empty land, no traveller nor any presence, only stones and shadows that know themselves.",
+      "score": [
+        {
+          "note": 21,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 21,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 19,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 21,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 19,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 21,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 19,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 0,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 0,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 0,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 0,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 0,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 21,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 19,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 21,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 19,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 21,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 19,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 21,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 19,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 21,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 19,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 0,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 0,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 0,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 0,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 21,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 19,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 21,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 19,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 21,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 19,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 21,
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 0,
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 30
+        }
+      ],
+      "midi": "work/midi-2026-07-29T0014Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    }
+  ]
+}
