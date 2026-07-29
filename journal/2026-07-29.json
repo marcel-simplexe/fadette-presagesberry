@@ -5477,6 +5477,410 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "20:58",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 1,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "L'un des gens de la nuit a lâché la biche blanche au gué, là où l'eau dormante prend la couleur du lait dans la lueur du croissant.",
+      "presage_en": "one of the night folk set the white doe loose at the ford where the sleeping water takes the colour of milk in the crescent’s glow",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": 62,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 17.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 18.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 18.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 19.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 19.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 20.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 20.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 21.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 21.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 22.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 22.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 23.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 23.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 24.0,
+          "duration": 0.5,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-07-29T2058Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "20:58",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 1,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "Au vieux tournant du ciel, elle qui marche sur le gué a lâché la laveuse de nuit, et le puits s'est trouble une semaine durant.",
+      "presage_en": "At the old bend of the sky she who walks on the ford let go the night washer and the well grew dark for a week.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 0.2,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 0.4,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 0.6,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 0.8,
+          "duration": 0.5,
+          "force": 70
+        }
+      ],
+      "midi": "work/midi-2026-07-29T2058Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
