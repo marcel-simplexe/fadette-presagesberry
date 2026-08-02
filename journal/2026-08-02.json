@@ -1313,6 +1313,1650 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "10:00",
+      "night": false,
+      "phase": "waning",
+      "dark": true,
+      "notch": 0,
+      "want_source": "observed",
+      "nth": 1,
+      "of": 6,
+      "presage": "Un frôlement de nuque sur l'orée, le lupeux des roseaux veille en plein jour, et un pas tardif s'avance où nul être ne devrait revenir, l'ombre révélée à demi.",
+      "presage_en": "A brush of the neck at the edge of the wood, the rustle of reeds watches in full daylight, and a late step comes forward where no one should return, the shadow half shown.",
+      "score": [
+        {
+          "note": 65,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 17.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 18.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 18.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 19.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 19.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 20.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 20.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 21.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 21.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 22.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 22.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 23.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 23.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 24.0,
+          "duration": 0.5,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-02T1000Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "38%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    },
+    {
+      "time": "10:00",
+      "night": false,
+      "phase": "waning",
+      "dark": true,
+      "notch": 0,
+      "want_source": "observed",
+      "nth": 2,
+      "of": 6,
+      "presage": "Lorsque le souffle glisse sur les meules, les laveuses blanches tournent au gué tandis que le veau de la nuit avance, ombre qui appelle les chiens aux crocs d'ambre, et la Grand'Bête, debout dans l'eau dormante, fait trembler le lit des pierres muettes qui voient.",
+      "presage_en": "When the breath slides over the millstones the white washerwomen turn at the ford while the night’s calf advances, a shadow that calls the amber‑tusked hounds, and the Grand Beast, standing in the sleeping water, makes the silent stones tremble that see.",
+      "score": [
+        {
+          "note": 21,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 21,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 20,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 19,
+          "start": 1.5,
+          "duration": 0.4,
+          "force": 85
+        },
+        {
+          "note": 21,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 21,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 19,
+          "start": 3.0,
+          "duration": 0.4,
+          "force": 90
+        },
+        {
+          "note": 21,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 18,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 21,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 19,
+          "start": 5.0,
+          "duration": 0.4,
+          "force": 90
+        },
+        {
+          "note": 21,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 18,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 21,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 19,
+          "start": 7.0,
+          "duration": 0.4,
+          "force": 85
+        },
+        {
+          "note": 21,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 18,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 21,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 19,
+          "start": 9.0,
+          "duration": 0.4,
+          "force": 85
+        },
+        {
+          "note": 21,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 18,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 21,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 19,
+          "start": 11.0,
+          "duration": 0.4,
+          "force": 85
+        },
+        {
+          "note": 21,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 18,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 21,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 19,
+          "start": 13.0,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 20,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 21,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 19,
+          "start": 14.5,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 20,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 21,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 18,
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 20,
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 21,
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 19,
+          "start": 17.5,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 21,
+          "start": 18.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 18,
+          "start": 18.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 21,
+          "start": 19.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 19,
+          "start": 19.5,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 20,
+          "start": 20.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 21,
+          "start": 20.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 18,
+          "start": 21.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 21,
+          "start": 21.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 19,
+          "start": 22.0,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 21,
+          "start": 22.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 18,
+          "start": 23.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 20,
+          "start": 23.5,
+          "duration": 0.5,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-02T1000Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "38%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    },
+    {
+      "time": "10:00",
+      "night": false,
+      "phase": "waning",
+      "dark": true,
+      "notch": 0,
+      "want_source": "observed",
+      "nth": 3,
+      "of": 6,
+      "presage": "Au bord du marais où l’eau garde le silence, une ombre rugit et se tisse, un louveteau d’ombre mène une meute sans nom, et l’enfant aux yeux grands ouvre la bouche comme si la terre répondait.",
+      "presage_en": "By the edge of the marsh where the water holds its breath an shadow roars and weaves itself a shadow cub leads a nameless pack and the child with wide eyes opens his mouth as if the earth answers.",
+      "score": [
+        {
+          "note": 28,
+          "start": 0.0,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 30,
+          "start": 0.4,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 28,
+          "start": 0.8,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 26,
+          "start": 1.2,
+          "duration": 0.3,
+          "force": 75
+        },
+        {
+          "note": 28,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 30,
+          "start": 2.0,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 28,
+          "start": 2.4,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 26,
+          "start": 2.8,
+          "duration": 0.3,
+          "force": 75
+        },
+        {
+          "note": 28,
+          "start": 3.1,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 30,
+          "start": 3.6,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 28,
+          "start": 4.0,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 26,
+          "start": 4.4,
+          "duration": 0.3,
+          "force": 75
+        },
+        {
+          "note": 28,
+          "start": 4.7,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 26,
+          "start": 5.2,
+          "duration": 0.3,
+          "force": 75
+        },
+        {
+          "note": 28,
+          "start": 5.5,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 30,
+          "start": 5.9,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 28,
+          "start": 6.3,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 30,
+          "start": 6.7,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 28,
+          "start": 7.1,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 30,
+          "start": 7.5,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 28,
+          "start": 7.9,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 26,
+          "start": 8.3,
+          "duration": 0.3,
+          "force": 75
+        },
+        {
+          "note": 28,
+          "start": 8.6,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 30,
+          "start": 9.1,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 28,
+          "start": 9.5,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 26,
+          "start": 9.9,
+          "duration": 0.3,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-02T1000Z-3.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "38%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    },
+    {
+      "time": "10:00",
+      "night": false,
+      "phase": "waning",
+      "dark": true,
+      "notch": 0,
+      "want_source": "observed",
+      "nth": 4,
+      "of": 6,
+      "presage": "Au passage du gué, les laveuses de nuit reculent, muettes comme une meute sous le meneu', tandis que la Grand'Bête foule l'air sans laisser de trace et que trois flambettes tremblent dans le lointain pour éclairer les morts qui reviennent.",
+      "presage_en": "At the ford the night washerwomen draw back mute as a pack beneath the meneu' while the Grand'Beast treads the air leaving no mark and three flickering lights tremble afar to light the dead who return",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 1.0,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 55,
+          "start": 1.8,
+          "duration": 0.6,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 2.4,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 2.8,
+          "duration": 0.7,
+          "force": 65
+        },
+        {
+          "note": 55,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 4.0,
+          "duration": 0.6,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 4.6,
+          "duration": 0.7,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 5.3,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 5.8,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 6.6,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 7.2,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 7.7,
+          "duration": 0.6,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 8.3,
+          "duration": 0.7,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 9.5,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 10.3,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 10.9,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 11.4,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 12.2,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 12.8,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 13.3,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 14.1,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 14.7,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 15.2,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 16.0,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 16.6,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 17.1,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 17.9,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 18.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 19.0,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 19.8,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 20.4,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 20.9,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 21.7,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 22.3,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 22.8,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 23.6,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 24.2,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 24.7,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 25.5,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 26.1,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 26.6,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 27.4,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 28.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 28.5,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 29.3,
+          "duration": 0.6,
+          "force": 70
+        }
+      ],
+      "midi": "work/midi-2026-08-02T1000Z-4.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "38%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    },
+    {
+      "time": "10:00",
+      "night": false,
+      "phase": "waning",
+      "dark": true,
+      "notch": 0,
+      "want_source": "observed",
+      "nth": 5,
+      "of": 6,
+      "presage": "Au gui où le silence s'installe, le lupeux des roseaux se dresse, ombre furtive parmi les fades, et la friche exhale un parfum de terre mouillée.",
+      "presage_en": "When stillness falls the reed‑bed’s hush, the lurking shape rises, a shadow swift among the fades, and the waste breathes the scent of damp earth.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 60,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 58,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 60,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 58,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 60,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 58,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 60,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 58,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 60,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 58,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 60,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 58,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 60,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 58,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 70
+        }
+      ],
+      "midi": "work/midi-2026-08-02T1000Z-5.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "38%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    },
+    {
+      "time": "10:00",
+      "night": false,
+      "phase": "waning",
+      "dark": true,
+      "notch": 0,
+      "want_source": "observed",
+      "nth": 6,
+      "of": 6,
+      "presage": "Le veilleur perçoit un souffle froid contre l’herbe et dans la brèche, seule ombre de la Grand'Bête qui rôde au plus haut du soleil. La soif du pays crie dans le blé muet, tandis les laveuses s’enfuient déjà. Personne ne vient, car la nuit s’est repliée avant son heure.",
+      "presage_en": "the watcher feels a cold breath against the grass and through the break, only shadow of the Grand Beast that prowls at the height of the sun. the thirst of the land cries in the silent wheat, while the night washers flee already. no one comes, for the night has folded back before its hour.",
+      "score": [
+        {
+          "note": 65,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 67,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 65,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 64,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 67,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 65,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 63,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 65,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 67,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 65,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 62,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 65,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 67,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 65,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 62,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": 65,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 67,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 65,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 64,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 67,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 65,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 62,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 65,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 67,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 65,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 62,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": 65,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 67,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 65,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 62,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 65,
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 67,
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 65,
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 64,
+          "start": 17.5,
+          "duration": 0.5,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-02T1000Z-6.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "38%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
