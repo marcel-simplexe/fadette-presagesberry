@@ -1,0 +1,114 @@
+{
+  "date": "2026-08-01",
+  "breaths": [
+    {
+      "time": "20:02",
+      "night": true,
+      "phase": "waning",
+      "dark": false,
+      "notch": 0,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 1,
+      "presage": "À la première chandelle de la lunaison, la vieille a quitté son rouet dans l'entre chien et loup, et dit tout bas qu'il faudra guetter le ciel, nuit et jour, tout du long de cette lune. Dans les traînes et au bord des mares, les fades ont allumé leurs petits feux pour tenir le compte des clartés qui viendront à manquer, et le grelet même s'est tu dans les chaumes pour mieux écouter. Que le veilleur ne dorme que d'un œil : ce qui se retire de là-haut demande toujours son dû ici-bas.",
+      "presage_en": "At the first candle of the moon's month, the old woman left her wheel in the hour between dog and wolf, and said very low that the sky must be watched, night and day, the whole of this moon. In the hollow lanes and along the ponds, the fades have lit their small fires to keep the count of the lights that will come to fail, and the grelet itself has gone quiet in the stubble, the better to listen. Let the watcher sleep with one eye open: what withdraws above always claims its due below.",
+      "score": [
+        {
+          "note": 57,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 62
+        },
+        {
+          "note": 60,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 66
+        },
+        {
+          "note": 64,
+          "start": 1.0,
+          "duration": 0.75,
+          "force": 72
+        },
+        {
+          "note": 64,
+          "start": 1.75,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 65,
+          "start": 2.25,
+          "duration": 0.75,
+          "force": 74
+        },
+        {
+          "note": 64,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 66
+        },
+        {
+          "note": 62,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 64,
+          "start": 4.0,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 58
+        },
+        {
+          "note": 57,
+          "start": 5.5,
+          "duration": 0.75,
+          "force": 56
+        },
+        {
+          "note": 55,
+          "start": 6.25,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 57,
+          "start": 6.75,
+          "duration": 1.25,
+          "force": 52
+        }
+      ],
+      "midi": "work/midi-2026-08-01T2002Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "90%",
+          "the moon's lamp is nearly whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to loosen and to let go"
+        ]
+      ]
+    }
+  ]
+}
