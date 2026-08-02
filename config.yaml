@@ -15,8 +15,8 @@ place:
   longitude: 2.394161
 
 window:
-  birth: "2026-07-15"       # L'ESSAI. La vraie vie de l'oeuvre est le 1er-31 aout :
-  death: "2026-07-31"       # `python tools/rearm.py --open` la lui rendra. Le 31 : le finale.
+  birth: "2026-08-01"       # L'OEUVRE. Sa fenetre de vie. On n'y touche plus.
+  death: "2026-08-31"       # Le 31, au souffle de 23h30 UTC : le finale, puis le silence.
 
 # ----------------------------------------------------------------- the tempo
 #  The scribe speaks when the sky moves him. Each breath (the cron heartbeat) the
