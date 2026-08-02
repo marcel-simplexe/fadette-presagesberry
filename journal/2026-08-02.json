@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-02",
+  "breaths": [
+    {
+      "time": "13:27",
+      "night": false,
+      "phase": "waning",
+      "dark": false,
+      "notch": 0,
+      "want_source": "observed",
+      "presage": "Sur la lisière s'ouvre un chant d'eau qui n'est pas celle-ci, et le frôlement aux tempes répond du gué secret où les laveuses de nuit tiennent l'étoffe au flot, sans regard tourné vers l'aube.",
+      "presage_en": "On the edge a water song rises that is not of here, and the brush at the temples answers the hidden ford where the night laundresses hold the cloth in the stream, eyes turned away from dawn.",
+      "score": [
+        {
+          "note": 62,
+          "start": 0.0,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 0.4,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 59,
+          "start": 0.8,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 1.2,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 59,
+          "start": 1.6,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 2.0,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 2.4,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 2.8,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 59,
+          "start": 3.2,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 3.6,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 4.0,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 4.4,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 59,
+          "start": 4.8,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 5.2,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 5.6,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 6.0,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 6.4,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 6.8,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 57,
+          "start": 7.2,
+          "duration": 0.4,
+          "force": 55
+        },
+        {
+          "note": 62,
+          "start": 7.6,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 59,
+          "start": 8.0,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 8.4,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 8.8,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": 60,
+          "start": 9.2,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 9.6,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 10.0,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 10.4,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 57,
+          "start": 10.8,
+          "duration": 0.4,
+          "force": 45
+        }
+      ],
+      "midi": "work/midi-2026-08-02T1327Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    }
+  ]
+}
