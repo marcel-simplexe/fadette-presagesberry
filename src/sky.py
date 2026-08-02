@@ -14,7 +14,19 @@ the archive — but the lens itself receives only a state, never a date.
 """
 from __future__ import annotations
 import datetime as dt
+import math as _math
 from . import feeds, ephemeris, gift
+
+# THE CLEAR-SKY YARDSTICK. What the national grid's solar fleet gives when nothing
+# stands between it and the sun. It follows the sine of the sun's height -- a panel
+# takes the light it is shown, not the degrees it is given -- and it is bounded by
+# what the country actually holds: a fleet of some 26 GW installed never delivers
+# more than ~18 GW at the height of a summer noon. A yardstick above that ceiling
+# would read every cloudless noon as a failing sun, which is exactly what the first
+# trial did: 21 omens a day where the doctrine promises two to four, and three days
+# in four marked for a want of light that never happened. The eclipse must stand
+# alone; so the measure of an ordinary day must be honest.
+_PV_PEAK_MW = 18000.0
 
 
 def _safe(fn, *a):
@@ -109,9 +121,13 @@ def _observed_want(eph: dict, day_light, night_light, berry=None):
     hand back to the computed net (gift), which is blind to weather. An eclipse on a
     clear day still triggers; a storm no longer counterfeits one."""
     covered = _is_covered(berry)
-    if (eph["day"] and eph["sun_alt_deg"] > 8 and not covered
+    # Below ~15 degrees the fleet's real output falls under the plain sine -- panels at
+    # grazing incidence, long air, the horizon itself -- and an honest clear dawn could
+    # read as a failing sun. Under that height the computed net (gift) carries alone; it
+    # is blind to weather and it is the path that catches the low-sun eclipse anyway.
+    if (eph["day"] and eph["sun_alt_deg"] > 15 and not covered
             and day_light and day_light.get("national_mw") is not None):
-        expected = max(1.0, eph["sun_alt_deg"] * 700.0)   # MW, order of magnitude
+        expected = max(1.0, _PV_PEAK_MW * _math.sin(_math.radians(eph["sun_alt_deg"])))
         miss = 1.0 - min(1.0, day_light["national_mw"] / expected)
         # a clear sky that still loses most of its light is the only observed eclipse
         if miss >= 0.5:

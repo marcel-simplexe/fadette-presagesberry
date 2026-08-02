@@ -36,6 +36,42 @@ _MARKS_TEXT = ("trois phrases", "3 phrases", "pas de titre", "pas de date",
                "ne decris pas", "ne décris pas", "au plus", "finis", "dis ", "lis ", "vois")
 _MARKS_AIR = ("json", "note", "start", "duration", "force")
 
+# The ENGLISH lens has its own tongue; it is judged in it. These marks are what any
+# faithful translation of the seed instructions carries, and what a rotted candidate
+# (an omen, a bare score) does not.
+_MARKS_TEXT_EN = ("sentence", "vision", "omen", "never", "read", "say", "short", "sand")
+_MARKS_AIR_EN = ("json", "note")
+
+
+def _is_instruction_en(cand: str, seed: str) -> bool:
+    """True if the English candidate still reads like an ORDER, not a finished omen."""
+    c = _norm(cand)
+    if len(c) < 80:
+        return False
+    if c.startswith("---") or "```" in c:
+        return False
+    if len(cand) > 1.8 * max(1, len(seed)):
+        return False
+    if sum(1 for m in _MARKS_TEXT_EN if m in c) < 2:
+        return False
+    return True
+
+
+def _is_air_contract_en(cand: str, seed: str) -> bool:
+    """True if the English candidate still DEMANDS a JSON score rather than being one."""
+    c = _norm(cand)
+    if len(c) < 80:
+        return False
+    if c.startswith("---") or "```" in c:
+        return False
+    if len(cand) > 1.8 * max(1, len(seed)):
+        return False
+    if not all(m in c for m in _MARKS_AIR_EN):
+        return False
+    if len(re.findall(r'"note"', c)) > 2:               # it became a melody, not a form
+        return False
+    return True
+
 
 def _norm(s: str) -> str:
     return (s or "").strip().lower()
@@ -129,7 +165,12 @@ def one_notch(conf: dict, date: str | None = None) -> dict:
         moved = True
 
     if not moved:
+        # A REFUSED NOTCH MUST STILL LEAVE A MARK. Until now a refusal wrote nothing at
+        # all, and the trial paid for it: seventeen days lived, one drift file, and no
+        # way afterwards to tell a guarded refusal from a workflow that never ran. The
+        # dated snapshot is written; the LIVING lens (history/lens.json) is not touched.
         print("drift: the lens did not move today.")
+        _note_refusal(cur, date)
         return cur
 
     new["notch"] = cur.get("notch", 0) + 1
@@ -144,5 +185,39 @@ def one_notch(conf: dict, date: str | None = None) -> dict:
     except Exception:
         pass
 
+    # THE ENGLISH SIDE IS A LENS TOO, AND IT IS SHOWN. The trial ended with an English
+    # gaze that had become an omen and an English air that had become a bare JSON score,
+    # fences and all -- displayed, both of them, on the eye's page. The guard that keeps
+    # the French from rotting is owed to the English -- but in ENGLISH: the French
+    # markers ("trois phrases", "pas de date") never survive translation, and judging a
+    # translation by them would freeze the English side at its seed forever. A
+    # translation that has stopped being an instruction is not shown; it is returned to
+    # its seed. When no English seed exists, nothing is judged and nothing is touched.
+    if p.get("presage_en") and not _is_instruction_en(new.get("text_en", ""), p["presage_en"]):
+        print("drift: the English gaze was no longer an instruction — restored to its seed.")
+        new["text_en"] = p["presage_en"]
+    if p.get("air_en") and not _is_air_contract_en(new.get("score_en", ""), p["air_en"]):
+        print("drift: the English air lost the JSON contract — restored to its seed.")
+        new["score_en"] = p["air_en"]
+
     memory.write_lens(new, date)
     return new
+
+
+def _note_refusal(cur: dict, date: str | None) -> None:
+    """Write a dated note for a day on which no notch was taken. It is a .txt, NOT a
+    .json: the eye's page lists every history/drift/*.json as a notch of the lens, and
+    a refusal is not a notch -- thirty identical pseudo-notches would bury the real
+    ones. The note keeps the archive honest without touching the display, and the
+    living lens is left exactly as it stands."""
+    import json, os
+    note = dict(cur)
+    note["moved"] = False
+    note["noted_utc"] = dt.datetime.now(dt.timezone.utc).isoformat(timespec="minutes")
+    try:
+        os.makedirs(memory.DRIFT, exist_ok=True)
+        path = os.path.join(memory.DRIFT, "%s-refus.txt" % (date or memory.today()))
+        with open(path, "w", encoding="utf-8") as f:
+            json.dump(note, f, ensure_ascii=False, indent=2)
+    except Exception as e:
+        print("  drift: the refusal could not be noted (%s)." % e)

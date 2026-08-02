@@ -23,7 +23,13 @@ Infomaniak model (Apertus by default; swap to another in config.yaml).
 """
 from __future__ import annotations
 import os
+import re as _re
 from . import memory, infomaniak, lens
+
+# How much of the preceding movement the next one is shown. Enough to pick up the
+# thread -- a scene, a cadence, a name still warm -- and not so much that the voice
+# starts summarising what it has already said instead of going on.
+_TAIL = 1200
 
 # The country's night-people, and the words by which they show in the omens.
 _BEINGS = [
@@ -95,11 +101,29 @@ def write_novella(conf: dict) -> str:
     tmpl = fp.get("movement", "Write MOVEMENT {n} of {total} of this nouvelle, in full, "
         "finished prose, never a summary, in George Sand's voice. --- frame --- {frame} "
         "--- written so far --- {written}")
+    # THE STUTTER, found in the trial: handing the WHOLE frame to every movement made
+    # the voice recite it. The first line of the plan opened seven of the nine
+    # movements, word for word, and the tale began again where it should have gone on.
+    # A plan is a thing to walk, not a thing to read aloud. So each movement is given
+    # its OWN line -- named as a step to take, never as a sentence to copy -- and only
+    # the TAIL of what precedes, which is all a writer needs to pick the thread back up.
+    # The frame is asked for as one numbered line per movement; the cut honours the
+    # numbers when they are there, and falls back to bare lines when they are not. A
+    # movement past the last step is simply told to carry the arc on.
+    marks = _re.split(r"\n(?=\s*\d+[.)]\s)", frame or "")
+    steps = [s.strip() for s in marks if s.strip()]
+    if len(steps) < 2:
+        steps = [s.strip() for s in (frame or "").splitlines() if s.strip()]
     movements = []
     for i in range(1, n_mv + 1):
-        written = "\n\n".join(movements) if movements else "(the beginning)"
+        step = steps[i - 1] if i <= len(steps) else ""
+        step = _re.sub(r"^\s*\d+[.)]\s*", "", step)      # the bare step, without its number
+        here = ("Ce mouvement-ci doit accomplir CECI, sans jamais en recopier les mots : "
+                + step) if step else "Poursuis l'arc commencé."
+        tail = movements[-1][-_TAIL:] if movements else ""
+        written = ("…" + tail) if tail else "(le commencement)"
         sec = _voice(conf, sys,
-            tmpl.format(n=i, total=n_mv, frame=frame, written=written),
+            tmpl.format(n=i, total=n_mv, frame=here, written=written),
             max_tokens=mv_tokens, temperature=0.9)
         movements.append(sec.strip())
 

@@ -115,7 +115,14 @@ def main() -> int:
     if refine:
         if conf.get("lens", {}).get("drift", True):
             print("Refining the lens (one notch).")
-            drift.one_notch(conf)
+            # A missed notch is no harm; a missed FINALE is the end of the work. The
+            # nouvelle is written a few lines below, in this same block, and it is
+            # written once in the machine's life. Nothing that happens to the lens may
+            # stand between the last evening and its tale.
+            try:
+                drift.one_notch(conf)
+            except Exception as e:
+                print("  drift: failed (%s) -- the lens keeps its state." % e)
         else:
             print("Lens drift disabled; the prompt stays as written.")
         if today == death:
