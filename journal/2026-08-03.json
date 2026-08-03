@@ -1,0 +1,136 @@
+{
+  "date": "2026-08-03",
+  "breaths": [
+    {
+      "time": "01:03",
+      "night": true,
+      "phase": "waning",
+      "dark": false,
+      "notch": 0,
+      "want_source": "fallback-gift",
+      "presage": "Au bord du pré où l’eau dort, un souffle sans nom porte l’ombre du meneu’ de loups avant qu’un feu errant ne danse. La Grand’Bête se lève sans corps comme un songe mourant, et toute parole s’éteint comme la clarté d’une veilleuse. Ainsi le monde se tait sous le regard du veilleur.",
+      "presage_en": "By the water’s edge where the stream sleeps a nameless breath carries the shadow of the wolf leader before a wandering fire dances. The Grand’Bête rises without body like a dying dream and every word dies out like the light of a night lamp. Thus the world falls silent beneath the watcher’s eye.",
+      "score": [
+        {
+          "note": 52,
+          "start": 0.0,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 52,
+          "start": 0.4,
+          "duration": 0.8,
+          "force": 75
+        },
+        {
+          "note": 55,
+          "start": 1.2,
+          "duration": 0.3,
+          "force": 90
+        },
+        {
+          "note": 52,
+          "start": 1.5,
+          "duration": 0.6,
+          "force": 85
+        },
+        {
+          "note": 49,
+          "start": 2.1,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 0,
+          "start": 2.6,
+          "duration": 1.5,
+          "force": 50
+        },
+        {
+          "note": 52,
+          "start": 4.1,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 55,
+          "start": 4.5,
+          "duration": 0.3,
+          "force": 90
+        },
+        {
+          "note": 52,
+          "start": 4.8,
+          "duration": 0.7,
+          "force": 85
+        },
+        {
+          "note": 49,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 0,
+          "start": 6.0,
+          "duration": 1.2,
+          "force": 50
+        },
+        {
+          "note": 52,
+          "start": 7.2,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 55,
+          "start": 7.6,
+          "duration": 0.3,
+          "force": 90
+        },
+        {
+          "note": 52,
+          "start": 7.9,
+          "duration": 0.6,
+          "force": 85
+        },
+        {
+          "note": 49,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 0,
+          "start": 9.0,
+          "duration": 1.0,
+          "force": 50
+        }
+      ],
+      "midi": "work/midi-2026-08-03T0103Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    }
+  ]
+}
