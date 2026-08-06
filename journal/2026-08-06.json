@@ -1,0 +1,178 @@
+{
+  "date": "2026-08-06",
+  "breaths": [
+    {
+      "time": "02:47",
+      "night": true,
+      "phase": "waning",
+      "dark": false,
+      "notch": 2,
+      "want_source": "fallback-gift",
+      "presage": "La lune penche sur le pré comme un visage d’argent usé, dernier quartier qui comptabilise un retour. Un silence neuf tombe des arbres entre les pieux, où l’eau dorme à présent, et la nuit tient sa promesse. Seules les pierres debout racontent qu’ici la terre a fermé les yeux.",
+      "presage_en": "The moon leans over the meadow like a worn silver face, last quarter counting a return. A new silence falls from the trees between the posts, where the water now sleeps, and the night keeps its promise. Only the standing stones tell that here the earth has closed its eyes.",
+      "score": [
+        {
+          "note": 36,
+          "start": 0.0,
+          "duration": 0.4,
+          "force": 85
+        },
+        {
+          "note": 36,
+          "start": 0.4,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 35,
+          "start": 0.8,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": 37,
+          "start": 1.2,
+          "duration": 0.35,
+          "force": 90
+        },
+        {
+          "note": 35,
+          "start": 1.55,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": 34,
+          "start": 2.1,
+          "duration": 0.45,
+          "force": 45
+        },
+        {
+          "note": 36,
+          "start": 2.55,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 35,
+          "start": 2.95,
+          "duration": 0.45,
+          "force": 60
+        },
+        {
+          "note": 34,
+          "start": 3.4,
+          "duration": 0.4,
+          "force": 40
+        },
+        {
+          "note": 36,
+          "start": 3.8,
+          "duration": 0.45,
+          "force": 80
+        },
+        {
+          "note": 35,
+          "start": 4.25,
+          "duration": 0.4,
+          "force": 55
+        },
+        {
+          "note": 34,
+          "start": 4.65,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 36,
+          "start": 5.15,
+          "duration": 0.35,
+          "force": 70
+        },
+        {
+          "note": 32,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 32,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 25
+        },
+        {
+          "note": 31,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 32,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 31,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 25
+        },
+        {
+          "note": 30,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 15
+        },
+        {
+          "note": 30,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 10
+        },
+        {
+          "note": 29,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 5
+        },
+        {
+          "note": 29,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 5
+        },
+        {
+          "note": 28,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 0
+        }
+      ],
+      "midi": "work/midi-2026-08-06T0247Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    }
+  ]
+}
