@@ -173,6 +173,179 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "06:33",
+      "night": false,
+      "phase": "waning",
+      "dark": false,
+      "notch": 2,
+      "want_source": "observed",
+      "presage": "Dans l'encre du silence nocturne, une ombre s'avance, sans mesure ni nombre, portant la mémoire d'un temps enfoui. Au bord de l'eau dormante, les laveuses battent leur linge dans un murmure qui n'est audible que pour ceux qui savent écouter l'absence. Lorsque l'un des gens de la nuit passe, les yeux clos se détournent doucement, abrités dans l'obscurité de ce qui demeure toujours indéfiniment.",
+      "presage_en": "In the ink of the night’s hush a shape moves, neither counted nor measured, bearing the memory of a buried time. By the sleeping water the washerwomen beat their linen in a murmur that only those who know how to listen to the absence can hear. When one of the night’s folk passes, closed eyes turn away softly, sheltered in the darkness of what stays always indefinitely.",
+      "score": [
+        {
+          "note": 55,
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": 55,
+          "start": 1.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": 52,
+          "start": 2.0,
+          "duration": 1.0,
+          "force": 75
+        },
+        {
+          "note": 52,
+          "start": 3.0,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 4.0,
+          "duration": 0.8,
+          "force": 85
+        },
+        {
+          "note": 55,
+          "start": 4.8,
+          "duration": 0.7,
+          "force": 80
+        },
+        {
+          "note": 52,
+          "start": 5.5,
+          "duration": 1.0,
+          "force": 75
+        },
+        {
+          "note": 48,
+          "start": 6.5,
+          "duration": 1.2,
+          "force": 65
+        },
+        {
+          "note": 48,
+          "start": 7.7,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": 50,
+          "start": 8.7,
+          "duration": 0.8,
+          "force": 70
+        },
+        {
+          "note": 48,
+          "start": 9.5,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": 45,
+          "start": 10.5,
+          "duration": 1.2,
+          "force": 55
+        },
+        {
+          "note": 45,
+          "start": 11.7,
+          "duration": 1.0,
+          "force": 55
+        },
+        {
+          "note": 50,
+          "start": 12.7,
+          "duration": 0.8,
+          "force": 70
+        },
+        {
+          "note": 50,
+          "start": 13.5,
+          "duration": 0.7,
+          "force": 70
+        },
+        {
+          "note": 52,
+          "start": 14.2,
+          "duration": 1.0,
+          "force": 75
+        },
+        {
+          "note": 52,
+          "start": 15.2,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": 48,
+          "start": 16.2,
+          "duration": 1.2,
+          "force": 65
+        },
+        {
+          "note": 48,
+          "start": 17.4,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": 50,
+          "start": 18.4,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": 50,
+          "start": 19.4,
+          "duration": 0.8,
+          "force": 70
+        },
+        {
+          "note": 48,
+          "start": 20.2,
+          "duration": 1.2,
+          "force": 65
+        },
+        {
+          "note": 45,
+          "start": 21.4,
+          "duration": 1.0,
+          "force": 55
+        }
+      ],
+      "midi": "work/midi-2026-08-06T0633Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
