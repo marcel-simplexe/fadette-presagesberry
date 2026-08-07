@@ -323,6 +323,125 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "19:00",
+      "night": false,
+      "phase": "waning",
+      "dark": false,
+      "notch": 2,
+      "want_source": "fallback-gift",
+      "presage": "La lune vieille s'écline à l'heure où le veilleur de Laisnel voit venir les esprits sur le gué, là où les fades battent l'eau et le vent pousse un soupir froid sur les blés dressés. Au coude du ruisseau, un refus se marque dans l'air, comme un chien qui ne passe plus ; l'ombre avance, muette et blanche, sans ombre portée sur la terre rouge au bord du jour. L'eau du puits trouble, sans cause, et l'heure noire garde son secret sans chiffre ni mesure.",
+      "presage_en": "the old moon slips at the hour when the watcher of Laisnel sees the spirits come on the ford where the fades beat the water and the wind sends a cold sigh over the standing wheat. at the bend of the stream a refusal marks the air like a dog that no longer passes; the shadow moves forward, mute and white, without a shadow cast on the red earth at the edge of day. the well water grows cloudy, without cause, and the black hour keeps its secret without number or measure.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.4,
+          "force": 85
+        },
+        {
+          "note": 62,
+          "start": 0.4,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 60,
+          "start": 0.8,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 1.2,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 1.6,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 2.0,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 2.4,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 2.8,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 3.2,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 3.6,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 4.0,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 4.4,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 4.8,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 5.2,
+          "duration": 0.4,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-07T1900Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
