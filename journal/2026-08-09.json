@@ -1484,6 +1484,239 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "10:37",
+      "night": false,
+      "phase": "waning",
+      "dark": false,
+      "notch": 4,
+      "want_source": "observed",
+      "presage": "Au plus sombre du croissant, les veilleurs entendent le fredonnement des pierres et le pas invisible des lavandières au gué. Deux lumières errantes tracent une ligne blonde sur l'eau dormante, et l'horizon ne montre aucune cause ni mesure. Le seuil reçoit le sel, et l'ombre avance seule.",
+      "presage_en": "At the darkest of the crescent the watchers hear the humming of stones and the unseen step of the night washerwomen at the ford. Two wandering lights draw a pale line on the sleeping water, and the horizon shows no cause nor measure. The threshold takes the salt, and the shadow moves alone.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 60,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 60,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 57,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 60,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 57,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 60,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 57,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 5.0,
+          "duration": 3.0,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 60,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 57,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 57,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 60,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 57,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 60,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 60,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 57,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 60,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 57,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 60,
+          "start": 16.0,
+          "duration": 4.0,
+          "force": 40
+        },
+        {
+          "note": 57,
+          "start": 20.0,
+          "duration": 0.2,
+          "force": 40
+        },
+        {
+          "note": 60,
+          "start": 20.2,
+          "duration": 0.2,
+          "force": 40
+        },
+        {
+          "note": 60,
+          "start": 20.4,
+          "duration": 0.2,
+          "force": 40
+        },
+        {
+          "note": 60,
+          "start": 20.6,
+          "duration": 0.2,
+          "force": 40
+        },
+        {
+          "note": 57,
+          "start": 20.8,
+          "duration": 0.2,
+          "force": 40
+        }
+      ],
+      "midi": "work/midi-2026-08-09T1037Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
