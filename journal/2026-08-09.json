@@ -1950,6 +1950,149 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "14:36",
+      "night": false,
+      "phase": "waning",
+      "dark": false,
+      "notch": 4,
+      "want_source": "observed",
+      "presage": "Deux feux figés glissent sur l'eau endormie, sans étoile pour les guider ; le meneu' attend au tournant du chemin creux, le souffle des blés retenu, et la Grand'Bête avance sous les pierres invisibles, tandis le veilleur demeure seul.",
+      "presage_en": "Two fixed fires glide upon the sleeping water, no star to guide them; the meneu' waits at the bend of the hollow path, the breath of the wheat held back, and the Grand'Bête moves beneath the unseen stones, while the watcher stays alone.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 60,
+          "start": 0.75,
+          "duration": 0.6,
+          "force": 80
+        },
+        {
+          "note": 59,
+          "start": 1.5,
+          "duration": 0.7,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 2.4,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 0,
+          "start": 3.0,
+          "duration": 0.3,
+          "force": 20
+        },
+        {
+          "note": 59,
+          "start": 3.4,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 4.4,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 0,
+          "start": 5.2,
+          "duration": 0.4,
+          "force": 10
+        },
+        {
+          "note": 59,
+          "start": 5.8,
+          "duration": 0.9,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 6.9,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 0,
+          "start": 7.7,
+          "duration": 0.5,
+          "force": 15
+        },
+        {
+          "note": 59,
+          "start": 8.4,
+          "duration": 1.0,
+          "force": 55
+        },
+        {
+          "note": 60,
+          "start": 9.6,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 0,
+          "start": 10.2,
+          "duration": 0.4,
+          "force": 10
+        },
+        {
+          "note": 59,
+          "start": 10.8,
+          "duration": 0.8,
+          "force": 60
+        },
+        {
+          "note": 0,
+          "start": 11.8,
+          "duration": 0.3,
+          "force": 5
+        },
+        {
+          "note": 60,
+          "start": 12.2,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 0,
+          "start": 12.9,
+          "duration": 0.5,
+          "force": 10
+        }
+      ],
+      "midi": "work/midi-2026-08-09T1436Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
