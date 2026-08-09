@@ -329,6 +329,374 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "03:46",
+      "night": true,
+      "phase": "waning",
+      "dark": false,
+      "notch": 4,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La vieille lune s’use en silence, un croissant défait tandis que l’ombre compte trois formes invisibles qui se déplacent dans le couchant. Un frisson parcourt les chaumes, puis une pluie fine tombe sans vent, et le ciel reste d’airain, pur comme un miroir où l’on ne voit que le reflet des étoiles pâles. Sur le bord du village, les laveuses de nuit battent au gué, et au seuil repose un chien sans vie.",
+      "presage_en": "The old moon wears away in silence, a crescent unraveling while the shadow counts three unseen shapes that move in the west. A shiver runs through the stubble, then a fine rain falls without wind, and the sky stays like hammered bronze, pure as a mirror where only the pale stars’ reflection shows. At the village edge the night washerwomen beat at the ford, and on the threshold lies a dog without breath.",
+      "score": [
+        {
+          "note": 36,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 35,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 36,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 35,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 36,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 35,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 36,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 35,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 36,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 35,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 36,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 35,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 36,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 35,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 36,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": 35,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": 36,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 35,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 36,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 35,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 36,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 35,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 36,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 35,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 36,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 35,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 36,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 25
+        },
+        {
+          "note": 35,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 25
+        },
+        {
+          "note": 36,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 35,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 36,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 15
+        },
+        {
+          "note": 35,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 15
+        },
+        {
+          "note": 36,
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 10
+        }
+      ],
+      "midi": "work/midi-2026-08-09T0346Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    },
+    {
+      "time": "03:46",
+      "night": true,
+      "phase": "waning",
+      "dark": false,
+      "notch": 4,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "Les hautes herbes vibrent sous un vent qui ne souffle pas, et le visage du veilleur se glace comme un flot d'eau trouble. Le silence est rompu par le bruit sourd d'une meute invisible aux bords du champ, la terre résonne sous un poids insaisissable. Trois feux morts effleurent l'horizon, un chant de pierre murmure là où dort le vieux moulin.",
+      "presage_en": "the tall grasses tremble under a wind that does not blow and the watcher’s face turns cold as murky water three dead fires brush the edge of the world a stone’s song murmurs where the old mill sleeps",
+      "score": [
+        {
+          "note": 55,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 57,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 55,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 53,
+          "start": 1.5,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 57,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 55,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 53,
+          "start": 3.5,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 57,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 55,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 53,
+          "start": 5.5,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 57,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 55,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 53,
+          "start": 7.5,
+          "duration": 0.4,
+          "force": 70
+        }
+      ],
+      "midi": "work/midi-2026-08-09T0346Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
