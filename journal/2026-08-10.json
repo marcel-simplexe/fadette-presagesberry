@@ -1131,6 +1131,209 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "15:01",
+      "night": false,
+      "phase": "waning",
+      "dark": false,
+      "notch": 5,
+      "want_source": "observed",
+      "presage": "Les étoiles n’ont point de nombre et nomment l’invisible qui vient. L’ombre s’allonge, un esprit passe, et l’étang parle de ce qui dort. Ainsi le signe persiste, comme une odeur d’eau et de pourriture, sans retour.",
+      "presage_en": "The stars have no number and name the unseen that comes. The shadow lengthens, a spirit passes, and the pond speaks of what sleeps. So the sign persists, like a scent of water and rot, with no return.",
+      "score": [
+        {
+          "note": 48,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 48,
+          "start": 0.5,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 45,
+          "start": 1.3,
+          "duration": 0.6,
+          "force": 50
+        },
+        {
+          "note": 48,
+          "start": 2.0,
+          "duration": 0.7,
+          "force": 75
+        },
+        {
+          "note": 48,
+          "start": 2.7,
+          "duration": 0.9,
+          "force": 60
+        },
+        {
+          "note": 45,
+          "start": 3.6,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 48,
+          "start": 4.1,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": 45,
+          "start": 4.7,
+          "duration": 0.7,
+          "force": 55
+        },
+        {
+          "note": 48,
+          "start": 5.4,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": 45,
+          "start": 6.4,
+          "duration": 0.6,
+          "force": 40
+        },
+        {
+          "note": 48,
+          "start": 7.0,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 42,
+          "start": 7.8,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 45,
+          "start": 8.3,
+          "duration": 0.7,
+          "force": 45
+        },
+        {
+          "note": 48,
+          "start": 9.0,
+          "duration": 0.9,
+          "force": 75
+        },
+        {
+          "note": 45,
+          "start": 9.9,
+          "duration": 0.6,
+          "force": 50
+        },
+        {
+          "note": 48,
+          "start": 10.5,
+          "duration": 0.7,
+          "force": 70
+        },
+        {
+          "note": 45,
+          "start": 11.2,
+          "duration": 0.8,
+          "force": 55
+        },
+        {
+          "note": 48,
+          "start": 12.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": 45,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 42,
+          "start": 13.5,
+          "duration": 0.6,
+          "force": 30
+        },
+        {
+          "note": 45,
+          "start": 14.1,
+          "duration": 0.7,
+          "force": 45
+        },
+        {
+          "note": 48,
+          "start": 14.8,
+          "duration": 0.9,
+          "force": 75
+        },
+        {
+          "note": 45,
+          "start": 15.7,
+          "duration": 0.6,
+          "force": 50
+        },
+        {
+          "note": 48,
+          "start": 16.3,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": 42,
+          "start": 17.1,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 45,
+          "start": 17.6,
+          "duration": 0.7,
+          "force": 45
+        },
+        {
+          "note": 48,
+          "start": 18.3,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": 0,
+          "start": 19.3,
+          "duration": 0.5,
+          "force": 0
+        }
+      ],
+      "midi": "work/midi-2026-08-10T1501Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
