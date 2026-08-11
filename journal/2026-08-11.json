@@ -1,0 +1,124 @@
+{
+  "date": "2026-08-11",
+  "breaths": [
+    {
+      "time": "03:49",
+      "night": true,
+      "phase": "dark",
+      "dark": false,
+      "notch": 6,
+      "want_source": "fallback-gift",
+      "presage": "Les feux errants dansent sur l'eau dormante, comptés deux, sans même une pierre jetée. Là où le veilleur voit pour la première fois un être entrevu, disparaisse aussitôt après.",
+      "presage_en": "The wandering lights dance on the sleeping water, counted two, not a stone thrown. Where the watcher first sees a form glimpsed, it vanishes right away.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 0.4,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 1.2,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 58,
+          "start": 1.6,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 0,
+          "start": 2.1,
+          "duration": 1.0,
+          "force": 30
+        },
+        {
+          "note": 61,
+          "start": 3.1,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 3.5,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 58,
+          "start": 3.9,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": 0,
+          "start": 4.4,
+          "duration": 0.7,
+          "force": 20
+        },
+        {
+          "note": 60,
+          "start": 5.1,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 5.5,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 5.9,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 58,
+          "start": 6.3,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": 0,
+          "start": 6.8,
+          "duration": 1.0,
+          "force": 25
+        }
+      ],
+      "midi": "work/midi-2026-08-11T0349Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "dark",
+          "swear nothing, sow nothing"
+        ]
+      ]
+    }
+  ]
+}
