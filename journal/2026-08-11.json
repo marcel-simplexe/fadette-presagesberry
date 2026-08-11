@@ -1247,6 +1247,646 @@
           "swear nothing, sow nothing"
         ]
       ]
+    },
+    {
+      "time": "19:05",
+      "night": false,
+      "phase": "dark",
+      "dark": false,
+      "notch": 6,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "L’air se remplit de présences invisibles aux yeux éveillés, et les pierres se souviennent, parlant bas aux oreilles de la terre. Un souffle glacé passe, comme si le vent portait la mémoire des sources bourbeuses qui coulent sous les champs. Alors, les vies d’autrefois se lèvent du sol, silhouettes blanches, et guident celui qui erre vers le chemin du retour perdu.",
+      "presage_en": "the air fills with unseen presences to the waking eye, and the stones remember, speaking low to the earth’s ears. a cold breath passes, as if the wind carries the memory of the muddy springs that flow under the fields. then, lives of other times rise from the ground, white shapes, and guide he who wanders toward the lost way home.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 61,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 61,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 61,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 61,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 61,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 61,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 61,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 61,
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 17.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 61,
+          "start": 18.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 18.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 19.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 19.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 61,
+          "start": 20.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 20.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 21.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 21.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 22.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 22.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 61,
+          "start": 23.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 23.5,
+          "duration": 0.5,
+          "force": 65
+        }
+      ],
+      "midi": "work/midi-2026-08-11T1905Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "dark",
+          "swear nothing, sow nothing"
+        ]
+      ]
+    },
+    {
+      "time": "19:05",
+      "night": false,
+      "phase": "dark",
+      "dark": false,
+      "notch": 6,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "L'ombre se dresse, drapée d'un voile de brume, et le sol tremble sous ses pas silencieux. Un souffle froid traverse le pré, arrachant un dernier murmure aux branches, tandis que les pierres semblent se lever, gardiennes d'un secret enfoui. La barrière s'est dressée où aucun passage n'existait, barrant le chemin de tous ceux qui cherchent encore la lueur perdue.",
+      "presage_en": "The shadow rises, wrapped in a veil of mist, and the ground trembles beneath its quiet tread. A cold breath sweeps across the meadow, snatching a last whisper from the branches, while the stones seem to lift, guardians of a buried secret. The fence has risen where no path existed, blocking the way of all who still seek the lost glimmer.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.45,
+          "force": 85
+        },
+        {
+          "note": 62,
+          "start": 0.45,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 57,
+          "start": 0.85,
+          "duration": 0.35,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 1.2,
+          "duration": 0.45,
+          "force": 80
+        },
+        {
+          "note": 59,
+          "start": 1.65,
+          "duration": 0.35,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 2.0,
+          "duration": 0.4,
+          "force": 85
+        },
+        {
+          "note": 62,
+          "start": 2.4,
+          "duration": 0.35,
+          "force": 75
+        },
+        {
+          "note": 57,
+          "start": 2.75,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 3.05,
+          "duration": 0.45,
+          "force": 80
+        },
+        {
+          "note": 59,
+          "start": 3.5,
+          "duration": 0.35,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 3.85,
+          "duration": 0.4,
+          "force": 85
+        },
+        {
+          "note": 57,
+          "start": 4.25,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 4.55,
+          "duration": 0.45,
+          "force": 80
+        },
+        {
+          "note": 59,
+          "start": 5.0,
+          "duration": 0.35,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 5.35,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 57,
+          "start": 5.75,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 6.05,
+          "duration": 0.45,
+          "force": 85
+        },
+        {
+          "note": 59,
+          "start": 6.5,
+          "duration": 0.35,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 6.85,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 57,
+          "start": 7.25,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 7.55,
+          "duration": 0.45,
+          "force": 85
+        },
+        {
+          "note": 59,
+          "start": 8.0,
+          "duration": 0.35,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 8.35,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 57,
+          "start": 8.75,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 9.05,
+          "duration": 0.45,
+          "force": 85
+        },
+        {
+          "note": 59,
+          "start": 9.5,
+          "duration": 0.35,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 9.85,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 57,
+          "start": 10.25,
+          "duration": 0.3,
+          "force": 55
+        },
+        {
+          "note": 60,
+          "start": 10.55,
+          "duration": 0.45,
+          "force": 80
+        },
+        {
+          "note": 59,
+          "start": 11.0,
+          "duration": 0.35,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 11.35,
+          "duration": 0.3,
+          "force": 50
+        },
+        {
+          "note": 60,
+          "start": 11.65,
+          "duration": 0.45,
+          "force": 75
+        },
+        {
+          "note": 57,
+          "start": 12.1,
+          "duration": 0.3,
+          "force": 45
+        },
+        {
+          "note": 60,
+          "start": 12.4,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 59,
+          "start": 12.8,
+          "duration": 0.35,
+          "force": 55
+        },
+        {
+          "note": 60,
+          "start": 13.15,
+          "duration": 0.45,
+          "force": 80
+        },
+        {
+          "note": 57,
+          "start": 13.6,
+          "duration": 0.3,
+          "force": 45
+        },
+        {
+          "note": 60,
+          "start": 13.9,
+          "duration": 0.45,
+          "force": 85
+        },
+        {
+          "note": 59,
+          "start": 14.35,
+          "duration": 0.35,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 14.7,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 57,
+          "start": 15.1,
+          "duration": 0.3,
+          "force": 50
+        },
+        {
+          "note": 60,
+          "start": 15.4,
+          "duration": 0.45,
+          "force": 85
+        },
+        {
+          "note": 59,
+          "start": 15.85,
+          "duration": 0.35,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 16.2,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 57,
+          "start": 16.6,
+          "duration": 0.3,
+          "force": 55
+        },
+        {
+          "note": 60,
+          "start": 16.9,
+          "duration": 0.45,
+          "force": 85
+        },
+        {
+          "note": 59,
+          "start": 17.35,
+          "duration": 0.35,
+          "force": 60
+        }
+      ],
+      "midi": "work/midi-2026-08-11T1905Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "dark",
+          "swear nothing, sow nothing"
+        ]
+      ]
     }
   ]
 }
