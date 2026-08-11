@@ -119,6 +119,179 @@
           "swear nothing, sow nothing"
         ]
       ]
+    },
+    {
+      "time": "05:11",
+      "night": false,
+      "phase": "dark",
+      "dark": false,
+      "notch": 6,
+      "want_source": "fallback-gift",
+      "presage": "Sous la lumière froide qui brûle le dernier grain d’ombre, deux silhouettes de pierre se lèvent au fond du pré, comme des veuves figées dans la pénombre. Entre elles, un feu minuscule tremble sans flamme, comptant les battements du vent dans le silence des fossés, tandis que le ciel, pur et sans mesure, ouvre son parchemin de nuit. Le souffle des blés murmure un secret ancien, et le pasteur reçoit l’appel à l’aube, sans forme apparente, seulement le poids du présage qui pèse sur la terre.",
+      "presage_en": "Under the cold light that burns the last grain of shadow two stone shapes rise at the back of the meadow, like widows frozen in the gloom. Between them a tiny fire trembles without flame, counting the wind’s beats in the ditches’ silence, while the sky, pure and boundless, unfurls its night parchment. The breath of the wheat whispers an ancient secret, and the shepherd receives the call at dawn, no visible form only the weight of the omen pressing on the earth.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 0.5,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 1.5,
+          "duration": 0.6,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 2.1,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": 57,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": 57,
+          "start": 3.0,
+          "duration": 0.4,
+          "force": 55
+        },
+        {
+          "note": 57,
+          "start": 3.4,
+          "duration": 0.6,
+          "force": 50
+        },
+        {
+          "note": 55,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 55,
+          "start": 4.5,
+          "duration": 0.4,
+          "force": 45
+        },
+        {
+          "note": 55,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 52,
+          "start": 5.5,
+          "duration": 0.6,
+          "force": 40
+        },
+        {
+          "note": 52,
+          "start": 6.1,
+          "duration": 0.4,
+          "force": 40
+        },
+        {
+          "note": 52,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 48,
+          "start": 7.0,
+          "duration": 0.6,
+          "force": 30
+        },
+        {
+          "note": 48,
+          "start": 7.6,
+          "duration": 0.4,
+          "force": 30
+        },
+        {
+          "note": 48,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 25
+        },
+        {
+          "note": 48,
+          "start": 8.5,
+          "duration": 0.6,
+          "force": 20
+        },
+        {
+          "note": 45,
+          "start": 9.1,
+          "duration": 0.4,
+          "force": 15
+        },
+        {
+          "note": 45,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 15
+        },
+        {
+          "note": 45,
+          "start": 10.0,
+          "duration": 0.6,
+          "force": 10
+        },
+        {
+          "note": 45,
+          "start": 10.6,
+          "duration": 0.4,
+          "force": 10
+        },
+        {
+          "note": 60,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 70
+        }
+      ],
+      "midi": "work/midi-2026-08-11T0511Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "dark",
+          "swear nothing, sow nothing"
+        ]
+      ]
     }
   ]
 }
