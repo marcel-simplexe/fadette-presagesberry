@@ -554,6 +554,143 @@
           "swear nothing, sow nothing"
         ]
       ]
+    },
+    {
+      "time": "13:11",
+      "night": false,
+      "phase": "dark",
+      "dark": false,
+      "notch": 6,
+      "want_source": "observed",
+      "presage": "Dans la nuit noire, la clarté s'évanouit et l'on compte trois feux errants sur l'eau ; au seuil du mur du cimetière, le souffle porte la biche blanche. Elle marche sans faire ombre, tandis qu'un voyageur tourne au détour que la terre n'a plus pour le recevoir. La chaleur retient le pays dans son étau, et nous restons, sans cause, devant ce qui demeure.",
+      "presage_en": "in the dark night the light slips away and three wandering fires are counted on the water; at the gate of the graveyard wall the breath carries the white doe. she walks without casting a shadow while a traveller turns at a bend the earth no longer holds. the heat keeps the land in its grip and we stand, without cause, before what remains.",
+      "score": [
+        {
+          "note": 55,
+          "start": 0.0,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 55,
+          "start": 0.4,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 52,
+          "start": 0.8,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 1.2,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 52,
+          "start": 1.6,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 2.1,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 52,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 55,
+          "start": 3.0,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 52,
+          "start": 3.4,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": 55,
+          "start": 3.8,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 52,
+          "start": 4.2,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": 55,
+          "start": 4.7,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 52,
+          "start": 5.1,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": 55,
+          "start": 5.5,
+          "duration": 0.4,
+          "force": 85
+        },
+        {
+          "note": 52,
+          "start": 5.9,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 55,
+          "start": 6.4,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 52,
+          "start": 6.8,
+          "duration": 0.5,
+          "force": 55
+        }
+      ],
+      "midi": "work/midi-2026-08-11T1311Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "dark",
+          "swear nothing, sow nothing"
+        ]
+      ]
     }
   ]
 }
