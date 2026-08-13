@@ -467,6 +467,203 @@
           "swear nothing, sow nothing"
         ]
       ]
+    },
+    {
+      "time": "11:01",
+      "night": false,
+      "phase": "dark",
+      "dark": false,
+      "notch": 6,
+      "want_source": "observed",
+      "presage": "Dans le noir lustré la lune accroche un chiffre ; le soleil immobile brûle au zénith et l’ombre s’évapore. Deux feux errants tracent sur l’eau la trace d’une perte. Au bord du gué un silence lourd rompt les chants des grenouilles.",
+      "presage_en": "in the polished dark the moon sets a mark; the sun stands still burning at the zenith and the shadow slips away. two wandering fires draw on the water the trace of a loss. at the ford’s edge a heavy hush breaks the frogs’ songs.",
+      "score": [
+        {
+          "note": 69,
+          "start": 0.0,
+          "duration": 0.25,
+          "force": 75
+        },
+        {
+          "note": 69,
+          "start": 0.25,
+          "duration": 0.25,
+          "force": 75
+        },
+        {
+          "note": 67,
+          "start": 0.5,
+          "duration": 0.25,
+          "force": 70
+        },
+        {
+          "note": 65,
+          "start": 0.75,
+          "duration": 0.25,
+          "force": 65
+        },
+        {
+          "note": 69,
+          "start": 1.0,
+          "duration": 0.25,
+          "force": 75
+        },
+        {
+          "note": 69,
+          "start": 1.25,
+          "duration": 0.25,
+          "force": 75
+        },
+        {
+          "note": 67,
+          "start": 1.5,
+          "duration": 0.25,
+          "force": 70
+        },
+        {
+          "note": 65,
+          "start": 1.75,
+          "duration": 0.25,
+          "force": 65
+        },
+        {
+          "note": 69,
+          "start": 2.0,
+          "duration": 0.25,
+          "force": 75
+        },
+        {
+          "note": 69,
+          "start": 2.25,
+          "duration": 0.25,
+          "force": 75
+        },
+        {
+          "note": 67,
+          "start": 2.5,
+          "duration": 0.25,
+          "force": 70
+        },
+        {
+          "note": 65,
+          "start": 2.75,
+          "duration": 0.25,
+          "force": 65
+        },
+        {
+          "note": 69,
+          "start": 3.0,
+          "duration": 0.25,
+          "force": 75
+        },
+        {
+          "note": 69,
+          "start": 3.25,
+          "duration": 0.25,
+          "force": 75
+        },
+        {
+          "note": 67,
+          "start": 3.5,
+          "duration": 0.25,
+          "force": 70
+        },
+        {
+          "note": 65,
+          "start": 3.75,
+          "duration": 0.25,
+          "force": 65
+        },
+        {
+          "note": 69,
+          "start": 4.0,
+          "duration": 0.25,
+          "force": 80
+        },
+        {
+          "note": 69,
+          "start": 4.25,
+          "duration": 0.25,
+          "force": 80
+        },
+        {
+          "note": 67,
+          "start": 4.5,
+          "duration": 0.25,
+          "force": 75
+        },
+        {
+          "note": 65,
+          "start": 4.75,
+          "duration": 0.25,
+          "force": 65
+        },
+        {
+          "note": 69,
+          "start": 5.0,
+          "duration": 0.25,
+          "force": 75
+        },
+        {
+          "note": 69,
+          "start": 5.25,
+          "duration": 0.25,
+          "force": 75
+        },
+        {
+          "note": 67,
+          "start": 5.5,
+          "duration": 0.25,
+          "force": 70
+        },
+        {
+          "note": 65,
+          "start": 5.75,
+          "duration": 0.25,
+          "force": 65
+        },
+        {
+          "note": 69,
+          "start": 6.0,
+          "duration": 0.25,
+          "force": 70
+        },
+        {
+          "note": 67,
+          "start": 6.25,
+          "duration": 0.25,
+          "force": 65
+        },
+        {
+          "note": 65,
+          "start": 6.5,
+          "duration": 0.25,
+          "force": 60
+        }
+      ],
+      "midi": "work/midi-2026-08-13T1101Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "dark",
+          "swear nothing, sow nothing"
+        ]
+      ]
     }
   ]
 }
