@@ -664,6 +664,245 @@
           "swear nothing, sow nothing"
         ]
       ]
+    },
+    {
+      "time": "13:17",
+      "night": false,
+      "phase": "dark",
+      "dark": false,
+      "notch": 6,
+      "want_source": "observed",
+      "presage": "La nuit exhale ses signes en silence, où deux feux se répondent sur l’eau et le chêne murmure aux laveuses. Au ras du mur du cimetière, une lueur basse invite la meute du meneu’ à passer, portant l’odeur de la terre mouillée. Le pain restera souple, nul souffle ne formera sa main pour l’élever demain.",
+      "presage_en": "The night breathes out its signs in silence, where two fires answer across the water and the oak whispers to the night‑washer women. Low along the cemetery wall, a dim glow beckons the meneu’s pack to cross, bearing the scent of wet earth. Bread stays soft, no breath forms a hand to lift it tomorrow.",
+      "score": [
+        {
+          "note": 62,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 64,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 62,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 62,
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 65
+        }
+      ],
+      "midi": "work/midi-2026-08-13T1317Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "dark",
+          "swear nothing, sow nothing"
+        ]
+      ]
     }
   ]
 }
