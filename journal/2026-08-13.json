@@ -161,6 +161,281 @@
           "swear nothing, sow nothing"
         ]
       ]
+    },
+    {
+      "time": "07:38",
+      "night": false,
+      "phase": "dark",
+      "dark": false,
+      "notch": 6,
+      "want_source": "observed",
+      "presage": "La nuit déroule son tapis d’étoiles où chaque chiffre est un secret, chaque ombre porte un nom ancien. Trois destins se lèvent alors : le chêne centenaire, la pierre qui marche, et la dame blanche qui chuchote aux ruisseaux. Le ciel, pur et sans mesure, ponctue le silence d’un souffle d’éternité.",
+      "presage_en": "Night spreads its carpet of stars where each mark is a secret, each shadow bears an old name. Three fates rise then: the ancient oak, the stone that walks, and the white lady that whispers to the streams. The sky, pure and without measure, dots the silence with a breath of eternity.",
+      "score": [
+        {
+          "note": 60,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 17.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 18.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 57,
+          "start": 18.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 19.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 19.5,
+          "duration": 0.5,
+          "force": 70
+        }
+      ],
+      "midi": "work/midi-2026-08-13T0738Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "dark",
+          "swear nothing, sow nothing"
+        ]
+      ]
     }
   ]
 }
