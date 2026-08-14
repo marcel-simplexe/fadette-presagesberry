@@ -991,6 +991,179 @@
           "swear nothing, sow nothing"
         ]
       ]
+    },
+    {
+      "time": "05:39",
+      "night": false,
+      "phase": "dark",
+      "dark": false,
+      "notch": 6,
+      "want_source": "fallback-gift",
+      "presage": "Dans la nuit sans souffle, quatre lueurs nouent l’obscurité en silence. Des ombres portant des noms anciens frôlent les pierres du lavoir, glissant comme des ombres sur le sable mouvant. Les morts, spectres d’une brume grise, s’approchent du puits dont l’eau prend un goût amer avant l’aube.",
+      "presage_en": "In the breathless night, four lights tie the dark together in silence. Shapes bearing old names brush the stones of the washhouse, slipping like shadows on the moving sand. The dead, ghosts of a grey mist, draw near the well whose water takes on a bitter taste before dawn.",
+      "score": [
+        {
+          "note": 61,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 61,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 78
+        },
+        {
+          "note": 60,
+          "start": 1.0,
+          "duration": 0.33,
+          "force": 65
+        },
+        {
+          "note": 59,
+          "start": 1.33,
+          "duration": 0.4,
+          "force": 55
+        },
+        {
+          "note": 61,
+          "start": 1.73,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 61,
+          "start": 2.23,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 2.63,
+          "duration": 0.33,
+          "force": 60
+        },
+        {
+          "note": 59,
+          "start": 2.96,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": 61,
+          "start": 3.36,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 62,
+          "start": 3.86,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 61,
+          "start": 4.26,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 4.66,
+          "duration": 0.33,
+          "force": 60
+        },
+        {
+          "note": 59,
+          "start": 5.0,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": 61,
+          "start": 5.4,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": 61,
+          "start": 5.9,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 6.3,
+          "duration": 0.33,
+          "force": 60
+        },
+        {
+          "note": 59,
+          "start": 6.63,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": 61,
+          "start": 7.03,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 62,
+          "start": 7.53,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 61,
+          "start": 7.93,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 60,
+          "start": 8.33,
+          "duration": 0.33,
+          "force": 60
+        },
+        {
+          "note": 59,
+          "start": 8.66,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": 61,
+          "start": 9.06,
+          "duration": 0.5,
+          "force": 85
+        }
+      ],
+      "midi": "work/midi-2026-08-14T0539Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "dark",
+          "swear nothing, sow nothing"
+        ]
+      ]
     }
   ]
 }
