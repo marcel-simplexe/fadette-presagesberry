@@ -1164,6 +1164,209 @@
           "swear nothing, sow nothing"
         ]
       ]
+    },
+    {
+      "time": "09:09",
+      "night": false,
+      "phase": "dark",
+      "dark": false,
+      "notch": 6,
+      "want_source": "observed",
+      "presage": "La lune sans éclat veille sur l’étable endormie où quatre feux pâlissent à l’envers, tandis que le souffle froid effeuille le blé comme un soupir oublié. Au gué, une ombre trop claire brise le fil du doute : la biche blanche surgit sur la lisière, trace blanche qui s’évanouit dans la brume. Quelqu’un demeure dehors, hors du temps, un pas qui ne devrait pas résonner, et la nuit garde son secret.",
+      "presage_en": "the moon without shine watches over the sleeping stable where four fires pale the wrong way while the cold breath strips the wheat like a forgotten sigh at the ford a shadow too bright breaks the thread of doubt the white doe rises on the edge a white mark that vanishes in the mist someone stays outside of time a step that should not ring and the night keeps its secret",
+      "score": [
+        {
+          "note": 62,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 65,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 65,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 58,
+          "start": 4.0,
+          "duration": 1.0,
+          "force": 50
+        },
+        {
+          "note": 58,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 58,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 60,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 60,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 65,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 62,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 65,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 60,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 58,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 58,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 58,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 50
+        }
+      ],
+      "midi": "work/midi-2026-08-14T0909Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "dark",
+          "swear nothing, sow nothing"
+        ]
+      ]
     }
   ]
 }
