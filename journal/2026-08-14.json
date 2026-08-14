@@ -1367,6 +1367,125 @@
           "swear nothing, sow nothing"
         ]
       ]
+    },
+    {
+      "time": "10:59",
+      "night": false,
+      "phase": "dark",
+      "dark": false,
+      "notch": 6,
+      "want_source": "observed",
+      "presage": "La nuit repose lourde, peuplée d'ombres nommées qui règlent le ciel. Le souffle passe, compté par quatre, sur les blés dorés et les eaux calmes. La terre suinte sa soif sous un soleil immobile, tandis qu'une porte se ferme sans témoin.",
+      "presage_en": "Night settles heavy, full of named shadows that rule the sky. The breath passes, counted by fours, over the golden wheat and the still waters. The earth sweats its thirst under a motionless sun, while a door closes unseen.",
+      "score": [
+        {
+          "note": 55,
+          "start": 0.0,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 55,
+          "start": 0.4,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 58,
+          "start": 0.8,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 55,
+          "start": 1.2,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 52,
+          "start": 1.6,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 2.0,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 58,
+          "start": 2.4,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 52,
+          "start": 2.8,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 3.2,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 58,
+          "start": 3.6,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 52,
+          "start": 4.0,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": 55,
+          "start": 4.4,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": 58,
+          "start": 4.8,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": 52,
+          "start": 5.2,
+          "duration": 0.4,
+          "force": 70
+        }
+      ],
+      "midi": "work/midi-2026-08-14T1059Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "dark",
+          "swear nothing, sow nothing"
+        ]
+      ]
     }
   ]
 }
