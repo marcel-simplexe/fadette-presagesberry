@@ -2138,6 +2138,233 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "16:55",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 6,
+      "want_source": "observed",
+      "presage": "La nuit fixe l'horizon d'une certitude primitive. Deux feux de bruyère éclairent le chemin du Meneu' qui avance. La Grand'Bête se lève, sombreur vivante à l'orée.",
+      "presage_en": "The night sets the horizon with a primal certainty. Two heather fires light the path of the Meneu' advancing. The Grand'Bête rises, a living darkness at the edge.",
+      "score": [
+        {
+          "note": 28,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 30,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 28,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 30,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 28,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 30,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 28,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 30,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 28,
+          "start": 4.0,
+          "duration": 1.0,
+          "force": 40
+        },
+        {
+          "note": 28,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 30,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 28,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 28,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 30,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 28,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 28,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 26,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 28,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 26,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 28,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 26,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 28,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 26,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 28,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 26,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 28,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 26,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 28,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 10
+        },
+        {
+          "note": 26,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 10
+        },
+        {
+          "note": 28,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 10
+        },
+        {
+          "note": 26,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 10
+        },
+        {
+          "note": 28,
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 10
+        }
+      ],
+      "midi": "work/midi-2026-08-14T1655Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
