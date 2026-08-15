@@ -1431,6 +1431,245 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "10:24",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 7,
+      "want_source": "observed",
+      "presage": "Un marcheur de pierre glisse dans l’eau sans bruit. Une porte invisible se ferme toute seule, barrée. Dans le ciel pur, aucune ombre ne répond.",
+      "presage_en": "A stone walker slips through the water without a sound. An unseen door shuts of its own, barred. In the clear sky, no shadow answers.",
+      "score": [
+        {
+          "note": 48,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 48,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 51,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 72
+        },
+        {
+          "note": 48,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 66
+        },
+        {
+          "note": 48,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 64
+        },
+        {
+          "note": 48,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 51,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 74
+        },
+        {
+          "note": 48,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 66
+        },
+        {
+          "note": 48,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 64
+        },
+        {
+          "note": 48,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 51,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 74
+        },
+        {
+          "note": 48,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 66
+        },
+        {
+          "note": 48,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 64
+        },
+        {
+          "note": 48,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 48,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 66
+        },
+        {
+          "note": 51,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 72
+        },
+        {
+          "note": 48,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 64
+        },
+        {
+          "note": 48,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 48,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 66
+        },
+        {
+          "note": 48,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 64
+        },
+        {
+          "note": 48,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 48,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 66
+        },
+        {
+          "note": 48,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 64
+        },
+        {
+          "note": 48,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 48,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 66
+        },
+        {
+          "note": 48,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 64
+        },
+        {
+          "note": 48,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 48,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 66
+        },
+        {
+          "note": 48,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 64
+        },
+        {
+          "note": 48,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 48,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 66
+        },
+        {
+          "note": 48,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 64
+        },
+        {
+          "note": 48,
+          "start": 16.0,
+          "duration": 1.0,
+          "force": 40
+        },
+        {
+          "note": 48,
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 60
+        }
+      ],
+      "midi": "work/midi-2026-08-15T1024Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
