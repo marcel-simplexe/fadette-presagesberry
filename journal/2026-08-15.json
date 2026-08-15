@@ -2333,6 +2333,308 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "18:33",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 7,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "Au croissant muet s'ajoute une pâle étoile qui avance comme elle caresse la nouvelle lune. Deux feux tremblent sur l'eau, pareils aux yeux d'un troupeau invisible, et le pays a soif d'ombre. Quand le pâle astre vient, rien ne sort du bout des roseaux, aucun nom ne surgit, seulement l'air tiède qu'une voix ancienne dépose dans l'oreille, et le goût de fer qui fait lever les yeux vers le ciel pur.",
+      "presage_en": "A pale star comes up with the silent crescent, moving as if it strokes the new moon. Two lights tremble on the water, like the eyes of an unseen herd, and the land thirsts for shadow. When that pale star rises, nothing steps from the tips of the reeds, no name rises up, only the warm air an old voice lays in the ear, and the taste of iron that makes the eyes lift toward the clear sky.",
+      "score": [
+        {
+          "note": 64,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 64,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 62,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 68
+        },
+        {
+          "note": 65,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": 64,
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": 62,
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 62,
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": 61,
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 61,
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": 60,
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 60,
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": 59,
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 59,
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 45
+        },
+        {
+          "note": 58,
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 58,
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": 57,
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 57,
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 35
+        },
+        {
+          "note": 56,
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 56,
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": 55,
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 25
+        },
+        {
+          "note": 55,
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 25
+        },
+        {
+          "note": 54,
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 54,
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 20
+        },
+        {
+          "note": 53,
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 15
+        },
+        {
+          "note": 53,
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 15
+        },
+        {
+          "note": 52,
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 10
+        },
+        {
+          "note": 52,
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 10
+        },
+        {
+          "note": 51,
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 5
+        },
+        {
+          "note": 51,
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 5
+        },
+        {
+          "note": 50,
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 2
+        },
+        {
+          "note": 50,
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 2
+        },
+        {
+          "note": 50,
+          "start": 16.0,
+          "duration": 2.0,
+          "force": 1
+        }
+      ],
+      "midi": "work/midi-2026-08-15T1833Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "18:33",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 7,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "Les blés se courbent, le souffle passe et un mensonge pâli colporte le gué. Le meneu' de loups avance parmi ses ombres, sans nombre, leurs yeux froids et purs. La Grand'Bête se lève comme un songe, bête et lièvre, et nul bruit ne rompt l’air.",
+      "presage_en": "The wheat bows low, the wind passes and a pale lie hawks the ford. The wolf leader moves among its shadows, countless, their cold and clear eyes. The Grand Beast rises like a dream, beast and hare, and no sound breaks the air.",
+      "score": [
+        {
+          "note": 48,
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 48,
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": 52,
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 48,
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": 45,
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 80
+        }
+      ],
+      "midi": "work/midi-2026-08-15T1833Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
