@@ -999,6 +999,113 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "06:43",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 8,
+      "want_source": "fallback-gift",
+      "presage": "Les pierres sourdes alignent leurs noms le long du courant, cachant les corps qui ne viendront pas. La Grand'Bête foule invisible un pas lourd sur l'herbe mouillée, son ombre seule trahit son passage. Une dame blanche se tient immobile au bout du gué, silencieuse, indifférente à tout regard qui se perdrait.",
+      "presage_en": "The silent stones set their names along the stream, hiding the bodies that will not come. The Grand Beast treads unseen a heavy step on the wet grass, its shadow alone betrays its passing. A white lady stands still at the ford’s end, silent, indifferent to any gaze that might stray.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 1.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 2.0,
+          "duration": 0.8,
+          "force": 75
+        },
+        {
+          "note": "E",
+          "start": 2.8,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 3.4,
+          "duration": 1.2,
+          "force": 80
+        },
+        {
+          "note": "F",
+          "start": 4.6,
+          "duration": 0.9,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 5.5,
+          "duration": 0.7,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 6.2,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 7.2,
+          "duration": 0.8,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 8.0,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 8.6,
+          "duration": 1.2,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 9.8,
+          "duration": 1.0,
+          "force": 80
+        }
+      ],
+      "midi": "work/midi-2026-08-16T0643Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
