@@ -1,0 +1,268 @@
+{
+  "date": "2026-08-16",
+  "breaths": [
+    {
+      "time": "01:27",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 8,
+      "want_source": "fallback-gift",
+      "presage": "La lune dort en dent de sabre au bord du ciel, trois fois depuis son retour. Un souffle passe sur les blés, deux ombres seulement comptent. La biche blanche court au ras du mur, blanche comme le jour perdu.",
+      "presage_en": "The moon sleeps like a sabre tooth at the edge of the sky, three times since its return. A breath passes over the wheat, two shadows only are counted. The white doe runs along the wall, white as the lost day.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "E",
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "E",
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "G, A",
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "E, A",
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D, A",
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A, G",
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "E, A",
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "D, A",
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "G, E",
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A, D",
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A, G",
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "E, A",
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D, A",
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "E, A",
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D, A",
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A, G",
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "E, A",
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D, A",
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A, G",
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "E, A",
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D, A",
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "G, E",
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A, D",
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A, G",
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "E, A",
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D, A",
+          "start": 17.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 18.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 18.5,
+          "duration": 0.5,
+          "force": 65
+        }
+      ],
+      "midi": "work/midi-2026-08-16T0127Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    }
+  ]
+}
