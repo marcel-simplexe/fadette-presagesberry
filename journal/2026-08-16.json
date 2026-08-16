@@ -1411,6 +1411,264 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "12:43",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 8,
+      "want_source": "fallback-gift",
+      "presage": "La lune fine comme un couteau monte, et les ombres se font tendres et portent des noms. La terre, sans ombre qui la tienne, lègera sous le soleil haut, tandis que l'air reste suspendu. Deux feux tremblent en passant, et la lumière veille.",
+      "presage_en": "the thin moon rises like a knife and the shadows grow soft and bear names the earth light under the high sun while the air hangs still two fires tremble passing and the light keeps watch",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "C",
+          "start": 1.0,
+          "duration": 1.0,
+          "force": 0.9
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 3.0,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 4.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "F",
+          "start": 5.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 6.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "C",
+          "start": 7.0,
+          "duration": 1.0,
+          "force": 0.9
+        },
+        {
+          "note": "D",
+          "start": 8.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 9.0,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "F",
+          "start": 11.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 12.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "C",
+          "start": 13.0,
+          "duration": 1.0,
+          "force": 0.9
+        },
+        {
+          "note": "D",
+          "start": 14.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 15.0,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "F",
+          "start": 17.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 18.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "C",
+          "start": 19.0,
+          "duration": 1.0,
+          "force": 0.9
+        },
+        {
+          "note": "D",
+          "start": 20.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 21.0,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 22.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "F",
+          "start": 23.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 24.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "C",
+          "start": 25.0,
+          "duration": 1.0,
+          "force": 0.9
+        },
+        {
+          "note": "D",
+          "start": 26.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 27.0,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "F",
+          "start": 29.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 30.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "C",
+          "start": 31.0,
+          "duration": 1.0,
+          "force": 0.9
+        },
+        {
+          "note": "D",
+          "start": 32.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 33.0,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 34.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "F",
+          "start": 35.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 36.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "C",
+          "start": 37.0,
+          "duration": 1.0,
+          "force": 0.9
+        },
+        {
+          "note": "D",
+          "start": 38.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 39.0,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 40.0,
+          "duration": 1.0,
+          "force": 0.7
+        }
+      ],
+      "midi": "work/midi-2026-08-16T1243Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
