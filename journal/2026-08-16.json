@@ -553,6 +553,452 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "04:37",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 8,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "Au seuil des eaux, un souffle passe qui n’a visage ni corps. Le silence ouvre une porte dans le noir, sans raison ni nombre. Ainsi l’ombre parle : le conte garde sa porte close.",
+      "presage_en": "At the edge of the waters a breath passes that has neither face nor body. Silence opens a door in the dark, without reason or number. So the shade speaks: the tale keeps its door shut.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.8,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 0.8,
+          "duration": 0.6,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 1.4,
+          "duration": 0.8,
+          "force": 80
+        },
+        {
+          "note": "F",
+          "start": 2.2,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 2.6,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 3.1,
+          "duration": 0.7,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 3.8,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 4.1,
+          "duration": 0.9,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 5.5,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "F",
+          "start": 6.5,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 7.0,
+          "duration": 0.7,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 7.7,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 8.2,
+          "duration": 0.8,
+          "force": 80
+        },
+        {
+          "note": "B",
+          "start": 9.0,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 9.3,
+          "duration": 0.9,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 10.2,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 10.7,
+          "duration": 0.8,
+          "force": 80
+        },
+        {
+          "note": "F",
+          "start": 11.5,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 12.0,
+          "duration": 0.7,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 12.7,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 13.2,
+          "duration": 0.8,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 14.0,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 14.3,
+          "duration": 0.9,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 15.2,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 15.7,
+          "duration": 0.8,
+          "force": 80
+        }
+      ],
+      "midi": "work/midi-2026-08-16T0437Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "04:37",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 8,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "Le ciel se déchire, un chiffre dressé sur fond d'étain. Le veilleur sent un poids sur la terre, un souffle parfumé de pourriture. Quand le meneu' passe, la croisée s'enlève du bord de l'eau.",
+      "presage_en": "The sky tears, a figure raised on a pewter field. The watcher feels a weight upon the earth, a breath sweet with rot. When the meneu' passes, the cross lifts from the water’s edge.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.2,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 1.2,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "B",
+          "start": 2.2,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 3.0,
+          "duration": 1.2,
+          "force": 0.8
+        },
+        {
+          "note": "G, mezzoforte",
+          "start": 4.2,
+          "duration": 0.6,
+          "force": 0.9
+        },
+        {
+          "note": "D, tenu",
+          "start": 4.8,
+          "duration": 1.4,
+          "force": 0.7
+        },
+        {
+          "note": "A, sec",
+          "start": 6.2,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "E, tenu",
+          "start": 7.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "B, tenu",
+          "start": 8.0,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "A, tenu",
+          "start": 8.8,
+          "duration": 1.2,
+          "force": 0.7
+        },
+        {
+          "note": "G, sec",
+          "start": 10.0,
+          "duration": 0.6,
+          "force": 0.7
+        },
+        {
+          "note": "F, tenu",
+          "start": 10.6,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "D, tenu",
+          "start": 11.4,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "A, tenu",
+          "start": 12.2,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "E, tenu",
+          "start": 13.0,
+          "duration": 0.6,
+          "force": 0.7
+        },
+        {
+          "note": "B, tenu",
+          "start": 13.6,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "A, tenu",
+          "start": 14.4,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G, tenu",
+          "start": 15.4,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "F, tenu",
+          "start": 16.2,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "D, tenu",
+          "start": 17.0,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "A, tenu",
+          "start": 17.8,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "E, tenu",
+          "start": 18.6,
+          "duration": 0.6,
+          "force": 0.7
+        },
+        {
+          "note": "B, tenu",
+          "start": 19.2,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "A, tenu",
+          "start": 20.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G, tenu",
+          "start": 21.0,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "F, tenu",
+          "start": 21.8,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "D, tenu",
+          "start": 22.6,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "A, tenu",
+          "start": 23.4,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "E, tenu",
+          "start": 24.2,
+          "duration": 0.6,
+          "force": 0.7
+        },
+        {
+          "note": "B, tenu",
+          "start": 24.8,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "A, tenu",
+          "start": 25.6,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G, tenu",
+          "start": 26.6,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "F, tenu",
+          "start": 27.4,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "D, tenu",
+          "start": 28.2,
+          "duration": 0.8,
+          "force": 0.8
+        },
+        {
+          "note": "A, tenu",
+          "start": 29.0,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "E, tenu",
+          "start": 29.8,
+          "duration": 0.6,
+          "force": 0.7
+        }
+      ],
+      "midi": "work/midi-2026-08-16T0437Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
