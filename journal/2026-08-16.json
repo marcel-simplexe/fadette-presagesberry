@@ -1669,6 +1669,278 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "14:25",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 8,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La lune, quatrième dent d’argent, s’incline au bord du jour qui n’ouvre pas encore ; silence, et deux esprits qui claquent leurs griffes dans l’ombre. Aux lavoirs de pierre, quelque chose s’enroule comme un loup dont le souffle porte sur les veilleurs une frisson, et demain le pain ne mûrira point.",
+      "presage_en": "The moon, fourth silver tooth, leans at the edge of day that does not yet open; silence, and two spirits clack their claws in the dark. At the stone washhouses, something coils like a wolf whose breath brings a shiver over the watchers, and tomorrow the bread will not ripen.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 0.7,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 0.4,
+          "force": 0.8
+        },
+        {
+          "note": "G",
+          "start": 3.0,
+          "duration": 0.8,
+          "force": 0.7
+        }
+      ],
+      "midi": "work/midi-2026-08-16T1425Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "14:25",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 8,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "Sur le coude sombre la vapeur monte en un souffle immobile Devant l’œil ténu la terre se fait multitude d’ombre sans nom Dans le murmure des bêtes la vigilance tient debout jusque l’aube.",
+      "presage_en": "Along the dark bend the vapour rises in a still breath Before the thin eye the earth becomes a multitude of nameless shadows In the beasts’ murmur the watch stands till dawn.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 1.0,
+          "duration": 0.4,
+          "force": 85
+        },
+        {
+          "note": "F",
+          "start": 1.4,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 1.9,
+          "duration": 0.4,
+          "force": 78
+        },
+        {
+          "note": "D",
+          "start": 2.3,
+          "duration": 0.4,
+          "force": 82
+        },
+        {
+          "note": "G",
+          "start": 2.7,
+          "duration": 0.3,
+          "force": 65
+        },
+        {
+          "note": "F",
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 72
+        },
+        {
+          "note": "A",
+          "start": 3.5,
+          "duration": 0.4,
+          "force": 76
+        },
+        {
+          "note": "D",
+          "start": 3.9,
+          "duration": 0.3,
+          "force": 80
+        },
+        {
+          "note": "F",
+          "start": 4.2,
+          "duration": 0.4,
+          "force": 68
+        },
+        {
+          "note": "A",
+          "start": 4.6,
+          "duration": 0.3,
+          "force": 74
+        },
+        {
+          "note": "D",
+          "start": 4.9,
+          "duration": 0.4,
+          "force": 83
+        },
+        {
+          "note": "G",
+          "start": 5.3,
+          "duration": 0.3,
+          "force": 64
+        },
+        {
+          "note": "F",
+          "start": 5.6,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 6.1,
+          "duration": 0.4,
+          "force": 77
+        },
+        {
+          "note": "D",
+          "start": 6.5,
+          "duration": 0.3,
+          "force": 81
+        },
+        {
+          "note": "G",
+          "start": 6.8,
+          "duration": 0.4,
+          "force": 66
+        },
+        {
+          "note": "F",
+          "start": 7.2,
+          "duration": 0.5,
+          "force": 73
+        },
+        {
+          "note": "A",
+          "start": 7.7,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 8.1,
+          "duration": 0.3,
+          "force": 84
+        },
+        {
+          "note": "G",
+          "start": 8.4,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": "F",
+          "start": 8.8,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 9.3,
+          "duration": 0.4,
+          "force": 76
+        },
+        {
+          "note": "D",
+          "start": 9.7,
+          "duration": 0.3,
+          "force": 82
+        },
+        {
+          "note": "G",
+          "start": 10.0,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": "F",
+          "start": 10.4,
+          "duration": 0.5,
+          "force": 71
+        },
+        {
+          "note": "A",
+          "start": 10.9,
+          "duration": 0.4,
+          "force": 77
+        },
+        {
+          "note": "D",
+          "start": 11.3,
+          "duration": 0.3,
+          "force": 80
+        }
+      ],
+      "midi": "work/midi-2026-08-16T1425Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
