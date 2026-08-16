@@ -263,6 +263,296 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "03:02",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 8,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La lueur en fer à cheval trace un visage d’outre-tombe sur les eaux du moulin, deux feux tremblent entre les pierres comme des yeux qui ne s’ouvrent pas, et l’ombre, pesante mais muette, n’est rien qu’un silence qui porte la veille.",
+      "presage_en": "the crescent light draws a face from beyond the grave on the mill waters, two fires tremble between the stones like eyes that do not open, and the heavy yet silent shadow is nothing but a silence that bears the watch.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0,
+          "duration": 1.0,
+          "force": "fort"
+        },
+        {
+          "note": "C",
+          "start": 1.0,
+          "duration": 0.5,
+          "force": "modéré"
+        },
+        {
+          "note": "A",
+          "start": 1.5,
+          "duration": 1.0,
+          "force": "fort"
+        },
+        {
+          "note": "F",
+          "start": 2.5,
+          "duration": 0.5,
+          "force": "faible"
+        },
+        {
+          "note": "A",
+          "start": 3.0,
+          "duration": 0.8,
+          "force": "fort"
+        },
+        {
+          "note": "D",
+          "start": 3.8,
+          "duration": 0.6,
+          "force": "modéré"
+        },
+        {
+          "note": "A",
+          "start": 4.4,
+          "duration": 1.0,
+          "force": "fort"
+        },
+        {
+          "note": "C",
+          "start": 5.4,
+          "duration": 0.8,
+          "force": "faible"
+        },
+        {
+          "note": "G",
+          "start": 6.2,
+          "duration": 0.4,
+          "force": "faible"
+        },
+        {
+          "note": "A",
+          "start": 6.6,
+          "duration": 1.2,
+          "force": "fort"
+        },
+        {
+          "note": "C",
+          "start": 7.8,
+          "duration": 0.6,
+          "force": "modéré"
+        },
+        {
+          "note": "A",
+          "start": 8.4,
+          "duration": 0.9,
+          "force": "fort"
+        },
+        {
+          "note": "E",
+          "start": 9.3,
+          "duration": 0.4,
+          "force": "faible"
+        },
+        {
+          "note": "A",
+          "start": 9.7,
+          "duration": 1.0,
+          "force": "fort"
+        }
+      ],
+      "midi": "work/midi-2026-08-16T0302Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "03:02",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 8,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "Le vent penche l’étoile à trois branches, et deux ombres se détachent dans l’ombre mouvante. Les fades se tiennent au bord du puits où l’eau tourne, goût amer longtemps après. Ainsi le ciel, sous la lune croissante, promet la veille d’une semaine sans répit.",
+      "presage_en": "the wind bends the three‑pronged star and two shadows rise in the shifting dark the fades stand at the well’s edge where the water turns long after a bitter taste thus the sky under the waxing moon promises a week of unbroken watch",
+      "score": [
+        {
+          "note": "A",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "G",
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "F#",
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "E",
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "C",
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "B",
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 3.5,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "F#",
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "E",
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "C",
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "B",
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 7.5,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "F#",
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "E",
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "C",
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "B",
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 11.5,
+          "duration": 1.0,
+          "force": 0.5
+        }
+      ],
+      "midi": "work/midi-2026-08-16T0302Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
