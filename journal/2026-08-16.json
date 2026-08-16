@@ -3103,6 +3103,344 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "20:25",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 8,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La nuit s'étire comme un manteau de jais, où chaque étoile est une braise éteinte attendant son tour. L'ombre du jumeau se mêle aux roseaux, gardant le seuil du marais sans laisser passer l'intrus ni l'envie. Le marcheur erre, trahi par la lueur trompeuse, tandis que le vent murmure le nom des pierres invisibles.",
+      "presage_en": "the night stretches out like a cloak of jet where every star is a dying ember waiting its turn the shadow of the twin blends with the reeds guarding the marsh threshold letting no stranger nor longing pass the wanderer strays betrayed by the false light while the wind whispers the name of unseen stones",
+      "score": [
+        {
+          "note": "D",
+          "start": "0.0",
+          "duration": "1",
+          "force": "1"
+        },
+        {
+          "note": "A",
+          "start": "1.0",
+          "duration": "1",
+          "force": "1"
+        },
+        {
+          "note": "D",
+          "start": "2.0",
+          "duration": "1",
+          "force": "0.8"
+        },
+        {
+          "note": "G",
+          "start": "3.0",
+          "duration": "1",
+          "force": "1"
+        },
+        {
+          "note": "A",
+          "start": "4.0",
+          "duration": "1",
+          "force": "0.8"
+        },
+        {
+          "note": "D",
+          "start": "5.0",
+          "duration": "1",
+          "force": "1"
+        }
+      ],
+      "midi": "work/midi-2026-08-16T2025Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "20:25",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 8,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "Lorsqu’au seuil du gué monte un souffle sans nom, seules les laveuses blanches battent le drap comme un tonnerre invisible, et l’ombre du meneu’ prend la forme tracée du loup sans pelage, tandis la Grand’Bête paraît plus lapins qu’un veau, traçant au bord de l’eau un feu qui marche et ne se fond pas dans le noir. Une porte s’est barreée là où jamais clou ni serrure n’étaient, et l’air s’arrête, pur et lourd, pour que les morts reviennent chuchoter l’heure exacte à l’oreille des vivants, dans le silence qui succède aux grenouilles. Ainsi la nuit parle, sans chiffre ni cause, seulement par les silhouettes qui se taisent lorsque le croissant grimpe à sa quatrième nuit.",
+      "presage_en": "When at the ford’s edge rises a nameless breath, only the white washerwomen beat the linen like unseen thunder, and the shade of the meneu’ takes the traced form of a hairless wolf, while the Grand’Bête shows more like rabbits than a calf, tracing by the water’s edge a fire that walks and does not melt into the dark. A door has barred itself where never nail nor lock were, and the air stops, pure and heavy, so the dead may return to whisper the exact hour in the ear of the living, in the silence that follows the frogs. Thus the night speaks, without number nor cause, only by the silhouettes that hush when the crescent climbs to its fourth night.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 3.0,
+          "duration": 0.8,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 7.0,
+          "duration": 1.2,
+          "force": 55
+        },
+        {
+          "note": "B",
+          "start": 12.0,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 15.0,
+          "duration": 0.9,
+          "force": 65
+        },
+        {
+          "note": "G",
+          "start": 20.0,
+          "duration": 1.0,
+          "force": 60
+        },
+        {
+          "note": "F",
+          "start": 25.0,
+          "duration": 0.7,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 30.0,
+          "duration": 1.1,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 35.0,
+          "duration": 0.8,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 40.0,
+          "duration": 1.2,
+          "force": 55
+        },
+        {
+          "note": "B",
+          "start": 48.0,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 52.0,
+          "duration": 0.9,
+          "force": 65
+        },
+        {
+          "note": "G",
+          "start": 58.0,
+          "duration": 1.0,
+          "force": 60
+        },
+        {
+          "note": "F",
+          "start": 65.0,
+          "duration": 0.7,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 70.0,
+          "duration": 1.1,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 77.0,
+          "duration": 0.8,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 83.0,
+          "duration": 1.2,
+          "force": 55
+        },
+        {
+          "note": "B",
+          "start": 90.0,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 95.0,
+          "duration": 0.9,
+          "force": 65
+        },
+        {
+          "note": "G",
+          "start": 100.0,
+          "duration": 1.0,
+          "force": 60
+        },
+        {
+          "note": "F",
+          "start": 107.0,
+          "duration": 0.7,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 113.0,
+          "duration": 1.1,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 116.0,
+          "duration": 0.8,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 122.0,
+          "duration": 1.2,
+          "force": 55
+        },
+        {
+          "note": "B",
+          "start": 130.0,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 134.0,
+          "duration": 0.9,
+          "force": 65
+        },
+        {
+          "note": "G",
+          "start": 140.0,
+          "duration": 1.0,
+          "force": 60
+        },
+        {
+          "note": "F",
+          "start": 145.0,
+          "duration": 0.7,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 148.0,
+          "duration": 1.1,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 153.0,
+          "duration": 0.8,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 159.0,
+          "duration": 1.2,
+          "force": 55
+        },
+        {
+          "note": "B",
+          "start": 168.0,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 172.0,
+          "duration": 0.9,
+          "force": 65
+        },
+        {
+          "note": "G",
+          "start": 178.0,
+          "duration": 1.0,
+          "force": 60
+        },
+        {
+          "note": "F",
+          "start": 185.0,
+          "duration": 0.7,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 190.0,
+          "duration": 1.1,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 195.0,
+          "duration": 0.8,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 201.0,
+          "duration": 1.2,
+          "force": 55
+        }
+      ],
+      "midi": "work/midi-2026-08-16T2025Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
