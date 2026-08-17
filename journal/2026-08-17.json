@@ -816,6 +816,275 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "14:30",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 9,
+      "want_source": "observed",
+      "presage": "Dans le silence où les pierres parlent basses, le ciel étend une nappe sombre où les nombres secrets tissent un autre monde. Au-delà, les laveuses tournent leur linceul d’ombre sur l’eau dormante, seules en ce comptage sans cause. Une lumière au ras du sol désigne le seuil où l’animal est tombé.",
+      "presage_en": "In the hush where stones speak low the sky spreads a dark cloth where secret numbers weave another world. Beyond the washerwomen turn their shroud of shadow on the sleeping water alone in that counting without cause. A light at ground level marks the threshold where the beast fell.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "E",
+          "start": 1.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "F",
+          "start": 2.0,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 3.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 4.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "B",
+          "start": 5.0,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "C",
+          "start": 6.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "D",
+          "start": 7.0,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "E",
+          "start": 8.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "F",
+          "start": 9.0,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "G, A",
+          "start": 10.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "A, B, C",
+          "start": 11.0,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "B, C, D",
+          "start": 12.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "C, D, E",
+          "start": 13.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "D, E, F",
+          "start": 14.0,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "E, F, G",
+          "start": 15.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "F, G, A",
+          "start": 16.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "G, A, B, C",
+          "start": 17.0,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "A, B, C, D",
+          "start": 18.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "B, C, D, E",
+          "start": 19.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "C, D, E, F",
+          "start": 20.0,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "D, E, F, G",
+          "start": 21.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "E, F, G, A",
+          "start": 22.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "F, G, A, B, C",
+          "start": 23.0,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "A, B, C, D, E",
+          "start": 24.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "B, C, D, E, F",
+          "start": 25.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "C, D, E, F, G",
+          "start": 26.0,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "D, E, F, G, A",
+          "start": 27.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "E, F, G, A, B, C",
+          "start": 28.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "A, B, C, D, E, F",
+          "start": 29.0,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "B, C, D, E, F, G",
+          "start": 30.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "C, D, E, F, G, A",
+          "start": 31.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "D, E, F, G, A, B, C",
+          "start": 32.0,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "E, F, G, A, B, C, D",
+          "start": 33.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "F, G, A, B, C, D, E",
+          "start": 34.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "G, A, B, C, D, E, F",
+          "start": 35.0,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "A, B, C, D, E, F, G",
+          "start": 36.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "B, C, D, E, F, G, A",
+          "start": 37.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "C, D, E, F, G, A, B, C",
+          "start": 38.0,
+          "duration": 1.0,
+          "force": 0.5
+        }
+      ],
+      "midi": "work/midi-2026-08-17T1430Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
