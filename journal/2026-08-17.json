@@ -1,0 +1,76 @@
+{
+  "date": "2026-08-17",
+  "breaths": [
+    {
+      "time": "04:44",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 9,
+      "want_source": "fallback-gift",
+      "presage": "Le ciel s'ouvre en un croissant de lumière pure, comptant le temps de ceux qui ne dorment pas. Deux ombres surgissent du lointain, porteuses d'un souffle qui fait trembler les blés, un signe pour qui sait lire le paisible mystère. Les fades traversent alors le seuil, sans bruit et sans regret.",
+      "presage_en": "the sky parts in a crescent of pure light counting the hours of those who do not sleep two shadows rise from afar bearing a breath that makes the wheat tremble a sign for those who know how to read the quiet mystery the fades then cross the threshold without sound and without regret",
+      "score": [
+        {
+          "note": "A",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 1.5,
+          "duration": 1.5,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 3.0,
+          "duration": 1.0,
+          "force": 55
+        },
+        {
+          "note": "E",
+          "start": 4.0,
+          "duration": 0.8,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 4.8,
+          "duration": 1.2,
+          "force": 60
+        }
+      ],
+      "midi": "work/midi-2026-08-17T0444Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    }
+  ]
+}
