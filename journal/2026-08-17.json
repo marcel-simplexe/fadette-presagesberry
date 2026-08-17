@@ -2051,6 +2051,95 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "22:27",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 9,
+      "want_source": "fallback-gift",
+      "presage": "Au bord du bois, quatre feux se lèvent, petites lunes folles qui s'éteignent et renaissent dans l'ombre des hêtres. Les laveuses de nuit battent à l'étang, leurs mains devenues eau claire sous le croissant qui croît. Un souffle passé sur les blés porte jusque-là le nom secret de la Grand'Bête, sans cause, sans mesure.",
+      "presage_en": "By the wood's edge four fires rise, small wild moons that die and are born again in the hêtres' shade. The night washerwomen beat at the pond, their hands turned clear water under the waxing crescent. A breath past the wheat carries there the secret name of the Grand'Bête, without cause, without measure.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 2.5,
+          "duration": 0.75,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "E",
+          "start": 4.0,
+          "duration": 0.6,
+          "force": 0.45
+        },
+        {
+          "note": "D",
+          "start": 5.0,
+          "duration": 0.8,
+          "force": 0.9
+        },
+        {
+          "note": "A",
+          "start": 6.0,
+          "duration": 0.4,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 7.0,
+          "duration": 0.7,
+          "force": 0.85
+        },
+        {
+          "note": "A",
+          "start": 8.0,
+          "duration": 0.55,
+          "force": 0.55
+        },
+        {
+          "note": "D",
+          "start": 9.0,
+          "duration": 0.65,
+          "force": 0.75
+        }
+      ],
+      "midi": "work/midi-2026-08-17T2227Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.67",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
