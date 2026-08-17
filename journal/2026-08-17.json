@@ -535,6 +535,287 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "08:46",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 9,
+      "want_source": "fallback-gift",
+      "presage": "La clarté hésite, et un visage se glisse dans le noir. La biche blanche traverse le gué sans laisser de trace dans l'eau. Seul un cœur de paysan sait ce que cela cache dans l’ombre.",
+      "presage_en": "The light falters and a face slips into the dark. The white doe crosses the ford leaving no mark on the water. Only a countryman’s heart knows what hides in the shadow.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 3,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 3,
+          "duration": 2,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 5,
+          "duration": 2,
+          "force": 90
+        },
+        {
+          "note": "G",
+          "start": 7,
+          "duration": 3,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 10,
+          "duration": 2,
+          "force": 85
+        },
+        {
+          "note": "D",
+          "start": 12,
+          "duration": 4,
+          "force": 95
+        },
+        {
+          "note": "F",
+          "start": 16,
+          "duration": 2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 18,
+          "duration": 3,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 21,
+          "duration": 2,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 23,
+          "duration": 2,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 25,
+          "duration": 3,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 28,
+          "duration": 2,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 30,
+          "duration": 4,
+          "force": 90
+        },
+        {
+          "note": "A",
+          "start": 34,
+          "duration": 2,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 36,
+          "duration": 2,
+          "force": 90
+        },
+        {
+          "note": "F",
+          "start": 38,
+          "duration": 2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 40,
+          "duration": 3,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 43,
+          "duration": 2,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 45,
+          "duration": 3,
+          "force": 95
+        },
+        {
+          "note": "G",
+          "start": 48,
+          "duration": 2,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 50,
+          "duration": 2,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 52,
+          "duration": 4,
+          "force": 90
+        },
+        {
+          "note": "A",
+          "start": 56,
+          "duration": 2,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 58,
+          "duration": 2,
+          "force": 90
+        },
+        {
+          "note": "G",
+          "start": 60,
+          "duration": 3,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 63,
+          "duration": 2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 65,
+          "duration": 4,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 69,
+          "duration": 2,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 71,
+          "duration": 2,
+          "force": 90
+        },
+        {
+          "note": "F",
+          "start": 73,
+          "duration": 2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 75,
+          "duration": 3,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 78,
+          "duration": 2,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 80,
+          "duration": 3,
+          "force": 95
+        },
+        {
+          "note": "G",
+          "start": 83,
+          "duration": 2,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 85,
+          "duration": 2,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 87,
+          "duration": 4,
+          "force": 90
+        },
+        {
+          "note": "A",
+          "start": 91,
+          "duration": 2,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 93,
+          "duration": 2,
+          "force": 90
+        },
+        {
+          "note": "G",
+          "start": 95,
+          "duration": 3,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 98,
+          "duration": 2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 100,
+          "duration": 4,
+          "force": 85
+        }
+      ],
+      "midi": "work/midi-2026-08-17T0846Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
