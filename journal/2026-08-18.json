@@ -1,0 +1,274 @@
+{
+  "date": "2026-08-18",
+  "breaths": [
+    {
+      "time": "01:21",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 10,
+      "want_source": "fallback-gift",
+      "presage": "Un croissant d’argent découpe le silence, quatre yeux veillent parmi les pierres. Les fades glissent blanches dans l’ombre des ifs, leurs robes tissées de brume. Le seuil est saupoudré, la veillée accepte le signe en silence.",
+      "presage_en": "A silver crescent cuts the hush, four eyes watch among the stones. The white ladies glide in the shade of the yews, their gowns woven of mist. The threshold is dusted, the watch accepts the sign in silence.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 1.2,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 2.2,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 3.7,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 4.5,
+          "duration": 1.0,
+          "force": 68
+        },
+        {
+          "note": "D",
+          "start": 5.5,
+          "duration": 1.3,
+          "force": 78
+        },
+        {
+          "note": "A",
+          "start": 6.8,
+          "duration": 0.9,
+          "force": 63
+        },
+        {
+          "note": "D",
+          "start": 7.7,
+          "duration": 1.4,
+          "force": 82
+        },
+        {
+          "note": "G",
+          "start": 9.1,
+          "duration": 0.7,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 9.8,
+          "duration": 1.1,
+          "force": 76
+        },
+        {
+          "note": "A",
+          "start": 10.9,
+          "duration": 0.8,
+          "force": 64
+        },
+        {
+          "note": "D",
+          "start": 11.7,
+          "duration": 1.2,
+          "force": 79
+        },
+        {
+          "note": "A",
+          "start": 12.9,
+          "duration": 0.9,
+          "force": 69
+        },
+        {
+          "note": "D",
+          "start": 13.8,
+          "duration": 1.0,
+          "force": 77
+        },
+        {
+          "note": "G",
+          "start": 14.8,
+          "duration": 0.8,
+          "force": 62
+        },
+        {
+          "note": "D",
+          "start": 15.6,
+          "duration": 1.3,
+          "force": 81
+        },
+        {
+          "note": "A",
+          "start": 16.9,
+          "duration": 0.9,
+          "force": 66
+        },
+        {
+          "note": "D",
+          "start": 17.8,
+          "duration": 1.1,
+          "force": 78
+        },
+        {
+          "note": "A",
+          "start": 18.9,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 19.7,
+          "duration": 1.2,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 20.9,
+          "duration": 0.7,
+          "force": 61
+        },
+        {
+          "note": "D",
+          "start": 21.6,
+          "duration": 1.0,
+          "force": 76
+        },
+        {
+          "note": "A",
+          "start": 22.6,
+          "duration": 0.8,
+          "force": 64
+        },
+        {
+          "note": "D",
+          "start": 23.4,
+          "duration": 1.1,
+          "force": 78
+        },
+        {
+          "note": "A",
+          "start": 24.5,
+          "duration": 0.9,
+          "force": 68
+        },
+        {
+          "note": "D",
+          "start": 25.4,
+          "duration": 1.2,
+          "force": 82
+        },
+        {
+          "note": "G",
+          "start": 26.6,
+          "duration": 0.8,
+          "force": 63
+        },
+        {
+          "note": "D",
+          "start": 27.4,
+          "duration": 1.0,
+          "force": 77
+        },
+        {
+          "note": "A",
+          "start": 28.4,
+          "duration": 0.8,
+          "force": 66
+        },
+        {
+          "note": "D",
+          "start": 29.2,
+          "duration": 1.1,
+          "force": 79
+        },
+        {
+          "note": "A",
+          "start": 30.3,
+          "duration": 0.9,
+          "force": 67
+        },
+        {
+          "note": "D",
+          "start": 31.2,
+          "duration": 1.3,
+          "force": 81
+        },
+        {
+          "note": "G",
+          "start": 32.5,
+          "duration": 0.7,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 33.2,
+          "duration": 1.2,
+          "force": 79
+        },
+        {
+          "note": "A",
+          "start": 34.4,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 35.2,
+          "duration": 1.0,
+          "force": 77
+        },
+        {
+          "note": "A",
+          "start": 36.2,
+          "duration": 0.8,
+          "force": 64
+        },
+        {
+          "note": "D",
+          "start": 37.0,
+          "duration": 1.1,
+          "force": 78
+        },
+        {
+          "note": "A",
+          "start": 38.1,
+          "duration": 0.9,
+          "force": 68
+        }
+      ],
+      "midi": "work/midi-2026-08-18T0121Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.67",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    }
+  ]
+}
