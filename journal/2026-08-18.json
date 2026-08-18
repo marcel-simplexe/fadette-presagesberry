@@ -2437,6 +2437,362 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "22:26",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 10,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "Au premier croissant, cinq feux s'alignent sur le noir pur, sans vent, sans ombre qui se montre. Les pierres écoutent, le puits se tait et prend le goût du temps suspendu. Ainsi vient l'image, intacte, là où la nuit parle seule dans le silence du regard.",
+      "presage_en": "At the first thin crescent five fires line up on the pure black, no wind, no shadow shows. The stones listen, the well goes still and takes on the taste of time held. So comes the image, whole, where the night speaks alone in the silence of the look.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 1.5,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 2.25,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 3.25,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 3.75,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 4.5,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 5.5,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 7.0,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 7.75,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 8.75,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 9.75,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 10.25,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 11.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 12.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 13.5,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 14.25,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 15.25,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 16.25,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 16.75,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 17.5,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 18.5,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 19.5,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 20.0,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 20.75,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 21.75,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 22.75,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 23.25,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 24.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 25.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 26.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 26.5,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 27.25,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 28.25,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 29.25,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 29.75,
+          "duration": 0.75,
+          "force": 60
+        }
+      ],
+      "midi": "work/midi-2026-08-18T2226Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 5.33",
+          "the north has a fever — discord comes"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "22:26",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 10,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "Le premier clair de lune ouvre la lisière où cinq feux errants dansent, frêles et sans cause. Tu sentis le froid qui passe sans vent, portée par l’enfant qui ne voit pas, et réponds seulement que l’orée a parlé. Ce n’est pas le ciel qui a bougé mais la nuit elle-même qui s’est approche, portant sa lueur muette.",
+      "presage_en": "the first moon light opens the edge where five wandering fires dance, frail and without cause. you felt the cold that passes without wind, carried by the child who sees not, and answer only that the edge has spoken. it is not the sky that has moved but the night itself that has drawn near, bearing its mute glow.",
+      "score": [
+        {
+          "note": "C",
+          "start": 0,
+          "duration": 4,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 8,
+          "duration": 4,
+          "force": 60
+        },
+        {
+          "note": "G",
+          "start": 12,
+          "duration": 4,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 16,
+          "duration": 4,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 20,
+          "duration": 4,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 24,
+          "duration": 4,
+          "force": 60
+        },
+        {
+          "note": "E",
+          "start": 28,
+          "duration": 4,
+          "force": 50
+        },
+        {
+          "note": "C",
+          "start": 32,
+          "duration": 4,
+          "force": 60
+        },
+        {
+          "note": "G",
+          "start": 36,
+          "duration": 4,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 40,
+          "duration": 4,
+          "force": 60
+        }
+      ],
+      "midi": "work/midi-2026-08-18T2226Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 5.33",
+          "the north has a fever — discord comes"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
