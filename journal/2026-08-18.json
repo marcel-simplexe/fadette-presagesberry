@@ -1989,6 +1989,251 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "18:41",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 10,
+      "want_source": "fallback-gift",
+      "presage": "La lune, première, s'ouvre en croissant mince La lune, sixième, croise la terre rougeoyante Sous un ciel pur où deux ombres se tiennent, toujours.",
+      "presage_en": "the moon first opens thin as a sickle the moon sixth crosses the earth glowing red under a clear sky where two shadows stand always",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 0.5,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 1.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 1.5,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 2.5,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 3.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 3.5,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 4.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 4.5,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 5.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 5.5,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 6.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 6.5,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 7.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 7.5,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 8.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 8.5,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 9.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 9.5,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 10.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 10.5,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 11.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 11.5,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 12.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 12.5,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 13.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 13.5,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 14.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 14.5,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 15.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 15.5,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 16.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 16.5,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 17.0,
+          "duration": 1.0,
+          "force": 0.7
+        }
+      ],
+      "midi": "work/midi-2026-08-18T1841Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
