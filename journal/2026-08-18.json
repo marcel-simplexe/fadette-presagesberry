@@ -2234,6 +2234,209 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "20:27",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 10,
+      "want_source": "fallback-gift",
+      "presage": "La lune penche comme une lumière sur les ombres; Dans le calme, deux présents sont comptés; Un goût de fer monte sur l'air.",
+      "presage_en": "The moon hangs like a light over the shadows; in the quiet two things are counted; a taste of iron rises on the air.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "A",
+          "start": 2,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "D",
+          "start": 4,
+          "duration": 3,
+          "force": 7
+        },
+        {
+          "note": "F",
+          "start": 8,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "A",
+          "start": 10,
+          "duration": 2,
+          "force": 4
+        },
+        {
+          "note": "D",
+          "start": 13,
+          "duration": 2,
+          "force": 6
+        },
+        {
+          "note": "D",
+          "start": 16,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "A",
+          "start": 18,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "D",
+          "start": 20,
+          "duration": 3,
+          "force": 7
+        },
+        {
+          "note": "F",
+          "start": 24,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "A",
+          "start": 26,
+          "duration": 2,
+          "force": 4
+        },
+        {
+          "note": "D",
+          "start": 29,
+          "duration": 2,
+          "force": 6
+        },
+        {
+          "note": "D",
+          "start": 32,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "A",
+          "start": 34,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "D",
+          "start": 36,
+          "duration": 3,
+          "force": 7
+        },
+        {
+          "note": "F",
+          "start": 39,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "A",
+          "start": 41,
+          "duration": 2,
+          "force": 4
+        },
+        {
+          "note": "D",
+          "start": 44,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "D",
+          "start": 46,
+          "duration": 3,
+          "force": 7
+        },
+        {
+          "note": "F",
+          "start": 50,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "A",
+          "start": 52,
+          "duration": 2,
+          "force": 4
+        },
+        {
+          "note": "D",
+          "start": 55,
+          "duration": 2,
+          "force": 6
+        },
+        {
+          "note": "D",
+          "start": 58,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "A",
+          "start": 60,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "D",
+          "start": 62,
+          "duration": 3,
+          "force": 7
+        },
+        {
+          "note": "F",
+          "start": 66,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "A",
+          "start": 68,
+          "duration": 2,
+          "force": 4
+        },
+        {
+          "note": "D",
+          "start": 71,
+          "duration": 1,
+          "force": 8
+        }
+      ],
+      "midi": "work/midi-2026-08-18T2027Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
