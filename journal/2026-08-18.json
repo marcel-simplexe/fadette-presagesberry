@@ -532,6 +532,284 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "04:38",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 10,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "Au coude du ruisseau, une lueur froissée agite les draps des lavandières et le temps se tait dans l'onde obscure. Un souffle froid glisse sans vent et filtre l'air pur avant que l'horizon ne s'ouvre et referme. La Grande Bête vient à pas de lièvre, massive et souffleuse, tandis que le silence atteste le nombre.",
+      "presage_en": "by the bend of the stream a tattered glow stirs the washerwomen’s sheets and time falls still in the dark water. a cold breath slides without wind and filters the clear air before the horizon opens and closes. the Great Beast comes with a hare’s step, huge and breathing, while the silence bears witness to the number.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 4
+        },
+        {
+          "note": "A",
+          "start": 1,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 2,
+          "duration": 1,
+          "force": 3
+        },
+        {
+          "note": "pause",
+          "start": 3,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "F",
+          "start": 5,
+          "duration": 0.5,
+          "force": 1
+        },
+        {
+          "note": "pause",
+          "start": 5.5,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 7,
+          "duration": 2,
+          "force": 2
+        },
+        {
+          "note": "A",
+          "start": 9,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "pause",
+          "start": 10,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "G",
+          "start": 12,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "pause",
+          "start": 13,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 15,
+          "duration": 1.5,
+          "force": 3
+        },
+        {
+          "note": "pause",
+          "start": 16.5,
+          "duration": 2.5,
+          "force": 0
+        },
+        {
+          "note": "A",
+          "start": 19,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "pause",
+          "start": 20,
+          "duration": 3,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 23,
+          "duration": 2,
+          "force": 2
+        },
+        {
+          "note": "A",
+          "start": 25,
+          "duration": 1,
+          "force": 3
+        },
+        {
+          "note": "pause",
+          "start": 26,
+          "duration": 2.5,
+          "force": 0
+        },
+        {
+          "note": "G",
+          "start": 28.5,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "pause",
+          "start": 29.5,
+          "duration": 2.5,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 32,
+          "duration": 1,
+          "force": 3
+        },
+        {
+          "note": "pause",
+          "start": 33,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "A",
+          "start": 35,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "pause",
+          "start": 36,
+          "duration": 3,
+          "force": 0
+        },
+        {
+          "note": "G",
+          "start": 39,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "pause",
+          "start": 40,
+          "duration": 2,
+          "force": 0
+        }
+      ],
+      "midi": "work/midi-2026-08-18T0438Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 4",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "04:38",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 10,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "Le ciel se tait sous la clarté croissante, un chiffre de quatre astres se déplaçant par ordre secret ; au fond du puits la houle tire et pousse un souffle que l'œil ne voit pas ; là se lève un revenant, odeur d'eau qui brise le silence, et nul ne parlera après.",
+      "presage_en": "the sky falls quiet under the growing light, a number of four stars moving in secret order; down in the well the swell draws and pushes a breath the eye cannot see; there rises a revenant, smell of water that breaks the silence, and no one will speak after.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "B",
+          "start": 3.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 4.0,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 5.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 7.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 0.7
+        }
+      ],
+      "midi": "work/midi-2026-08-18T0438Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 4",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
