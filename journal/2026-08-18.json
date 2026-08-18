@@ -1352,6 +1352,410 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "08:39",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 10,
+      "want_source": "observed",
+      "nth": 1,
+      "of": 2,
+      "presage": "Les étoiles s’inclinent comme des piquets de gué, les pas des dames blanches se font de sable sur le silence. Un souffle sans voix rabat les blés, les cinq lumières du ciel comptent le froid. La bête immense mène son ombre lourde au bord des champs endormis.",
+      "presage_en": "the stars bend like stepping stones, the white ladies’ tread turns to sand on the hush. a voiceless breath folds the wheat, the five lights of the sky count the cold. the great beast leads its heavy shadow to the edge of the sleeping fields.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 3.14,
+          "duration": 1.0,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 6.28,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 9.42,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 12.66,
+          "duration": 1.0,
+          "force": 78
+        },
+        {
+          "note": "D",
+          "start": 15.79,
+          "duration": 1.0,
+          "force": 72
+        },
+        {
+          "note": "F",
+          "start": 18.92,
+          "duration": 1.0,
+          "force": 68
+        },
+        {
+          "note": "A",
+          "start": 21.95,
+          "duration": 1.0,
+          "force": 76
+        },
+        {
+          "note": "D",
+          "start": 24.99,
+          "duration": 1.0,
+          "force": 74
+        },
+        {
+          "note": "B",
+          "start": 28.03,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 30.53,
+          "duration": 1.0,
+          "force": 77
+        },
+        {
+          "note": "D",
+          "start": 33.53,
+          "duration": 1.0,
+          "force": 71
+        },
+        {
+          "note": "G",
+          "start": 36.57,
+          "duration": 1.0,
+          "force": 73
+        },
+        {
+          "note": "A",
+          "start": 39.57,
+          "duration": 1.0,
+          "force": 80
+        }
+      ],
+      "midi": "work/midi-2026-08-18T0839Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 5",
+          "the north has a fever — discord comes"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "08:39",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 10,
+      "want_source": "observed",
+      "nth": 2,
+      "of": 2,
+      "presage": "La brume monte des prés, la Grand'Bête cherche ses pieds dans l'herbe, et les laveuses murmurent entre eau et pierre. Le chiffre cinq ouvre la porte aux bêtes sans nom où le regard devient le gué, où la biche blanche glisse sans bruit. Le souffle du matin viendra plus tard, mais ici, nulle cause, ici l'image demeure.",
+      "presage_en": "the mist rises from the meadows, the Grand Beast seeks its feet in the grass, and the washerwomen murmur between water and stone. the number five opens the door to nameless beasts where the gaze becomes the ford, where the white doe slides without sound. the morning breath will come later, but here, no cause, here the image remains.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "B",
+          "start": 1,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 2,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "G",
+          "start": 3,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 4,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "B",
+          "start": 5,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "C",
+          "start": 6,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "A",
+          "start": 7,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "F",
+          "start": 8,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "G",
+          "start": 9,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "A",
+          "start": 10,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "E",
+          "start": 11,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 12,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "D",
+          "start": 13,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "A",
+          "start": 14,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "B",
+          "start": 15,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 16,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "G",
+          "start": 17,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 18,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "F",
+          "start": 19,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 20,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "E",
+          "start": 21,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 22,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "D",
+          "start": 23,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "A",
+          "start": 24,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "B",
+          "start": 25,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 26,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "G",
+          "start": 27,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 28,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "F",
+          "start": 29,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "G",
+          "start": 30,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "A",
+          "start": 31,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "E",
+          "start": 32,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 33,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "D",
+          "start": 34,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "A",
+          "start": 35,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "B",
+          "start": 36,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 37,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "G",
+          "start": 38,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "A",
+          "start": 39,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "F",
+          "start": 40,
+          "duration": 1,
+          "force": 7
+        }
+      ],
+      "midi": "work/midi-2026-08-18T0839Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 5",
+          "the north has a fever — discord comes"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
