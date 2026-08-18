@@ -1756,6 +1756,239 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "10:31",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 10,
+      "want_source": "observed",
+      "presage": "Trois feux errants glissent sur l’eau dormante, et les pierres mêmes murmurent l’heure des fades aînées, sans que personne ne franchisse le gué ni ne porte ombre ; le froid s’insinue par la veillée comme une pensée que les laveuses n’ont pas été, et demain le pain croîtra en vain sous le soleil haut.",
+      "presage_en": "Three wandering fires glide on the sleeping water, and the very stones murmur the hour of the elder fades, with no one crossing the ford nor casting a shadow; the cold slips through the watch like a thought that the night washers were not there, and tomorrow the bread will grow in vain beneath the high sun.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "A",
+          "start": 1,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "D",
+          "start": 2,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "A",
+          "start": 3,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "B",
+          "start": 4,
+          "duration": 0.8,
+          "force": 6
+        },
+        {
+          "note": "A",
+          "start": 5,
+          "duration": 1.2,
+          "force": 8
+        },
+        {
+          "note": "G",
+          "start": 6,
+          "duration": 1,
+          "force": 7
+        },
+        {
+          "note": "F#",
+          "start": 7,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "E",
+          "start": 8,
+          "duration": 1.5,
+          "force": 9
+        },
+        {
+          "note": "D",
+          "start": 9,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "C",
+          "start": 10,
+          "duration": 1.2,
+          "force": 7
+        },
+        {
+          "note": "B",
+          "start": 11,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "A",
+          "start": 12,
+          "duration": 0.8,
+          "force": 7
+        },
+        {
+          "note": "G, D",
+          "start": 13,
+          "duration": 2,
+          "force": 8
+        },
+        {
+          "note": "A",
+          "start": 15,
+          "duration": 1.5,
+          "force": 7
+        },
+        {
+          "note": "G",
+          "start": 16,
+          "duration": 1.2,
+          "force": 6
+        },
+        {
+          "note": "F#",
+          "start": 17,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "E",
+          "start": 18,
+          "duration": 1.5,
+          "force": 8
+        },
+        {
+          "note": "D, A",
+          "start": 19,
+          "duration": 2,
+          "force": 7
+        },
+        {
+          "note": "G, B",
+          "start": 21,
+          "duration": 1.8,
+          "force": 6
+        },
+        {
+          "note": "D, G",
+          "start": 23,
+          "duration": 1.5,
+          "force": 8
+        },
+        {
+          "note": "A, F#",
+          "start": 25,
+          "duration": 1.2,
+          "force": 7
+        },
+        {
+          "note": "E, D",
+          "start": 26,
+          "duration": 1.8,
+          "force": 9
+        },
+        {
+          "note": "C, A",
+          "start": 28,
+          "duration": 1.5,
+          "force": 6
+        },
+        {
+          "note": "G, B",
+          "start": 30,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "D, A",
+          "start": 31,
+          "duration": 1.2,
+          "force": 7
+        },
+        {
+          "note": "G, F#",
+          "start": 32,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "E, D",
+          "start": 33,
+          "duration": 1.5,
+          "force": 8
+        },
+        {
+          "note": "C, A",
+          "start": 35,
+          "duration": 1.2,
+          "force": 7
+        },
+        {
+          "note": "G, B",
+          "start": 36,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "D, A",
+          "start": 37,
+          "duration": 1.5,
+          "force": 7
+        },
+        {
+          "note": "G, F#",
+          "start": 39,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "E, D",
+          "start": 40,
+          "duration": 1.8,
+          "force": 9
+        }
+      ],
+      "midi": "work/midi-2026-08-18T1031Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
