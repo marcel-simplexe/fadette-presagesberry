@@ -269,6 +269,269 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "02:58",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 10,
+      "want_source": "fallback-gift",
+      "presage": "La lueur argentée grandit, un cinquième morceau de saphir parcheminé. Sur rien ne souffle l’air, tandis que quatre lumières furtives se saisissent dans l’ombre. Le veilleur entend deux voix anciennes, et les fades se montrent à l’orée du bois.",
+      "presage_en": "The silver light grows, a fifth scrap of parchment sapphire. On nothing breathes the air, while four furtive lights seize themselves in the shadow. The watcher hears two ancient voices, and the fades show themselves at the edge of the wood.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "C",
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "C",
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": "D",
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "F",
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "C",
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": "D",
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "F",
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "C",
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": "D",
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 10.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 10.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "C",
+          "start": 11.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": "D",
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 12.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 13.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "F",
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 14.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 14.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "C",
+          "start": 15.0,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": "D",
+          "start": 15.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "F",
+          "start": 17.5,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 18.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "C",
+          "start": 18.5,
+          "duration": 0.5,
+          "force": 90
+        }
+      ],
+      "midi": "work/midi-2026-08-18T0258Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.67",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
