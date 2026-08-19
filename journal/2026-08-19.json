@@ -370,6 +370,89 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "04:39",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 11,
+      "want_source": "fallback-gift",
+      "presage": "La lueur première cisèle l'étoffe noire où trois silhouettes se découpent, portées par un vent sans souffle. L'ombre du moine s'allonge jusqu'au seuil et le regard butte dans l'herbe humide. Le mort est là où le silence a pris racine.",
+      "presage_en": "the first light chisels the black cloth where three shapes stand out, borne by a wind without breath. the monk’s shadow stretches to the threshold and the eye strikes the wet grass. the dead one is where silence has taken root.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "E",
+          "start": 1.5,
+          "duration": 0.75,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 2.25,
+          "duration": 1.0,
+          "force": 0.9
+        },
+        {
+          "note": "D",
+          "start": 3.25,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 3.75,
+          "duration": 0.75,
+          "force": 0.8
+        },
+        {
+          "note": "G",
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 5.0,
+          "duration": 1.5,
+          "force": 0.95
+        },
+        {
+          "note": "E",
+          "start": 6.5,
+          "duration": 0.75,
+          "force": 0.5
+        }
+      ],
+      "midi": "work/midi-2026-08-19T0439Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
