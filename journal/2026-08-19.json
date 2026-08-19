@@ -1802,6 +1802,332 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "14:36",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 11,
+      "want_source": "observed",
+      "nth": 1,
+      "of": 2,
+      "presage": "Sous la lame d’argent du premier quartier, l’ombre compte quatre mouvements et la porte sans serrure se ferme dans le songe. Le veilleur touche le sol par une présence qui fuit, tandis que le ciel garde son silence vierge et l’aube fléchit son jour contre le clocher. Le pays, assoiffé, ne voit personne, mais il entend le vent fermer à jamais l’espace où l’œil comptait les signes.",
+      "presage_en": "Under the silver blade of the first quarter, the shadow counts four motions and the door without lock closes in the dream. The watcher touches the ground by a presence that flees, while the sky keeps its virgin silence and the dawn bends its day against the steeple. The land, parched, sees no one, but it hears the wind shut forever the space where the eye counted the signs.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 2,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 2,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 3,
+          "duration": 3,
+          "force": 90
+        },
+        {
+          "note": "G",
+          "start": 6,
+          "duration": 2,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 8,
+          "duration": 1.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 9.5,
+          "duration": 2.5,
+          "force": 85
+        },
+        {
+          "note": "F",
+          "start": 12,
+          "duration": 1,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 13,
+          "duration": 4,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 17,
+          "duration": 1.5,
+          "force": 70
+        }
+      ],
+      "midi": "work/midi-2026-08-19T1436Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 4.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "14:36",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 11,
+      "want_source": "observed",
+      "nth": 2,
+      "of": 2,
+      "presage": "La nuit parle dans l’alun se taillant, quatre pas hors du gué sans ombre revue, et le veilleur glissant du mauvais retour.",
+      "presage_en": "The night speaks in the moonlight cutting, four steps from the ford with no shadow seen again, and the watcher slipping on the wrong return.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.5,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 1.5,
+          "duration": 1.2,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 2.7,
+          "duration": 1.8,
+          "force": 0.7
+        },
+        {
+          "note": "C",
+          "start": 4.5,
+          "duration": 1.3,
+          "force": 0.75
+        },
+        {
+          "note": "D",
+          "start": 5.8,
+          "duration": 1.1,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 6.9,
+          "duration": 1.4,
+          "force": 0.8
+        },
+        {
+          "note": "G",
+          "start": 8.3,
+          "duration": 1.0,
+          "force": 0.55
+        },
+        {
+          "note": "D",
+          "start": 9.3,
+          "duration": 1.5,
+          "force": 0.7
+        },
+        {
+          "note": "C",
+          "start": 10.8,
+          "duration": 1.3,
+          "force": 0.65
+        },
+        {
+          "note": "D",
+          "start": 12.1,
+          "duration": 1.2,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 13.3,
+          "duration": 1.4,
+          "force": 0.8
+        },
+        {
+          "note": "G",
+          "start": 14.7,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 15.7,
+          "duration": 1.5,
+          "force": 0.7
+        },
+        {
+          "note": "E",
+          "start": 17.2,
+          "duration": 1.2,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 18.4,
+          "duration": 1.3,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 19.7,
+          "duration": 1.4,
+          "force": 0.8
+        },
+        {
+          "note": "G",
+          "start": 21.1,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 22.1,
+          "duration": 1.5,
+          "force": 0.7
+        },
+        {
+          "note": "C",
+          "start": 23.6,
+          "duration": 1.3,
+          "force": 0.65
+        },
+        {
+          "note": "D",
+          "start": 24.9,
+          "duration": 1.2,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 26.1,
+          "duration": 1.4,
+          "force": 0.8
+        },
+        {
+          "note": "G",
+          "start": 27.5,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 28.5,
+          "duration": 1.5,
+          "force": 0.7
+        },
+        {
+          "note": "E",
+          "start": 29.0,
+          "duration": 1.2,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 30.2,
+          "duration": 1.3,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 31.5,
+          "duration": 1.4,
+          "force": 0.8
+        },
+        {
+          "note": "G",
+          "start": 32.9,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 33.9,
+          "duration": 1.5,
+          "force": 0.7
+        },
+        {
+          "note": "E",
+          "start": 35.4,
+          "duration": 1.2,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 36.6,
+          "duration": 1.4,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 38.0,
+          "duration": 1.3,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 39.3,
+          "duration": 1.4,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 40.7,
+          "duration": 1.5,
+          "force": 0.7
+        }
+      ],
+      "midi": "work/midi-2026-08-19T1436Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 4.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
