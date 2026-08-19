@@ -1,0 +1,184 @@
+{
+  "date": "2026-08-19",
+  "breaths": [
+    {
+      "time": "01:23",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 11,
+      "want_source": "fallback-gift",
+      "presage": "Dans le silence du bourg, quatre lumières errent sous les halliers. Le songe prend forme : un moine fantôme, capuchon nacré, glisse sur l'eau dormante près des blés. Les bêtes meuglent sans trêve, et le ciel garde son pur mystère.",
+      "presage_en": "in the still of the village four lights wander under the thickets a ghost monk hood pearly slides on the sleeping water near the wheat the beasts low without pause and the sky keeps its pure mystery",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "D",
+          "start": 2,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "C",
+          "start": 4,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "A",
+          "start": 5,
+          "duration": 1.5,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 6.5,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "C",
+          "start": 8.5,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "A",
+          "start": 9.5,
+          "duration": 1.5,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 11,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "B♭",
+          "start": 13,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "G",
+          "start": 14,
+          "duration": 1.5,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 16,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "A",
+          "start": 18,
+          "duration": 1.5,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 20,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "C",
+          "start": 22,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "A",
+          "start": 23,
+          "duration": 1.5,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 25,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "B♭",
+          "start": 27,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "G",
+          "start": 28,
+          "duration": 1.5,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 30,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "A",
+          "start": 32,
+          "duration": 1.5,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 34,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "C",
+          "start": 36,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "A",
+          "start": 37,
+          "duration": 1.5,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 39,
+          "duration": 2,
+          "force": 3
+        }
+      ],
+      "midi": "work/midi-2026-08-19T0123Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 4",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    }
+  ]
+}
