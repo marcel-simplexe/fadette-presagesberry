@@ -1153,6 +1153,275 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "10:31",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 11,
+      "want_source": "observed",
+      "presage": "La friche exhale une vapeur d’eau et pourri qui frappe le guetteur comme un souffle. Aucun pas ne brise le silence, les pierres seules demeurent vivantes dans l’obscurité. L’eau du puits se fait amère pour un temps, sans que la bouche ait goûté le désastre.",
+      "presage_en": "The fallow land breathes out a vapour of water and rot that strikes the watcher like a breath. No footstep breaks the silence, only the stones remain alive in the dark. The well water grows bitter for a while, without the mouth having tasted the disaster.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 0.8,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 1.3,
+          "duration": 1.0,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 2.3,
+          "duration": 0.8,
+          "force": 40
+        },
+        {
+          "note": "A",
+          "start": 3.1,
+          "duration": 0.6,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 3.7,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 4.7,
+          "duration": 0.7,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 5.4,
+          "duration": 1.0,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 6.4,
+          "duration": 0.7,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 7.1,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": "G",
+          "start": 8.1,
+          "duration": 0.7,
+          "force": 40
+        },
+        {
+          "note": "A",
+          "start": 8.8,
+          "duration": 0.6,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 9.4,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": "C",
+          "start": 10.4,
+          "duration": 0.8,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 11.2,
+          "duration": 1.0,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 12.2,
+          "duration": 0.7,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 12.9,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": "G",
+          "start": 13.9,
+          "duration": 0.7,
+          "force": 45
+        },
+        {
+          "note": "A",
+          "start": 14.6,
+          "duration": 0.6,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 15.2,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": "C",
+          "start": 16.2,
+          "duration": 0.8,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 17.0,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 18.0,
+          "duration": 0.7,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 18.7,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": "G",
+          "start": 19.7,
+          "duration": 0.7,
+          "force": 40
+        },
+        {
+          "note": "A",
+          "start": 20.4,
+          "duration": 0.6,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 21.0,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 22.0,
+          "duration": 0.8,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 22.8,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 23.8,
+          "duration": 0.7,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 24.5,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": "G",
+          "start": 25.5,
+          "duration": 0.7,
+          "force": 45
+        },
+        {
+          "note": "A",
+          "start": 26.2,
+          "duration": 0.6,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 26.8,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 27.8,
+          "duration": 0.8,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 28.6,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 29.6,
+          "duration": 0.7,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 30.3,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": "G",
+          "start": 31.3,
+          "duration": 0.7,
+          "force": 45
+        }
+      ],
+      "midi": "work/midi-2026-08-19T1031Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 4",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
