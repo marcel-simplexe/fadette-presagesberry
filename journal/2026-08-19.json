@@ -815,6 +815,344 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "08:41",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 11,
+      "want_source": "observed",
+      "nth": 1,
+      "of": 2,
+      "presage": "La nuit a mis au monde cinq lumières silencieuses. Le meneu’ ouvre la porte que nulle main n’a fermée, et la meute s’étire vers nous. Dans le fragile or du pré, le veilleur voit flotter les feux errants comme des marques.",
+      "presage_en": "the night bore five quiet lights. the meneu’ opens the door no hand closed and the pack stretches toward us. in the thin gold of the meadow the watcher sees the wandering fires drift like signs.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 2.8,
+          "duration": 1.2,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 4.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 5.0,
+          "duration": 1.5,
+          "force": 0.4
+        },
+        {
+          "note": "G",
+          "start": 6.5,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 7.5,
+          "duration": 1.2,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 8.7,
+          "duration": 1.3,
+          "force": 0.6
+        },
+        {
+          "note": "F",
+          "start": 10.0,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 10.8,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 11.8,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 12.8,
+          "duration": 1.2,
+          "force": 0.7
+        },
+        {
+          "note": "B",
+          "start": 14.0,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "G",
+          "start": 14.8,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 15.8,
+          "duration": 1.2,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 17.0,
+          "duration": 1.5,
+          "force": 0.4
+        },
+        {
+          "note": "F",
+          "start": 18.5,
+          "duration": 0.8,
+          "force": 0.3
+        },
+        {
+          "note": "A",
+          "start": 19.3,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 20.3,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "G",
+          "start": 21.3,
+          "duration": 1.2,
+          "force": 0.6
+        },
+        {
+          "note": "B",
+          "start": 22.5,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "G",
+          "start": 23.3,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 24.3,
+          "duration": 1.2,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 25.5,
+          "duration": 1.5,
+          "force": 0.3
+        },
+        {
+          "note": "F",
+          "start": 27.0,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 27.8,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 28.8,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "G",
+          "start": 29.8,
+          "duration": 1.2,
+          "force": 0.5
+        },
+        {
+          "note": "B",
+          "start": 31.0,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "G",
+          "start": 31.8,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 32.8,
+          "duration": 1.2,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 34.0,
+          "duration": 1.5,
+          "force": 0.3
+        },
+        {
+          "note": "F",
+          "start": 35.5,
+          "duration": 0.8,
+          "force": 0.3
+        }
+      ],
+      "midi": "work/midi-2026-08-19T0841Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 5",
+          "the north has a fever — discord comes"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "08:41",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 11,
+      "want_source": "observed",
+      "nth": 2,
+      "of": 2,
+      "presage": "Un lueur basse vient du chemin des troupeaux, invisible aux yeux ordinaires mais comme une haleine parcourant le sol. Le pays entier suffit à remplir la veillée, chaque pierre et chaque brin d'herbe portant une ombre qui parle. Au bord du seuil se tait un chien sans vie, unique mémoire muette qu’emporte avec lui l’heure défunte.",
+      "presage_en": "A low light comes from the cattle path, unseen to common eyes but like a breath moving along the ground. The whole country holds the watch, every stone and blade of grass bearing a shadow that speaks. By the threshold sits a lifeless dog, the only mute memory it carries away with the dead hour.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0,
+          "duration": 2,
+          "force": 60
+        },
+        {
+          "note": "G",
+          "start": 2,
+          "duration": 2,
+          "force": 55
+        },
+        {
+          "note": "E",
+          "start": 4,
+          "duration": 3,
+          "force": 58
+        },
+        {
+          "note": "C",
+          "start": 7,
+          "duration": 2,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 9,
+          "duration": 1,
+          "force": 52
+        },
+        {
+          "note": "G",
+          "start": 10,
+          "duration": 2,
+          "force": 55
+        },
+        {
+          "note": "E",
+          "start": 12,
+          "duration": 3,
+          "force": 50
+        },
+        {
+          "note": "C",
+          "start": 15,
+          "duration": 2,
+          "force": 48
+        },
+        {
+          "note": "A",
+          "start": 17,
+          "duration": 1,
+          "force": 50
+        },
+        {
+          "note": "G",
+          "start": 18,
+          "duration": 2,
+          "force": 55
+        }
+      ],
+      "midi": "work/midi-2026-08-19T0841Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 5",
+          "the north has a fever — discord comes"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
