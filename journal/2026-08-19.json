@@ -179,6 +179,197 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "02:59",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 11,
+      "want_source": "fallback-gift",
+      "presage": "Dans le silence du premier quartier, quatre lumières vacillent au bord de la lande. Le pore de l'obscurité s'ouvre et libère ceux qui n'attendaient plus l'aube. Au seuil, l'absence du fidèle chien scelle l'image d'une vie qui n'est plus.",
+      "presage_en": "In the hush of the first watch, four lights flicker at the edge of the heath. The mouth of the dark opens and lets out those who no longer waited for dawn. At the threshold, the faithful dog’s absence seals the picture of a life that is no more.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 4
+        },
+        {
+          "note": "A",
+          "start": 1,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 2,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "E",
+          "start": 4,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "D",
+          "start": 5,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "A",
+          "start": 7,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 8,
+          "duration": 3,
+          "force": 4
+        },
+        {
+          "note": "rest",
+          "start": 11,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 13,
+          "duration": 1,
+          "force": 4
+        },
+        {
+          "note": "A",
+          "start": 14,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 15,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "rest",
+          "start": 17,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "E",
+          "start": 19,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "D",
+          "start": 20,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "rest",
+          "start": 22,
+          "duration": 3,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 25,
+          "duration": 1,
+          "force": 4
+        },
+        {
+          "note": "A",
+          "start": 26,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 27,
+          "duration": 3,
+          "force": 4
+        },
+        {
+          "note": "rest",
+          "start": 30,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "E",
+          "start": 32,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "rest",
+          "start": 33,
+          "duration": 4,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 37,
+          "duration": 1,
+          "force": 4
+        },
+        {
+          "note": "A",
+          "start": 38,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 39,
+          "duration": 2,
+          "force": 3
+        },
+        {
+          "note": "rest",
+          "start": 41,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "E",
+          "start": 43,
+          "duration": 1,
+          "force": 1
+        }
+      ],
+      "midi": "work/midi-2026-08-19T0259Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 4",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
