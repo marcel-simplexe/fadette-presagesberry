@@ -1422,6 +1422,386 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "12:52",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 11,
+      "want_source": "observed",
+      "nth": 1,
+      "of": 2,
+      "presage": "La clarté recule, et le nombre qui s'élève porte le poids du jour retourné. L’air s’épaissit, et ce qui marche n’a pas de forme nommable, seulement la respiration d’un animal sous l’eau. Ainsi s’écrit le signe dans la langue des veilleurs, et le pain refusera de se lever.",
+      "presage_en": "The light falls back and the number that rises bears the weight of the day turned. The air thickens and that which walks has no nameable shape, only the breath of an animal under water. So the sign is written in the tongue of those who keep the watch, and the bread will refuse to rise.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 0.8,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 1.8,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "F#",
+          "start": 2.8,
+          "duration": 0.7,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 3.5,
+          "duration": 0.9,
+          "force": 88
+        },
+        {
+          "note": "D",
+          "start": 4.4,
+          "duration": 1.1,
+          "force": 90
+        },
+        {
+          "note": "B",
+          "start": 5.5,
+          "duration": 0.6,
+          "force": 72
+        },
+        {
+          "note": "A",
+          "start": 6.1,
+          "duration": 0.8,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 6.9,
+          "duration": 1.0,
+          "force": 85
+        }
+      ],
+      "midi": "work/midi-2026-08-19T1252Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 4.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "12:52",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 11,
+      "want_source": "observed",
+      "nth": 2,
+      "of": 2,
+      "presage": "Le ciel, fidèle à son ordre de quatre feux, montre les mourants filer en ligne droite sans bruit. Entre les chaumes, un souffle qui n’est pas vent porte en secret une ombre plus grande que le vent. La nuit vient de lâcher ce qui trotte derrière le veilleur comme une bête au collier lourdaud.",
+      "presage_en": "the sky, true to its order of four fires, shows the dying slip in a straight line without sound. between the thatches, a breath that is not wind carries in secret a shadow larger than the wind. night has just let go what trots behind the watcher like a beast on a clumsy collar.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 1,
+          "duration": 1,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 2,
+          "duration": 1,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 3,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 3.5,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 4.5,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "F#",
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 6,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 7,
+          "duration": 1,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 8,
+          "duration": 1,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 9,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 9.5,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 10.5,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "F#",
+          "start": 11.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 12,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 13,
+          "duration": 1,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 14,
+          "duration": 1,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 15,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 15.5,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 16.5,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "F#",
+          "start": 17.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 18,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 19,
+          "duration": 1,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 20,
+          "duration": 1,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 21,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 21.5,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 22.5,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "F#",
+          "start": 23.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 24,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 25,
+          "duration": 1,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 26,
+          "duration": 1,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 27,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 27.5,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 28.5,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "F#",
+          "start": 29.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 30,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 31,
+          "duration": 1,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 32,
+          "duration": 1,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 33,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 33.5,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 34.5,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "F#",
+          "start": 35.5,
+          "duration": 0.5,
+          "force": 60
+        }
+      ],
+      "midi": "work/midi-2026-08-19T1252Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 4.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
