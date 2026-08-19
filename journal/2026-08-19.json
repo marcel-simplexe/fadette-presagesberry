@@ -2128,6 +2128,89 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "16:34",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 11,
+      "want_source": "observed",
+      "presage": "La lumière décroît comme si la nuit dévidait son fil en silence. Trois feux errants tremblent au bord des étangs, trois noms sans visage. Le veilleur se tient au bord de l'eau où le temps se fane.",
+      "presage_en": "The light falls back as if the night unwinds its thread in silence. Three wandering fires tremble at the edge of the ponds, three names without faces. The watcher stands at the water's edge where time fades.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "G",
+          "start": 1,
+          "duration": 1,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 2,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 3,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": "G",
+          "start": 3.5,
+          "duration": 1,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 4.5,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "G",
+          "start": 5.5,
+          "duration": 1,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 6.5,
+          "duration": 1,
+          "force": 60
+        }
+      ],
+      "midi": "work/midi-2026-08-19T1634Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
