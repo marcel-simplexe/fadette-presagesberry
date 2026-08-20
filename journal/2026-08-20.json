@@ -972,6 +972,125 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "06:50",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 12,
+      "want_source": "fallback-gift",
+      "presage": "Dans l’étope obscure où chaque chiffre vibre comme un souffle ancien, deux lumières errante s’y placent et la biche blanche passe devant la porte close. L’ombre qui frôle le gué porte un nom muet et le veilleur l’entend sans cause. La voie s’ouvre une fois, en silence.",
+      "presage_en": "In the dark vault where every mark hums like an old breath two wandering lights set themselves and the white hind passes before the shut door. The shade brushing the ford bears a mute name and the watcher hears it without cause. The way opens once, in silence.",
+      "score": [
+        {
+          "note": "Do",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": "fort"
+        },
+        {
+          "note": "Sol",
+          "start": 1.5,
+          "duration": 1.0,
+          "force": "moyen"
+        },
+        {
+          "note": "Ré",
+          "start": 2.25,
+          "duration": 0.5,
+          "force": "faible"
+        },
+        {
+          "note": "Do",
+          "start": 3.25,
+          "duration": 0.75,
+          "force": "fort"
+        },
+        {
+          "note": "Fa",
+          "start": 4.0,
+          "duration": 0.5,
+          "force": "moyen"
+        },
+        {
+          "note": "Ré",
+          "start": 4.5,
+          "duration": 0.375,
+          "force": "faible"
+        },
+        {
+          "note": "Do",
+          "start": 5.125,
+          "duration": 0.75,
+          "force": "fort"
+        },
+        {
+          "note": "Sol",
+          "start": 6.25,
+          "duration": 0.5,
+          "force": "moyen"
+        },
+        {
+          "note": "Do",
+          "start": 7.0,
+          "duration": 1.0,
+          "force": "fort"
+        },
+        {
+          "note": "Fa",
+          "start": 8.25,
+          "duration": 0.5,
+          "force": "moyen"
+        },
+        {
+          "note": "Ré",
+          "start": 9.0,
+          "duration": 0.375,
+          "force": "faible"
+        },
+        {
+          "note": "Do",
+          "start": 9.75,
+          "duration": 0.75,
+          "force": "fort"
+        },
+        {
+          "note": "Sol",
+          "start": 10.75,
+          "duration": 0.25,
+          "force": "moyen"
+        },
+        {
+          "note": "Do",
+          "start": 11.25,
+          "duration": 1.0,
+          "force": "fort"
+        }
+      ],
+      "midi": "work/midi-2026-08-20T0650Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
