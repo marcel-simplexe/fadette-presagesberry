@@ -1180,6 +1180,227 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "16:37",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 12,
+      "want_source": "observed",
+      "presage": "Lorsque le silence tire sur l'eau, l'étang devient un miroir aux profondeurs de liens qui tiennent. Le lupeux se glisse, créature faite pour être oubliée, et l'enfant interroge encore l'air qui ne répond que de sa présence. L'ombre se fait plus longue et gagne sur les derniers feux du jour.",
+      "presage_en": "When the quiet draws on the water the pond turns to a mirror with depths of bonds that hold. The lupeux slips by, a creature made to be forgotten, and the child still asks the air that answers only with its presence. The shadow grows longer and wins on the last fires of the day.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "A",
+          "start": 1,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "A",
+          "start": 2,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "G",
+          "start": 3,
+          "duration": 2,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 5,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "E",
+          "start": 6,
+          "duration": 2,
+          "force": 0.9
+        },
+        {
+          "note": "A",
+          "start": 8,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "D",
+          "start": 9,
+          "duration": 2,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 11,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "G",
+          "start": 12,
+          "duration": 2,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 14,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "E",
+          "start": 15,
+          "duration": 2,
+          "force": 0.9
+        },
+        {
+          "note": "A",
+          "start": 17,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "D",
+          "start": 18,
+          "duration": 2,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 20,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "G",
+          "start": 21,
+          "duration": 2,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 23,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "E",
+          "start": 24,
+          "duration": 2,
+          "force": 0.9
+        },
+        {
+          "note": "A",
+          "start": 26,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "D",
+          "start": 27,
+          "duration": 2,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 29,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "G",
+          "start": 30,
+          "duration": 2,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 32,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "E",
+          "start": 33,
+          "duration": 2,
+          "force": 0.9
+        },
+        {
+          "note": "A",
+          "start": 35,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "D",
+          "start": 36,
+          "duration": 2,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 38,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "G",
+          "start": 39,
+          "duration": 2,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 41,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "E",
+          "start": 42,
+          "duration": 2,
+          "force": 0.9
+        },
+        {
+          "note": "A",
+          "start": 44,
+          "duration": 1,
+          "force": 1
+        }
+      ],
+      "midi": "work/midi-2026-08-20T1637Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
