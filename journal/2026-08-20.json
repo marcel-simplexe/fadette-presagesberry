@@ -1,0 +1,349 @@
+{
+  "date": "2026-08-20",
+  "breaths": [
+    {
+      "time": "01:22",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 12,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "Trois signes s'éveillent dans la nuit noire, comptés sans mesure. La lande silencieuse attend aux confins, seule et sans ombre visible. Le chemin se perd au retour.",
+      "presage_en": "Three signs stir in the dark, counted without measure. The silent moor waits at the edge, alone and without any visible shadow. The path is lost on the way back.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 1,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "D",
+          "start": 2,
+          "duration": 1,
+          "force": 0.8
+        },
+        {
+          "note": "E",
+          "start": 4,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 5.5,
+          "duration": 0.6,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 7,
+          "duration": 1.2,
+          "force": 0.9
+        },
+        {
+          "note": "D",
+          "start": 9,
+          "duration": 1,
+          "force": 0.8
+        }
+      ],
+      "midi": "work/midi-2026-08-20T0122Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "01:22",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 12,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "À l'heure où les blés ploient sans vent, un nombre de trois porte le ciel. Une vieille voix murmure le secret des feux qui rebroussent. Les yeux restent clos contre cette apparition qui ne se nomme pas.",
+      "presage_en": "When the wheat bows without wind, a number of three carries the sky. An old voice murmurs the secret of the fires that turn back. The eyes stay shut against this appearance that is not named.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 0.5,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 0.9,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "F",
+          "start": 1.4,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 1.9,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 2.5,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 2.9,
+          "duration": 0.4,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 3.3,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 3.8,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 4.3,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "F",
+          "start": 4.7,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 5.2,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 5.8,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 6.2,
+          "duration": 0.4,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 6.6,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 7.1,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 7.6,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "F",
+          "start": 8.0,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 8.5,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 9.1,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 9.5,
+          "duration": 0.4,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 9.9,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 10.4,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 10.9,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "F",
+          "start": 11.3,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 11.8,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 12.4,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 12.8,
+          "duration": 0.4,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 13.2,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 13.7,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 14.2,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "F",
+          "start": 14.6,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 15.1,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 15.7,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 16.1,
+          "duration": 0.4,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 16.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 17.5,
+          "duration": 0.4,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-20T0122Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    }
+  ]
+}
