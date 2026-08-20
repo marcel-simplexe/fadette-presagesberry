@@ -1091,6 +1091,95 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "10:33",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 12,
+      "want_source": "fallback-gift",
+      "presage": "Une lueur pâle se fendant dans l'obscurité, un feu muet qui gémit dans l'herbe haute, la Grand'Bête se lève au fond du bois. Aucun pas ne rompt le silence, le veilleur ne trouve d'yeux pour le fixer, il ne trouve que la terre qui tremble et un chien étendu sans souffle. L'heure est close, la terre sans ombre a fini de se taire.",
+      "presage_en": "A pale light splitting the dark, a mute fire that moans in the tall grass, the Grand Beast rises deep in the wood. No step breaks the hush, the watcher finds no eyes to fix upon, only the trembling earth and a dog stretched out without breath. The hour is closed, the shadowless land has finished its silence.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0,
+          "duration": 1,
+          "force": 127
+        },
+        {
+          "note": "E",
+          "start": 4,
+          "duration": 1,
+          "force": 110
+        },
+        {
+          "note": "A",
+          "start": 5,
+          "duration": 1,
+          "force": 127
+        },
+        {
+          "note": "C",
+          "start": 9,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "G",
+          "start": 10,
+          "duration": 1,
+          "force": 90
+        },
+        {
+          "note": "A",
+          "start": 11,
+          "duration": 1,
+          "force": 127
+        },
+        {
+          "note": "F",
+          "start": 12,
+          "duration": 1,
+          "force": 85
+        },
+        {
+          "note": "D",
+          "start": 13,
+          "duration": 1,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 14,
+          "duration": 2,
+          "force": 115
+        }
+      ],
+      "midi": "work/midi-2026-08-20T1033Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
