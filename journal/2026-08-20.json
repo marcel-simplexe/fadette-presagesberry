@@ -1753,6 +1753,149 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "22:30",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 12,
+      "want_source": "fallback-gift",
+      "presage": "Au plus profond du ciel la lune se montre, un quartier d'or pâle coupant l'ombre. Trois feux tremblants dansent sur l'eau muette, tandis qu'un souffle froid effleure les blés endormis. Les pierres se tiennent immobiles, attendant que le meneu' de loups réveille le veilleur au goût de fer.",
+      "presage_en": "Deep in the sky the moon shows, a pale golden slice cutting the dark. Three flickering fires dance on the still water, while a cold breath brushes the sleeping wheat. The stones stand still, waiting for the wolf leader to wake the watcher with the taste of iron.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 1.8,
+          "duration": 0.4,
+          "force": 0.9
+        },
+        {
+          "note": "G",
+          "start": 2.2,
+          "duration": 0.6,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 2.8,
+          "duration": 0.7,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 3.5,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "G",
+          "start": 5.0,
+          "duration": 0.6,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 5.6,
+          "duration": 0.7,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 6.3,
+          "duration": 0.9,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 7.2,
+          "duration": 0.4,
+          "force": 0.9
+        },
+        {
+          "note": "G",
+          "start": 7.6,
+          "duration": 0.5,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 8.1,
+          "duration": 0.6,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 8.7,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "G",
+          "start": 10.0,
+          "duration": 0.6,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 10.6,
+          "duration": 0.7,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 11.3,
+          "duration": 0.9,
+          "force": 0.3
+        }
+      ],
+      "midi": "work/midi-2026-08-20T2230Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
