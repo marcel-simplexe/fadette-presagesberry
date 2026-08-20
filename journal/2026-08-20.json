@@ -694,6 +694,284 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "04:39",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 12,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "Les trois sylphes glissent sous l'horizon sans bruit, comptés un à un comme un souffle discret. Les ombres s'étirent sur le gué sous un ciel bouché par l'invisible, silence des fades qui veillent. Le veilleur les voit passer, comme la promesse par laquelle rien de neuf n'est attendu, rien de neuf n'est redouté.",
+      "presage_en": "Three sylphs slip under the horizon soundless, counted one by one like a hushed breath. Shadows stretch across the ford beneath a sky closed off by the unseen, silence of the fades who watch. The watcher sees them pass, like a promise from which nothing new is expected, nothing new is feared.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0.0,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "G",
+          "start": 0.8,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "E",
+          "start": 1.6,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 2.4,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "C",
+          "start": 3.2,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 4.0,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 4.8,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "E",
+          "start": 5.6,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 6.4,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 7.2,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 8.0,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 8.8,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "C",
+          "start": 9.6,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 10.4,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 11.2,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "E",
+          "start": 12.0,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 12.8,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 13.6,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 14.4,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "A, G",
+          "start": 15.2,
+          "duration": 1.6,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 16.8,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "E",
+          "start": 17.6,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 18.4,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "D, G",
+          "start": 19.2,
+          "duration": 1.6,
+          "force": 0.7
+        },
+        {
+          "note": "A, G",
+          "start": 20.8,
+          "duration": 1.6,
+          "force": 0.7
+        },
+        {
+          "note": "A, C",
+          "start": 22.4,
+          "duration": 2.4,
+          "force": 0.8
+        }
+      ],
+      "midi": "work/midi-2026-08-20T0439Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "04:39",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 12,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "La lumière fuit comme un bétail qui s'entasse dans les fissures, le chiffre trois demeure une signature sur la brume. Et sur l'eau, la silhouette du meneu' s'élève.",
+      "presage_en": "The light slips away like cattle crowding into the cracks, the number three remains a mark on the mist. And on the water, the shape of the meneu' rises.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 0.8,
+          "force": 85
+        },
+        {
+          "note": "F#",
+          "start": 2.0,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 2.8,
+          "duration": 1.2,
+          "force": 90
+        },
+        {
+          "note": "G",
+          "start": 4.0,
+          "duration": 0.6,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 5.0,
+          "duration": 0.9,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 6.5,
+          "duration": 0.7,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 8.0,
+          "duration": 0.4,
+          "force": 60
+        }
+      ],
+      "midi": "work/midi-2026-08-20T0439Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
