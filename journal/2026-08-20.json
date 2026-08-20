@@ -1484,6 +1484,275 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "20:31",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 12,
+      "want_source": "fallback-gift",
+      "presage": "L’ombre d’un homme sans tête se dessine à l’orée, pas de pas qui l’amène. Le ciel s’ouvre en un coin de silence où l’étang devient miroir des feux morts. Le pays se soulève comme un souffle ancien, et reste.",
+      "presage_en": "a headless man’s shadow takes shape at the edge of the woods, no footfall brings it. the sky opens in a corner of silence where the pond turns into a mirror for the dead fires. the land lifts like an old breath and stays.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "B",
+          "start": 0.5,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 1.1,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "C#'",
+          "start": 1.6,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 2.5,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 2.9,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "E",
+          "start": 3.4,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 3.7,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 4.2,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 4.6,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "F#'",
+          "start": 5.1,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "C#'",
+          "start": 6.0,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 6.3,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "E",
+          "start": 6.8,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 7.2,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 7.7,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 8.1,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "D",
+          "start": 8.6,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "F#'",
+          "start": 9.5,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 9.9,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "C#'",
+          "start": 10.4,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 10.7,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 11.2,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 11.6,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 12.1,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 13.0,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 13.4,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "F#'",
+          "start": 13.9,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 14.3,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "C#'",
+          "start": 14.8,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 15.1,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "E",
+          "start": 15.6,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 16.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 16.5,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 16.9,
+          "duration": 0.5,
+          "force": 85
+        }
+      ],
+      "midi": "work/midi-2026-08-20T2031Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
