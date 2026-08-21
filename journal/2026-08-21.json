@@ -203,6 +203,287 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "03:05",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 13,
+      "want_source": "fallback-gift",
+      "presage": "La nuit tombe d’un chiffre, et l’ombre s’installe sur les trois feux errants. Dans le silence qui garde les veilles, la Grand'Bête passe comme un souffle sur les blés. Le puits rend un goût amer, têtu et sans mémoire, jusqu’à ce que la lune retrouve son premier quartier.",
+      "presage_en": "the night falls like a number and shadow settles on the three wandering fires. in the hush that watches the watches the Grand Beast passes like a breath over the wheat. the well gives a bitter taste stubborn and without memory till the moon finds her first quarter.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 1,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 2,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 3,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 4,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 5,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 6,
+          "duration": 1,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 7,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 8,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 9,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 10,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 11,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 12,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "G, B, D",
+          "start": 13,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 14,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 15,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 16,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 17,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 18,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 19,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "G, B, D",
+          "start": 20,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 21,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 22,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 23,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 24,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "G, B, D",
+          "start": 25,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 26,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 27,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 28,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 29,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "G, B, D",
+          "start": 30,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 31,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 32,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 33,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 34,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "G, B, D",
+          "start": 35,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 36,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 37,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 38,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "A",
+          "start": 39,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "G, B, D",
+          "start": 40,
+          "duration": 1,
+          "force": 60
+        }
+      ],
+      "midi": "work/midi-2026-08-21T0305Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
