@@ -2184,6 +2184,77 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "08:43",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 13,
+      "want_source": "observed",
+      "presage": "Trois signes s’arrêtent au bord du jour, l’ombre du meneu' se lève et appelle, la porte de la maison se bouche.",
+      "presage_en": "Three signs halt at the edge of day, the shadow of the meneu' rises and calls, the door of the house seals shut.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1.2,
+          "force": 0.9
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 1.3,
+          "force": 0.8
+        },
+        {
+          "note": "F",
+          "start": 3.0,
+          "duration": 1.1,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 4.0,
+          "duration": 1.2,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 5.2,
+          "duration": 1.0,
+          "force": 0.9
+        }
+      ],
+      "midi": "work/midi-2026-08-21T0843Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
