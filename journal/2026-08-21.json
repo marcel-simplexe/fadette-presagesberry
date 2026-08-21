@@ -3265,6 +3265,392 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "18:39",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 13,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "Un veau rousse glisse dans les ombres et devient lièvre. Les pierres de la haie chuchotent, seules, à l’oreille du vent. Dans l’éclat du jour qui retombe, aucun nom ne se forme.",
+      "presage_en": "A russet calf slips into shadows and becomes a hare. The hedge stones whisper alone into the ear of the wind. In the light of day that falls back no name forms.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 1.0,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 1.8,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 2.3,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 2.8,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "E",
+          "start": 3.6,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 4.1,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 4.6,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 5.4,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "B",
+          "start": 5.9,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 6.4,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 7.2,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 7.7,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 8.5,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 9.0,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 9.5,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "E",
+          "start": 10.3,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 10.8,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 11.3,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 12.1,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "B",
+          "start": 12.6,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 13.1,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 13.9,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 14.4,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 15.2,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "B",
+          "start": 15.7,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 16.2,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 17.0,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 17.5,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 18.3,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "B",
+          "start": 18.8,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 19.3,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 20.1,
+          "duration": 0.5,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 20.6,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 21.4,
+          "duration": 0.5,
+          "force": 0.7
+        },
+        {
+          "note": "B",
+          "start": 21.9,
+          "duration": 0.5,
+          "force": 0.6
+        }
+      ],
+      "midi": "work/midi-2026-08-21T1839Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "18:39",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 13,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "La lune en quartier vide la ténèbre, le plus petit chiffre après la veille ; un goût de fer logé dans l'air annonce le retour de celles qui battent ; et toute bête meugle au bord du silence.",
+      "presage_en": "the moon in waning quarter empties the dark, the smallest mark after the watch; a taste of iron lodged in the air tells of those who beat their wash returning; and every beast lows at the edge of the hush",
+      "score": [
+        {
+          "note": "A",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 0.5,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 0.8,
+          "duration": 0.4,
+          "force": 75
+        },
+        {
+          "note": "C♯",
+          "start": 1.2,
+          "duration": 0.2,
+          "force": 45
+        },
+        {
+          "note": "A",
+          "start": 1.4,
+          "duration": 0.6,
+          "force": 80
+        },
+        {
+          "note": "F♯",
+          "start": 2.0,
+          "duration": 0.3,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 2.3,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 2.8,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 3.2,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 3.6,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 3.9,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "C♯",
+          "start": 4.4,
+          "duration": 0.2,
+          "force": 40
+        },
+        {
+          "note": "A",
+          "start": 4.6,
+          "duration": 0.6,
+          "force": 75
+        },
+        {
+          "note": "F♯",
+          "start": 5.2,
+          "duration": 0.3,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 80
+        }
+      ],
+      "midi": "work/midi-2026-08-21T1839Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
