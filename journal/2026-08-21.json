@@ -1,0 +1,208 @@
+{
+  "date": "2026-08-21",
+  "breaths": [
+    {
+      "time": "01:25",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 13,
+      "want_source": "fallback-gift",
+      "presage": "Au premier croissant, le silence prend forme et chaque étoile compte comme un souffle glissé sur l’étope. Trois yeux de nuit ouvrent dans le ciel, veilleurs de la pierre, tandis que le vent porte l’ombre des lavandières. Le moine des étangs s’élève, fragile et sombre, sur l’eau qui dort, annonçant un levain qui ne lèvera pas.",
+      "presage_en": "At the first crescent the quiet takes shape and each star counts as a breath slipped on the night. Three eyes of the dark open in the sky, watchers of the stone, while the wind carries the shadow of the washerwomen. The monk of the ponds rises, frail and dark, over the sleeping water, announcing a dough that will not rise.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0.0,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "G",
+          "start": 1.5,
+          "duration": 1.0,
+          "force": "moyenne"
+        },
+        {
+          "note": "A",
+          "start": 2.5,
+          "duration": 1.0,
+          "force": "forte"
+        },
+        {
+          "note": "C",
+          "start": 3.5,
+          "duration": 0.8,
+          "force": "faible"
+        },
+        {
+          "note": "A",
+          "start": 4.3,
+          "duration": 1.2,
+          "force": "moyenne"
+        },
+        {
+          "note": "G",
+          "start": 5.5,
+          "duration": 1.0,
+          "force": "moyenne"
+        },
+        {
+          "note": "A",
+          "start": 6.5,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "F#",
+          "start": 8.0,
+          "duration": 1.0,
+          "force": "faible"
+        },
+        {
+          "note": "A",
+          "start": 9.0,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "G",
+          "start": 10.5,
+          "duration": 0.8,
+          "force": "moyenne"
+        },
+        {
+          "note": "A",
+          "start": 11.3,
+          "duration": 1.0,
+          "force": "forte"
+        },
+        {
+          "note": "E",
+          "start": 12.3,
+          "duration": 0.8,
+          "force": "faible"
+        },
+        {
+          "note": "A",
+          "start": 13.1,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "D",
+          "start": 14.6,
+          "duration": 1.0,
+          "force": "moyenne"
+        },
+        {
+          "note": "A",
+          "start": 15.6,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "G",
+          "start": 17.1,
+          "duration": 1.0,
+          "force": "moyenne"
+        },
+        {
+          "note": "A",
+          "start": 18.1,
+          "duration": 1.0,
+          "force": "forte"
+        },
+        {
+          "note": "C",
+          "start": 19.1,
+          "duration": 1.2,
+          "force": "faible"
+        },
+        {
+          "note": "A",
+          "start": 20.3,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "G",
+          "start": 21.8,
+          "duration": 1.0,
+          "force": "moyenne"
+        },
+        {
+          "note": "F#",
+          "start": 22.8,
+          "duration": 0.8,
+          "force": "faible"
+        },
+        {
+          "note": "A",
+          "start": 23.6,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "E",
+          "start": 25.1,
+          "duration": 1.0,
+          "force": "moyenne"
+        },
+        {
+          "note": "A",
+          "start": 26.1,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "D",
+          "start": 27.6,
+          "duration": 1.0,
+          "force": "moyenne"
+        },
+        {
+          "note": "A",
+          "start": 28.6,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "G",
+          "start": 30.1,
+          "duration": 1.0,
+          "force": "moyenne"
+        },
+        {
+          "note": "A",
+          "start": 31.1,
+          "duration": 1.5,
+          "force": "forte"
+        }
+      ],
+      "midi": "work/midi-2026-08-21T0125Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    }
+  ]
+}
