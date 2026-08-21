@@ -2572,6 +2572,119 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "12:52",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 13,
+      "want_source": "fallback-gift",
+      "presage": "Au ras du sol, une lueur basse s’étire comme un lien d’argent entre les pierres à laver. Le pays, seul, porte une charge sourde que nul visage n’éveille. Un chien est trouvé mort au seuil.",
+      "presage_en": "Along the ground a low glow stretches like a silver thread between the washing stones. The land bears a heavy burden that no face awakens. A dog is found dead at the threshold.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 0.5,
+          "duration": 0.8,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 1.3,
+          "duration": 0.4,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 1.7,
+          "duration": 0.6,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 2.3,
+          "duration": 0.7,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 3.0,
+          "duration": 0.9,
+          "force": 85
+        },
+        {
+          "note": "D",
+          "start": 3.9,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 5.0,
+          "duration": 0.7,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 5.7,
+          "duration": 1.0,
+          "force": 90
+        },
+        {
+          "note": "D, A, D, A",
+          "start": 6.7,
+          "duration": 0.8,
+          "force": 68
+        },
+        {
+          "note": "D",
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 82
+        },
+        {
+          "note": "D",
+          "start": 8.0,
+          "duration": 0.6,
+          "force": 78
+        }
+      ],
+      "midi": "work/midi-2026-08-21T1252Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
