@@ -2685,6 +2685,263 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "14:37",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 13,
+      "want_source": "fallback-gift",
+      "presage": "La lumière décroît comme si la nuit l’avait lentement absorbée. À l’orée du bois, un souffle fait frissonner les feuillages et porte un murmure lointain. Le veilleur voit apparaître, sur le gué sombre, la forme qui avance, un meneu' de loups, et le voyageur s’égare sur le sentier faux.",
+      "presage_en": "The light falls back as if the night had slowly taken it in. At the edge of the wood a breath makes the leaves shudder and carries a far off murmur. The watcher sees appear, on the dark ford, the shape that comes forward, a pack of wolves, and the traveler strays on the wrong path.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 0.5,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 0.9,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": "E",
+          "start": 1.3,
+          "duration": 0.6,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 1.9,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 2.3,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "G",
+          "start": 2.8,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "F",
+          "start": 3.3,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": "D",
+          "start": 3.8,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 4.2,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "E",
+          "start": 4.7,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 5.1,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 5.6,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": "G",
+          "start": 6.0,
+          "duration": 0.4,
+          "force": 40
+        },
+        {
+          "note": "F",
+          "start": 6.4,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": "D",
+          "start": 6.9,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 7.3,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "E",
+          "start": 7.8,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 8.2,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 8.7,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": "G",
+          "start": 9.1,
+          "duration": 0.4,
+          "force": 40
+        },
+        {
+          "note": "F",
+          "start": 9.5,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": "D",
+          "start": 10.0,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 10.4,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "E",
+          "start": 10.9,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 11.3,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 11.8,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": "G",
+          "start": 12.2,
+          "duration": 0.4,
+          "force": 40
+        },
+        {
+          "note": "F",
+          "start": 12.6,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": "D",
+          "start": 13.1,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 13.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "E",
+          "start": 14.0,
+          "duration": 0.4,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 14.4,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 14.9,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": "G",
+          "start": 15.3,
+          "duration": 0.4,
+          "force": 40
+        },
+        {
+          "note": "F",
+          "start": 15.7,
+          "duration": 0.5,
+          "force": 30
+        },
+        {
+          "note": "D",
+          "start": 16.2,
+          "duration": 0.4,
+          "force": 50
+        }
+      ],
+      "midi": "work/midi-2026-08-21T1437Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
