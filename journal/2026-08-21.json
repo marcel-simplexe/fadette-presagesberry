@@ -484,6 +484,548 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "04:40",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 13,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "Le vent porte un bruit de cloche invisible, trois ombres se hâtaient sur la lande sombre comme si le chien y avait lâché la bête fée qui mène les troupeaux fantomatiques. Sous la dent de la lune qui mord l’horizon, une porte basse se soulève seule pour livrer tout ce qui fait peur et jamais ne ferme plus.",
+      "presage_en": "the wind carries a sound of an unseen bell, three shadows hurry across the dark moor as if the dog set loose the fairy beast that leads the phantom herds. under the moon’s tooth that bites the horizon, a low door lifts alone to give out all that makes fear and never shuts again.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 2.0,
+          "duration": 0.8,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 2.8,
+          "duration": 1.2,
+          "force": 85
+        },
+        {
+          "note": "C",
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 4.5,
+          "duration": 1.0,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 5.5,
+          "duration": 0.7,
+          "force": 65
+        },
+        {
+          "note": "silence",
+          "start": 6.2,
+          "duration": 1.8,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 8.0,
+          "duration": 1.3,
+          "force": 80
+        },
+        {
+          "note": "F",
+          "start": 9.3,
+          "duration": 0.6,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 10.0,
+          "duration": 0.9,
+          "force": 70
+        },
+        {
+          "note": "silence",
+          "start": 10.9,
+          "duration": 2.2,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 13.1,
+          "duration": 1.1,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 14.2,
+          "duration": 0.7,
+          "force": 55
+        },
+        {
+          "note": "C",
+          "start": 14.9,
+          "duration": 0.6,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 15.5,
+          "duration": 1.4,
+          "force": 85
+        },
+        {
+          "note": "silence",
+          "start": 16.9,
+          "duration": 2.5,
+          "force": 0
+        },
+        {
+          "note": "A",
+          "start": 19.4,
+          "duration": 0.8,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 20.2,
+          "duration": 1.0,
+          "force": 75
+        },
+        {
+          "note": "F",
+          "start": 21.2,
+          "duration": 0.6,
+          "force": 50
+        },
+        {
+          "note": "silence",
+          "start": 21.8,
+          "duration": 3.0,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 24.8,
+          "duration": 1.2,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 26.0,
+          "duration": 0.8,
+          "force": 60
+        },
+        {
+          "note": "silence",
+          "start": 26.8,
+          "duration": 2.0,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 28.8,
+          "duration": 1.3,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 30.1,
+          "duration": 0.7,
+          "force": 55
+        },
+        {
+          "note": "C",
+          "start": 30.8,
+          "duration": 0.7,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 31.5,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "silence",
+          "start": 33.0,
+          "duration": 3.5,
+          "force": 0
+        },
+        {
+          "note": "A",
+          "start": 36.5,
+          "duration": 0.9,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 37.4,
+          "duration": 1.1,
+          "force": 70
+        },
+        {
+          "note": "F",
+          "start": 38.5,
+          "duration": 0.7,
+          "force": 50
+        },
+        {
+          "note": "silence",
+          "start": 39.2,
+          "duration": 4.0,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 43.2,
+          "duration": 1.4,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 44.6,
+          "duration": 0.8,
+          "force": 60
+        },
+        {
+          "note": "silence",
+          "start": 45.4,
+          "duration": 2.5,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 47.9,
+          "duration": 1.2,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 49.1,
+          "duration": 0.7,
+          "force": 55
+        },
+        {
+          "note": "C",
+          "start": 49.8,
+          "duration": 0.7,
+          "force": 40
+        }
+      ],
+      "midi": "work/midi-2026-08-21T0440Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "04:40",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 13,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "L’obscurité pousse un souffle parmi les tiges d’or. Trois feux tremblent, sans vent, au-dessus de l’eau. Le meneu' rôde au bord du champ, tête basse.",
+      "presage_en": "The dark sends a breath through the golden stalks. Three fires tremble, no wind, above the water. The meneu' prowls at the edge of the field, head low.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "G#",
+          "start": 1,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 2,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "C#",
+          "start": 3,
+          "duration": 1,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 4,
+          "duration": 0.8,
+          "force": 70
+        },
+        {
+          "note": "G#",
+          "start": 5,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 6,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "C#",
+          "start": 7,
+          "duration": 0.95,
+          "force": 85
+        },
+        {
+          "note": "E",
+          "start": 8,
+          "duration": 1,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 9,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 10,
+          "duration": 1,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 11,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "F#",
+          "start": 12,
+          "duration": 0.9,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 13,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "G#",
+          "start": 14,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 15,
+          "duration": 0.8,
+          "force": 70
+        },
+        {
+          "note": "C#",
+          "start": 16,
+          "duration": 0.9,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 17,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "E",
+          "start": 18,
+          "duration": 1,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 19,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 20,
+          "duration": 1,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 21,
+          "duration": 0.85,
+          "force": 70
+        },
+        {
+          "note": "G#",
+          "start": 22,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 23,
+          "duration": 0.9,
+          "force": 75
+        },
+        {
+          "note": "F#",
+          "start": 24,
+          "duration": 0.95,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 25,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "C#",
+          "start": 26,
+          "duration": 0.9,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 27,
+          "duration": 1,
+          "force": 70
+        },
+        {
+          "note": "E",
+          "start": 28,
+          "duration": 0.95,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 29,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 30,
+          "duration": 1,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 31,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "F#",
+          "start": 32,
+          "duration": 0.85,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 33,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "C#",
+          "start": 34,
+          "duration": 0.9,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 35,
+          "duration": 1,
+          "force": 70
+        },
+        {
+          "note": "E",
+          "start": 36,
+          "duration": 1,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 37,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 38,
+          "duration": 1,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 39,
+          "duration": 1,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-21T0440Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
