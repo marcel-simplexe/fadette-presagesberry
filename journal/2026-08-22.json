@@ -89,6 +89,95 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "04:35",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 14,
+      "want_source": "fallback-gift",
+      "presage": "L’ombre souligne le seuil, connus ou non, les prés se taisent sous une gaze où passent les laveuses de nuit, seules.",
+      "presage_en": "The shadow darkens the threshold, known or not, the meadows fall silent under a veil where the night washerwomen pass alone.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 4.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 4.0,
+          "duration": 3.0,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 7.0,
+          "duration": 2.0,
+          "force": 80
+        },
+        {
+          "note": "F#",
+          "start": 9.0,
+          "duration": 2.5,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 11.5,
+          "duration": 3.5,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 15.0,
+          "duration": 3.0,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 18.0,
+          "duration": 1.5,
+          "force": 90
+        },
+        {
+          "note": "silence",
+          "start": 19.5,
+          "duration": 3.0,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 22.5,
+          "duration": 2.0,
+          "force": 80
+        }
+      ],
+      "midi": "work/midi-2026-08-22T0435Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
