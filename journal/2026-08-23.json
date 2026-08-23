@@ -1,0 +1,256 @@
+{
+  "date": "2026-08-23",
+  "breaths": [
+    {
+      "time": "04:40",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 15,
+      "want_source": "fallback-gift",
+      "presage": "La lueur blafarde déformée projette sur l’eau des arêtes blanches, les pierres sont des yeux immobiles. Un pas résonne sans sabots, et l’air se fige autour de cette forme douce qui s’allonge avant l’aube. Le seuil tiendra désormais la trace du sel jusqu’à l’heure où le vent ne frémira plus.",
+      "presage_en": "The pale light bends and throws white edges on the water, the stones are still eyes. A step sounds without hooves, and the air freezes around that soft shape that stretches before dawn. The threshold will keep the salt mark until the hour when the wind no longer trembles.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 1.5,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 2.7,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 4.2,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 5.2,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 6.4,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 8.1,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 9.1,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 10.3,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 11.8,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 12.8,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 14.0,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 15.5,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 16.5,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 17.7,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 19.2,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 20.2,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 21.4,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 22.9,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 23.9,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 25.1,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 26.6,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 27.6,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 28.8,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 30.3,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 31.3,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 32.5,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 34.0,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 35.0,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 36.2,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 37.7,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 38.7,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 39.9,
+          "duration": 1.5,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 41.4,
+          "duration": 1.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 42.4,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 43.6,
+          "duration": 1.5,
+          "force": 80
+        }
+      ],
+      "midi": "work/midi-2026-08-23T0440Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    }
+  ]
+}
