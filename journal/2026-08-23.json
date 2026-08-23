@@ -987,6 +987,161 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "18:32",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 15,
+      "want_source": "fallback-gift",
+      "presage": "Une clarté hâve serre le monde à l’heure crue, où les pierres ne sont plus sûres ; la Grand'Bête souffle sous la Lune, et la blanche biche passe par le gué, le veilleur sent le frôlement à la nuque, et la nuit garde son secret.",
+      "presage_en": "A lean light tightens the world at the cruel hour when stones no longer hold; the Great Beast breathes under the Moon, and the white doe crosses the ford, the watcher feels the brush at the nape, and the night keeps its secret.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 2.0,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 2.0,
+          "duration": 2.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 4.0,
+          "duration": 3.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 7.0,
+          "duration": 1.5,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 8.5,
+          "duration": 2.5,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 11.0,
+          "duration": 2.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 13.0,
+          "duration": 3.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 16.0,
+          "duration": 1.5,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 17.5,
+          "duration": 2.5,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 20.0,
+          "duration": 2.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 22.0,
+          "duration": 3.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 25.0,
+          "duration": 1.5,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 26.5,
+          "duration": 2.5,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 29.0,
+          "duration": 2.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 31.0,
+          "duration": 3.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 34.0,
+          "duration": 1.5,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 35.5,
+          "duration": 2.5,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 38.0,
+          "duration": 2.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 40.0,
+          "duration": 2.0,
+          "force": 0.7
+        },
+        {
+          "note": "Silence",
+          "start": 42.0,
+          "duration": 4.0,
+          "force": 0.0
+        }
+      ],
+      "midi": "work/midi-2026-08-23T1832Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
