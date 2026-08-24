@@ -1247,6 +1247,113 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "07:03",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 16,
+      "want_source": "fallback-gift",
+      "presage": "Sur le gué, la Grand'Bête s'étire, ombre aux mille pattes, et l'on compte deux lumières petites, froides, avant le jour ; aucune voix ne répond, mais le ciel murmure à qui marche en biais.",
+      "presage_en": "On the ford the Grand'Beast stretches, a shadow with a thousand legs, and two small cold lights are counted before daybreak; no voice answers, but the sky whispers to those who walk askew.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 1.5,
+          "duration": 0.4,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 2.5,
+          "duration": 0.4,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "F",
+          "start": 4.0,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 4.4,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 5.0,
+          "duration": 0.6,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 5.6,
+          "duration": 0.5,
+          "force": 85
+        }
+      ],
+      "midi": "work/midi-2026-08-24T0703Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
