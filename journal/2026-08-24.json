@@ -1,0 +1,619 @@
+{
+  "date": "2026-08-24",
+  "breaths": [
+    {
+      "time": "03:05",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 16,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "Le coude de l’eau est habité d’un corps translucide qui se relève, puis retombe en silence, les fades qui seules savent que l’heure a tourné sont là, sans nom, sur l’eau qui ne cligne pas des yeux. Rien, sinon l’ombre qui murmure dans le pétrin de l’air, pas une cause, pas une mesure ; l’œil prend ce qui vient et le rend à l’obscurité.",
+      "presage_en": "the bend of the water holds a translucent body that rises then falls back in silence, the fades who alone know the hour has turned are there, nameless, on the water that never blinks an eye. nothing but the shadow that murmurs in the air’s kneading trough, no cause no measure; the eye takes what comes and gives it back to the dark.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 1.0,
+          "force": 75
+        },
+        {
+          "note": "F#",
+          "start": 2.0,
+          "duration": 1.2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 3.2,
+          "duration": 1.5,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 4.7,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 5.7,
+          "duration": 1.3,
+          "force": 65
+        },
+        {
+          "note": "D, A",
+          "start": 7.0,
+          "duration": 2.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 9.0,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 10.2,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 11.2,
+          "duration": 1.2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 12.4,
+          "duration": 1.5,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 13.9,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 14.9,
+          "duration": 1.3,
+          "force": 65
+        },
+        {
+          "note": "D, A",
+          "start": 16.2,
+          "duration": 2.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 18.2,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 19.4,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 20.4,
+          "duration": 1.2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 21.6,
+          "duration": 1.5,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 23.1,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 24.1,
+          "duration": 1.3,
+          "force": 65
+        },
+        {
+          "note": "D, A",
+          "start": 25.4,
+          "duration": 2.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 27.4,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 28.6,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 29.6,
+          "duration": 1.2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 30.8,
+          "duration": 1.5,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 32.3,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 33.3,
+          "duration": 1.3,
+          "force": 65
+        },
+        {
+          "note": "D, A",
+          "start": 34.6,
+          "duration": 2.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 36.6,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 37.8,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 38.8,
+          "duration": 1.2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 39.0,
+          "duration": 1.5,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 40.5,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 41.5,
+          "duration": 1.3,
+          "force": 65
+        },
+        {
+          "note": "D, A",
+          "start": 42.8,
+          "duration": 2.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 44.8,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 46.0,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 47.0,
+          "duration": 1.2,
+          "force": 60
+        },
+        {
+          "note": "D, A",
+          "start": 48.2,
+          "duration": 2.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 50.2,
+          "duration": 1.5,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 51.7,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 52.7,
+          "duration": 1.3,
+          "force": 65
+        },
+        {
+          "note": "D, A",
+          "start": 54.0,
+          "duration": 2.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 56.0,
+          "duration": 1.2,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 57.2,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "F#",
+          "start": 58.2,
+          "duration": 1.2,
+          "force": 60
+        },
+        {
+          "note": "D, A",
+          "start": 59.4,
+          "duration": 2.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 61.4,
+          "duration": 1.5,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 62.9,
+          "duration": 1.0,
+          "force": 70
+        }
+      ],
+      "midi": "work/midi-2026-08-24T0305Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "03:05",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 16,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "La nuit a lâché son quatrième secret sous la lune au croissant élargi. Là où les grenouilles chantaient court un silence plus dense que les eaux. Le lupeux des roseaux se montre au pas du veilleur dont la porte s'est fermée contre le jour.",
+      "presage_en": "the night let go its fourth secret under the moon with the widened crescent. where the frogs sang runs a silence denser than the waters. the rustle of the reeds shows itself at the step of the watcher whose door has shut against the day.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 1,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 2,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "C",
+          "start": 3,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 4,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 5,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 6,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "C",
+          "start": 7,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 8,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 9,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 10,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 11,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "C",
+          "start": 12,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 13,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 14,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 15,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "C",
+          "start": 16,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 17,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 18,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 19,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 20,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "C",
+          "start": 21,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 22,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 23,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 24,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "C",
+          "start": 25,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 26,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 27,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 28,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 29,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "C",
+          "start": 30,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 31,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 32,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 33,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 34,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "C",
+          "start": 35,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 36,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 37,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 38,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 39,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "C",
+          "start": 40,
+          "duration": 1,
+          "force": 0.4
+        }
+      ],
+      "midi": "work/midi-2026-08-24T0305Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    }
+  ]
+}
