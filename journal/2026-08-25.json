@@ -1883,6 +1883,125 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "18:42",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "presage": "Au crépuscule où le jour vérouille ses yeux, l'étang devient un miroir figé où les ombres dorment, immobiles. Dans la transparence glacée, une forme se dénoue : le meneu' avance, telle une fumée sans fumée, guidant ce qui hurle sans visage. Dehors, un pas résonne sur la mousse déjà blanche, étranger à l'heure où l'homme se doit de rentrer.",
+      "presage_en": "At dusk when day seals its eyes, the pond turns to a frozen glass where shadows lie still. In the icy clearness, a shape unravels: the meneu' moves, like smoke without smoke, leading what howls without a face. Outside, a step rings out on the moss already white, foreign to the hour when man should be home.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 0.5,
+          "force": 3
+        },
+        {
+          "note": "A",
+          "start": 1.5,
+          "duration": 0.4,
+          "force": 2
+        },
+        {
+          "note": "F",
+          "start": 2,
+          "duration": 0.3,
+          "force": 1
+        },
+        {
+          "note": "D",
+          "start": 2.3,
+          "duration": 0.6,
+          "force": 3
+        },
+        {
+          "note": "G",
+          "start": 3,
+          "duration": 0.4,
+          "force": 2
+        },
+        {
+          "note": "A",
+          "start": 3.4,
+          "duration": 0.5,
+          "force": 2.5
+        },
+        {
+          "note": "F",
+          "start": 4,
+          "duration": 0.3,
+          "force": 1
+        },
+        {
+          "note": "D",
+          "start": 4.3,
+          "duration": 0.8,
+          "force": 3
+        },
+        {
+          "note": "C",
+          "start": 5.1,
+          "duration": 0.4,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 3
+        },
+        {
+          "note": "A",
+          "start": 6,
+          "duration": 0.4,
+          "force": 2.5
+        },
+        {
+          "note": "D",
+          "start": 6.4,
+          "duration": 0.6,
+          "force": 3
+        },
+        {
+          "note": "A",
+          "start": 7,
+          "duration": 0.3,
+          "force": 1.5
+        },
+        {
+          "note": "D",
+          "start": 7.3,
+          "duration": 0.5,
+          "force": 3
+        }
+      ],
+      "midi": "work/midi-2026-08-25T1842Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
