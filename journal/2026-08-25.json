@@ -842,6 +842,89 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "08:45",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "presage": "La lune, bossue et enflée, s’accroît dans la nuit comme une blessure qui s’ouvre. Elle a compté treize veilles, et pourtant le jour brille encore, entier et cru. Un vent léger fait frissonner les blés, puis la pluie s’abat, fine et silencieuse, sur les champs endormis.",
+      "presage_en": "The moon, humped and swollen, grows in the night like a wound opening. It has counted thirteen watches, and yet the day still shines, whole and raw. A light wind makes the wheat shiver, then the rain falls, fine and silent, on the sleeping fields.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": "forte"
+        },
+        {
+          "note": "C",
+          "start": 2.0,
+          "duration": 0.5,
+          "force": "moyenne"
+        },
+        {
+          "note": "A♭",
+          "start": 3.0,
+          "duration": 0.75,
+          "force": "faible"
+        },
+        {
+          "note": "D",
+          "start": 4.0,
+          "duration": 1.0,
+          "force": "forte"
+        },
+        {
+          "note": "C",
+          "start": 5.0,
+          "duration": 0.375,
+          "force": "moyenne"
+        },
+        {
+          "note": "F",
+          "start": 5.5,
+          "duration": 0.625,
+          "force": "très faible"
+        },
+        {
+          "note": "A♭",
+          "start": 6.5,
+          "duration": 0.5,
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": 7.5,
+          "duration": 1.0,
+          "force": "forte"
+        }
+      ],
+      "midi": "work/midi-2026-08-25T0845Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
