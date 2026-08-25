@@ -263,6 +263,137 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "03:00",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "presage": "La nuit déroule ses trente signes, trente pas alignés sur la brume qui tremble sans vent. Aux portes des champs, les revenants comptent leurs ombres et lèvent leurs pierres. Le veilleur, immobile, regarde que le pays s’éveille par la Grand’Bête, sans nom, sans cause.",
+      "presage_en": "the night unfurls its thirty signs thirty steps aligned on the mist trembling without wind at the gates of the fields the revenants count their shadows and raise their stones the watcher motionless sees that the country awakens by the Grand Beast nameless without cause",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 1.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 1.5,
+          "duration": 0.5,
+          "force": 85
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 3.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 4.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 4.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 5.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 5.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 6.5,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "D",
+          "start": 7.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 7.5,
+          "duration": 0.5,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-25T0300Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
