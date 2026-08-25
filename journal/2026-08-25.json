@@ -925,6 +925,95 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "10:35",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "presage": "La nuit retient son souffle, la lune pleine pèse sur le hameau, et deux ombres se découpent au loin, à la lisière du bois. Un silence mouille le gué, les pierres suintent, quelque chose remonte des eaux sans bruit, plus lent qu'un bœuf, plus grand qu'un veau. Le pré entier est un miroir, et le veilleur ne voit plus son reflet, seulement les yeux du monde qui le regardent depuis l'obscurité, tandis que les bêtes, invisibles, meuglent pour accompagner les morts qui reviennent.",
+      "presage_en": "Night holds its breath, the full moon weighs upon the hamlet, and two shadows cut themselves out in the distance, at the edge of the wood. A silence soaks the ford, the stones sweat, something rises from the waters without a sound, slower than an ox, larger than a calf. The whole meadow is a mirror, and the watcher no longer sees his own reflection, only the eyes of the world that look at him from the dark, while the beasts, unseen, low to accompany the dead who return.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 8,
+          "force": "forte"
+        },
+        {
+          "note": "",
+          "start": 8.0,
+          "duration": 4,
+          "force": "faible"
+        },
+        {
+          "note": "D",
+          "start": 12.0,
+          "duration": 6,
+          "force": "moyenne"
+        },
+        {
+          "note": "",
+          "start": 18.0,
+          "duration": 6,
+          "force": "très faible"
+        },
+        {
+          "note": "A",
+          "start": 24.0,
+          "duration": 5,
+          "force": "évanescent"
+        },
+        {
+          "note": "",
+          "start": 29.0,
+          "duration": 7,
+          "force": "silence"
+        },
+        {
+          "note": "D",
+          "start": 36.0,
+          "duration": 7,
+          "force": "doux"
+        },
+        {
+          "note": "",
+          "start": 43.0,
+          "duration": 10,
+          "force": "vide"
+        },
+        {
+          "note": "D",
+          "start": 53.0,
+          "duration": 4,
+          "force": "résigné"
+        }
+      ],
+      "midi": "work/midi-2026-08-25T1035Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "flare",
+          "a spark flies from the anvil"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
