@@ -1353,6 +1353,441 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "14:48",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 3,
+      "presage": "La lune, hideuse et croissante, plaque sa lumière malade sur le bois silencieux. Trois ombres dansent sans vent, échappées du sommeil des champs. Quand un goût de fer mord la pensée, c'est au gué que le secret vient battre l'eau obstinée.",
+      "presage_en": "The moon, ugly and waxing, flattens its sickly light on the still wood. Three shadows dance without wind, slipped from the sleep of the fields. When a taste of iron bites at the mind, it is at the ford that the secret comes to beat the stubborn water.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "D",
+          "start": 1,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "C",
+          "start": 2,
+          "duration": 1,
+          "force": 4
+        },
+        {
+          "note": "D",
+          "start": 3,
+          "duration": 1,
+          "force": 4
+        },
+        {
+          "note": "C",
+          "start": 4,
+          "duration": 1,
+          "force": 3
+        },
+        {
+          "note": "D",
+          "start": 5,
+          "duration": 2,
+          "force": 6
+        },
+        {
+          "note": "F",
+          "start": 7,
+          "duration": 1,
+          "force": 4
+        },
+        {
+          "note": "D",
+          "start": 8,
+          "duration": 1,
+          "force": 4
+        },
+        {
+          "note": "C",
+          "start": 9,
+          "duration": 1,
+          "force": 3
+        },
+        {
+          "note": "A",
+          "start": 10,
+          "duration": 1,
+          "force": 3
+        },
+        {
+          "note": "G",
+          "start": 11,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "A",
+          "start": 12,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "G",
+          "start": 13,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "F",
+          "start": 14,
+          "duration": 1,
+          "force": 3
+        },
+        {
+          "note": "D",
+          "start": 15,
+          "duration": 2,
+          "force": 5
+        },
+        {
+          "note": "C",
+          "start": 17,
+          "duration": 1,
+          "force": 3
+        },
+        {
+          "note": "A♭",
+          "start": 18,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "G♭",
+          "start": 19,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "F",
+          "start": 20,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "D",
+          "start": 21,
+          "duration": 2,
+          "force": 4
+        },
+        {
+          "note": "C",
+          "start": 23,
+          "duration": 1,
+          "force": 3
+        },
+        {
+          "note": "A",
+          "start": 24,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "G",
+          "start": 25,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "F",
+          "start": 26,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "D",
+          "start": 27,
+          "duration": 1,
+          "force": 3
+        },
+        {
+          "note": "C",
+          "start": 28,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "A♭",
+          "start": 29,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "G♭",
+          "start": 30,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "F",
+          "start": 31,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 32,
+          "duration": 1,
+          "force": 2
+        },
+        {
+          "note": "C",
+          "start": 33,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "A",
+          "start": 34,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 35,
+          "duration": 1,
+          "force": 0.5
+        }
+      ],
+      "midi": "work/midi-2026-08-25T1448Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "14:48",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 3,
+      "presage": "La lune, croissant impur, ouvre une bouche de loup. Trois ombres s'accouplent à l'orée du bois noir. L'air se glace.",
+      "presage_en": "The moon, a tainted crescent, gapes like a wolf's mouth. Three shadows mate at the edge of the dark wood. The air turns to ice.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "F",
+          "start": 0.5,
+          "duration": 0.5,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 1.4,
+          "duration": 0.6,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 2.0,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": "F",
+          "start": 2.5,
+          "duration": 0.4,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 3.0,
+          "duration": 1.0,
+          "force": 30
+        },
+        {
+          "note": "D",
+          "start": 4.0,
+          "duration": 0.8,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-25T1448Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "14:48",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "nth": 3,
+      "of": 3,
+      "presage": "La lune, en sa quatorzième nuit, exhale une lumière fendue qui fait trembler chaque numéroté des présages. L'orage, bouché du côté du bois, gronde sans vent, comme si la nuit gardait un secret que l'air refuse de porter. Dans le pré inondé, l'odeur d'eau et de pourriture monte vers le veilleur où les morts reviennent sans bruit, et les pierres se souviennent de marcher.",
+      "presage_en": "The moon, on its fourteenth night, breathes out a split light that makes every numbered omen quiver. The storm, blocked by the wood's side, grumbles without wind, as if the night keeps a secret the air will not carry. In the flooded meadow, the scent of water and rot rises to the watcher where the dead return without sound, and stones remember how to walk.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.8,
+          "force": "forte"
+        },
+        {
+          "note": "C",
+          "start": 0.8,
+          "duration": 0.5,
+          "force": "moyenne"
+        },
+        {
+          "note": "D",
+          "start": 1.3,
+          "duration": 0.6,
+          "force": "forte"
+        },
+        {
+          "note": "A",
+          "start": 1.9,
+          "duration": 0.4,
+          "force": "faible"
+        },
+        {
+          "note": "D",
+          "start": 2.3,
+          "duration": 0.7,
+          "force": "forte"
+        },
+        {
+          "note": "C",
+          "start": 3.0,
+          "duration": 0.5,
+          "force": "moyenne"
+        },
+        {
+          "note": "D",
+          "start": 3.5,
+          "duration": 0.6,
+          "force": "forte"
+        },
+        {
+          "note": "A♭",
+          "start": 4.1,
+          "duration": 0.3,
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": 4.4,
+          "duration": 0.4,
+          "force": "moyenne"
+        },
+        {
+          "note": "C",
+          "start": 4.8,
+          "duration": 0.5,
+          "force": "faible"
+        },
+        {
+          "note": "D",
+          "start": 5.3,
+          "duration": 0.6,
+          "force": "forte"
+        },
+        {
+          "note": "A",
+          "start": 5.9,
+          "duration": 0.4,
+          "force": "faible"
+        },
+        {
+          "note": "D",
+          "start": 6.3,
+          "duration": 0.8,
+          "force": "très forte"
+        }
+      ],
+      "midi": "work/midi-2026-08-25T1448Z-3.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
