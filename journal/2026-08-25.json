@@ -2002,6 +2002,89 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "20:31",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "presage": "La lune, pleine, impose sa lumière blafarde, treizième témoin de sa rondeur nocturne, tandis que la nuit s’étale comme une main froide sur la terre. Un vent sans nom agite les épis des blés, et dans cette immobilité apparente, une ombre s’étire près du pied du clocher, silencieuse et lourde de mystère. Au gué, au-delà de la lueur tremblante, des silhouettes blanches battent le linge, indifférentes à l'heure, leurs gestes rythmant l'obscurité comme un chant oublié.",
+      "presage_en": "The moon, full and stark, throws its pale light, thirteenth witness to its nightly round, while the dark spreads like a cold hand over the earth. A nameless wind stirs the wheat ears, and in this seeming stillness, a shadow stretches by the foot of the church tower, silent and heavy with mystery. At the ford, beyond the trembling glimmer, white shapes beat the linen, heedless of the hour, their motions marking the dark like a forgotten song.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 2.0,
+          "force": 75
+        },
+        {
+          "note": "F",
+          "start": 4.0,
+          "duration": 1.0,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 5.0,
+          "duration": 2.0,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 7.0,
+          "duration": 1.5,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 8.5,
+          "duration": 2.5,
+          "force": 50
+        },
+        {
+          "note": "F",
+          "start": 11.0,
+          "duration": 1.2,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 12.2,
+          "duration": 3.0,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 15.2,
+          "duration": 2.0,
+          "force": 30
+        }
+      ],
+      "midi": "work/midi-2026-08-25T2031Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
