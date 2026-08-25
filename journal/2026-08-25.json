@@ -705,6 +705,143 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "06:52",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "presage": "La lune creuse, pâle et lente, grandit sur l’horizon comme un croissant coupable. Deux ombres s’éveillent dans le brouillard qui s’étire sur les blés, et le vent ne souffle pas — mais les roseaux chuchotent le nom du lupeux. Une pluie fine tombe sur la terre et sur le veilleur, qui sent le fer monter aux lèvres tandis que les bêtes meuglent dans l’obscurité, seules à garder le secret des prés.",
+      "presage_en": "The moon, hollow and pale and slow, rises over the horizon like a guilty crescent. Two shadows stir in the mist that stretches over the wheat, and the wind does not blow — yet the reeds whisper the name of the wolf-leader. A fine rain falls on the earth and on the watcher, who tastes iron at the lips while the beasts low in the dark, alone to keep the secret of the meadows.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "F",
+          "start": 2,
+          "duration": 1,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 4,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 6,
+          "duration": 1,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 8,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "F",
+          "start": 10,
+          "duration": 1.5,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 12,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "C",
+          "start": 13,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 14,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 16,
+          "duration": 1,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 17,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "F",
+          "start": 19,
+          "duration": 1.2,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 21,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 22,
+          "duration": 1.5,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 24,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "F",
+          "start": 25,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 26,
+          "duration": 1,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-25T0652Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
