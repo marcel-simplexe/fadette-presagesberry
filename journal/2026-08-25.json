@@ -1014,6 +1014,345 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "12:51",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 3,
+      "presage": "La nuit vient comme un souffle ancien, et le ciel, pur d’un bout à l’autre, ne porte que trois lumières mouvantes. Au vieux moulin, l'eau se tait, et l'odeur de pourriture monte, douce et familière comme un souvenir oublié. Les ombres s'étirent sur la terre qui n'a plus d'endroit où se cacher, tandis que derrière le bois, l'orage gronde sans vent, et quelque chose se lève du passé, lentement, inévitablement.",
+      "presage_en": "Night comes like an old breath, and the sky, clear from one end to the other, holds only three moving lights. At the old mill, the water falls still, and the smell of rot rises, soft and familiar like a forgotten memory. Shadows stretch across the earth that has nowhere left to hide, while behind the wood, the storm rumbles without wind, and something rises from the past, slow and sure.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": "forte"
+        },
+        {
+          "note": "",
+          "start": 1,
+          "duration": 10,
+          "force": "faible"
+        },
+        {
+          "note": "C",
+          "start": 11,
+          "duration": 1,
+          "force": "moyenne"
+        },
+        {
+          "note": "",
+          "start": 12,
+          "duration": 9,
+          "force": 70
+        },
+        {
+          "note": "A♭",
+          "start": 21,
+          "duration": 1,
+          "force": "tenue"
+        },
+        {
+          "note": "",
+          "start": 22,
+          "duration": 8,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 30,
+          "duration": 1,
+          "force": "forte"
+        },
+        {
+          "note": "",
+          "start": 31,
+          "duration": 12,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 43,
+          "duration": 1,
+          "force": "faible"
+        },
+        {
+          "note": "",
+          "start": 44,
+          "duration": 15,
+          "force": 70
+        },
+        {
+          "note": "A♭",
+          "start": 59,
+          "duration": 1,
+          "force": "très faible"
+        },
+        {
+          "note": "",
+          "start": 60,
+          "duration": 17,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 77,
+          "duration": 1,
+          "force": "défaille"
+        },
+        {
+          "note": "",
+          "start": 78,
+          "duration": 60,
+          "force": 70
+        }
+      ],
+      "midi": "work/midi-2026-08-25T1251Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "12:51",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 3,
+      "presage": "La lune gibbeuse s’élève et s’allonge lentement, treize nuits écoulées, tandis que le soleil, demeuré au plus haut, a dérobé toute ombre à la terre tremblante. Le ciel pur et immobile retient son souffle, et trois feux errants, comptés sans raison, dansent là-bas sur l’eau dormante. Au mur du cimetière, une lueur basse s’étire comme un souffle ; nul être ne se montre, mais les bêtes meuglent la nuit durant, seules gardiennes du peuple invisible.",
+      "presage_en": "The moon rises sickle-shaped and stretches slow, thirteen nights gone by, while the sun, stayed at its height, has stolen all shadow from the trembling earth. The clear still sky holds its breath, and three wandering fires, counted for no reason, dance yonder on the sleeping water. At the cemetery wall, a low glow creeps like a breath; no shape shows, but the beasts low through the night alone, keepers of the unseen folk.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 2,
+          "force": "pp"
+        },
+        {
+          "note": "A",
+          "start": 2,
+          "duration": 1,
+          "force": "p"
+        },
+        {
+          "note": "C",
+          "start": 5,
+          "duration": 1,
+          "force": "mp"
+        },
+        {
+          "note": "D",
+          "start": 8,
+          "duration": 2,
+          "force": "p"
+        },
+        {
+          "note": "B",
+          "start": 12,
+          "duration": 1,
+          "force": "mp"
+        },
+        {
+          "note": "A",
+          "start": 14,
+          "duration": 2,
+          "force": "p"
+        },
+        {
+          "note": "G",
+          "start": 18,
+          "duration": 1,
+          "force": "pp"
+        },
+        {
+          "note": "D",
+          "start": 21,
+          "duration": 4,
+          "force": "pp"
+        },
+        {
+          "note": "A",
+          "start": 26,
+          "duration": 1,
+          "force": "p"
+        },
+        {
+          "note": "C",
+          "start": 28,
+          "duration": 1,
+          "force": "mp"
+        },
+        {
+          "note": "D",
+          "start": 30,
+          "duration": 4,
+          "force": "p"
+        },
+        {
+          "note": "B",
+          "start": 35,
+          "duration": 1,
+          "force": "pp"
+        },
+        {
+          "note": "A",
+          "start": 37,
+          "duration": 2,
+          "force": "p"
+        },
+        {
+          "note": "D",
+          "start": 40,
+          "duration": 6,
+          "force": "pp"
+        }
+      ],
+      "midi": "work/midi-2026-08-25T1251Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    },
+    {
+      "time": "12:51",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "nth": 3,
+      "of": 3,
+      "presage": "La lune, croissant d'argent tordu, jette une lumière oblique sur l'étang, où l'eau ne reflète rien d'humain, seulement la trace d'un pas invisible. Trois feux follets dansent en cercle sur la surface dormante, dessinant au ras de l'eau un chiffre obscur qui ne saurait être compté par la main de chair. Quand le grondement lointain du bois répond à la lueur basse, le seuil doit être saupoudré, car le meneu' de loups a tracé son passage sur la glace.",
+      "presage_en": "The moon, a twisted silver crescent, throws an oblique light upon the pond, where the water reflects nothing human, only the trace of an unseen step. Three will-o'-the-wisps dance in a circle upon the sleeping surface, drawing near the water a dark figure that no fleshly hand can count. When the distant rumble of the woods answers the low glow, the threshold must be dusted, for the wolf leader has marked his way upon the ice.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": "forte"
+        },
+        {
+          "note": "A",
+          "start": 1.5,
+          "duration": 0.8,
+          "force": "évanescente"
+        },
+        {
+          "note": "E",
+          "start": 3.0,
+          "duration": 0.6,
+          "force": "faible"
+        },
+        {
+          "note": "D",
+          "start": 4.0,
+          "duration": 1.2,
+          "force": "stable"
+        },
+        {
+          "note": "A",
+          "start": 7.5,
+          "duration": 0.7,
+          "force": "soufflante"
+        },
+        {
+          "note": "G",
+          "start": 9.5,
+          "duration": 0.5,
+          "force": "triste"
+        },
+        {
+          "note": "D",
+          "start": 11.0,
+          "duration": 2.0,
+          "force": "ferme"
+        },
+        {
+          "note": "A",
+          "start": 14.0,
+          "duration": 0.5,
+          "force": "glissée"
+        },
+        {
+          "note": "D",
+          "start": 15.5,
+          "duration": 1.0,
+          "force": "résonnante"
+        },
+        {
+          "note": "D",
+          "start": 17.5,
+          "duration": 1.5,
+          "force": "tenue"
+        }
+      ],
+      "midi": "work/midi-2026-08-25T1251Z-3.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
