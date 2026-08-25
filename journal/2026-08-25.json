@@ -1788,6 +1788,101 @@
           "the time to bind and to build"
         ]
       ]
+    },
+    {
+      "time": "16:39",
+      "night": false,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 17,
+      "want_source": "fallback-gift",
+      "presage": "Dans la nuit transparente et lourde, la lune pleine écoute le silence. Un chiffre se grave dans l'air : un ; et l'ombre du clocher s’allonge jusqu’au gué. Là, au rythme des battoirs, les laveuses de nuit battent le linge, tandis que l'oreille du veilleur perçoit un goût de fer froid.",
+      "presage_en": "In the clear and heavy night, the full moon listens to the silence. A number is carved in the air: one; and the shadow of the belfry stretches out to the ford. There, to the beat of the beetles, the night washerwomen beat the linen, while the watcher's ear catches a taste of cold iron.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "D",
+          "start": 1,
+          "duration": 1,
+          "force": 95
+        },
+        {
+          "note": "A",
+          "start": 3,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 4,
+          "duration": 1,
+          "force": 100
+        },
+        {
+          "note": "F",
+          "start": 5,
+          "duration": 0.5,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 6,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 7,
+          "duration": 0.75,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 8,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 9,
+          "duration": 1,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 10,
+          "duration": 0.5,
+          "force": 90
+        }
+      ],
+      "midi": "work/midi-2026-08-25T1639Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
     }
   ]
 }
