@@ -1,0 +1,101 @@
+{
+  "date": "2026-08-26",
+  "breaths": [
+    {
+      "time": "03:07",
+      "night": true,
+      "phase": "waxing",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "presage": "La nuit s’installe, lourde, sans vent, la lune pleine aux treize crins d’argent suspendus dans un silence sans fond. Les roseaux tremblent non pas au souffle, mais comme s’ils retenaient leur souffle, et l’on sent d’abord l’odeur du marais monter avant même de voir quelque chose. Alors, dans le reflet trouble de l’eau, une biche blanche émerge, ombre claire dans l’obscurité, et le puit, pour une semaine, garde dans sa source un goût de terre humide et de promesses brisées.",
+      "presage_en": "Night settles in, heavy, windless, the full moon with thirteen silver hairs hanging in a bottomless silence. The reeds tremble not from a breath but as if holding theirs, and you first smell the marsh rise before you see anything. Then, in the water’s murky glimmer, a white doe emerges, a clear shade in the dark, and the well, for a week, keeps in its spring a taste of damp earth and broken vows.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "A",
+          "start": 4,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "D",
+          "start": 8,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "F",
+          "start": 12,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "D",
+          "start": 16,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "A",
+          "start": 20,
+          "duration": 1,
+          "force": 6
+        },
+        {
+          "note": "D",
+          "start": 24,
+          "duration": 1,
+          "force": 8
+        },
+        {
+          "note": "F",
+          "start": 28,
+          "duration": 1,
+          "force": 4
+        },
+        {
+          "note": "D",
+          "start": 32,
+          "duration": 2,
+          "force": 6
+        },
+        {
+          "note": "A",
+          "start": 36,
+          "duration": 1,
+          "force": 5
+        },
+        {
+          "note": "D",
+          "start": 40,
+          "duration": 1,
+          "force": 8
+        }
+      ],
+      "midi": "work/midi-2026-08-26T0307Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.33",
+          "the north keeps its peace"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waxing",
+          "the time to bind and to build"
+        ]
+      ]
+    }
+  ]
+}
