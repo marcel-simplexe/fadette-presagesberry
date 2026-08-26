@@ -400,6 +400,113 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "14:47",
+      "night": false,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "observed",
+      "presage": "La lune pleine trace sa lumière froide sur le pré inondé, et un chiffre secret résonne au bord de l’ombre : deux. Les meules et les meules de foin gisent comme des bestes endormies sous une brume qui pèse, tandis qu’une haleine porte l’odeur d’eau stagnante jusqu’à la veillée. Dans le reflet trouble, les fades avancent pieds nus, et le pain qui dort dans la huche ne trouvera pas force de monter.",
+      "presage_en": "The full moon casts its cold light on the flooded meadow, and a secret number rings at the edge of the shadow: two. The haystacks lie like sleeping beasts under a heavy mist, while a breath carries the scent of still water to the vigil. In the murky reflection, the fades advance barefoot, and the bread that sleeps in the hutch will find no strength to rise.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0.0,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "C",
+          "start": 1.2,
+          "duration": 0.6,
+          "force": 0.7
+        },
+        {
+          "note": "E",
+          "start": 1.8,
+          "duration": 0.5,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 2.3,
+          "duration": 0.7,
+          "force": 0.65
+        },
+        {
+          "note": "F",
+          "start": 3.0,
+          "duration": 0.4,
+          "force": 0.45
+        },
+        {
+          "note": "C",
+          "start": 3.4,
+          "duration": 0.9,
+          "force": 0.55
+        },
+        {
+          "note": "A",
+          "start": 4.3,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "G",
+          "start": 5.1,
+          "duration": 0.5,
+          "force": 0.4
+        },
+        {
+          "note": "E",
+          "start": 5.6,
+          "duration": 0.6,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 6.2,
+          "duration": 0.9,
+          "force": 0.6
+        },
+        {
+          "note": "F",
+          "start": 7.1,
+          "duration": 0.4,
+          "force": 0.4
+        },
+        {
+          "note": "C",
+          "start": 7.5,
+          "duration": 1.0,
+          "force": 0.35
+        }
+      ],
+      "midi": "work/midi-2026-08-26T1447Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
