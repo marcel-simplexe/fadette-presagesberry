@@ -602,6 +602,101 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "19:50",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "presage": "La lune ronde écrase la nuit comme une poignée de braise. Deux feux volants piquent le noir du ciel sans faire de bruit. Une ombre massive, plus lourde que la terre, avance dans les blés, sans yeux, sans forme, et ceux qui veillent sentent le fer sur leur langue avant même le cri.",
+      "presage_en": "The round moon crushes the night like a fistful of embers. Two flying fires prick the dark sky without a sound. A massive shadow, heavier than the earth, moves through the wheat, without eyes, without shape, and those who keep watch taste iron on their tongue before there is even a cry.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 2.0,
+          "force": "forte"
+        },
+        {
+          "note": "A",
+          "start": 2.0,
+          "duration": 1.25,
+          "force": "douce"
+        },
+        {
+          "note": "D",
+          "start": 3.25,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "F",
+          "start": 4.75,
+          "duration": 0.75,
+          "force": "très faible"
+        },
+        {
+          "note": "A",
+          "start": 5.5,
+          "duration": 1.0,
+          "force": "modérée"
+        },
+        {
+          "note": "D",
+          "start": 6.5,
+          "duration": 2.0,
+          "force": "forte"
+        },
+        {
+          "note": "C (pour une note de basse très basse)",
+          "start": 8.5,
+          "duration": 1.0,
+          "force": "sourd"
+        },
+        {
+          "note": "D",
+          "start": 9.5,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "A, puis D",
+          "start": 11.0,
+          "duration": 0.5,
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": 11.5,
+          "duration": 2.0,
+          "force": "très douce, déclinante"
+        }
+      ],
+      "midi": "work/midi-2026-08-26T1950Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
