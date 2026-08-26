@@ -507,6 +507,101 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "16:49",
+      "night": false,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "observed",
+      "presage": "La lune pleine pèse sur les tuiles, gardienne de secrets numérotés à la 14e nuit, tandis que le soleil s'efface comme un feu qui s'éteint doucement. Un souffle froid court sur les blés mûrs, portant avec lui les murmures des ombres qui s'allongent inlassablement, chaque trait d'ombre devenant un nom oublié. Le ciel, pur jusqu'à l'horizon, retient sa respiration, et quand le regard glisse vers le coude de la rivière où les chiens refusent d'aller, c'est le souffle énorme de la Grand'Bête qui fait frissonner les herbes et fait meugler les troupeaux dans la nuit sans fin.",
+      "presage_en": "The full moon weighs on the tiles, keeper of secrets counted out on the fourteenth night, while the sun slips away like a fire gently dying. A cold breath runs over the ripe wheat, carrying with it the murmurs of shadows that stretch on endlessly, each dark line becoming a forgotten name. The sky, clear to the horizon, holds its breath, and when the eye drifts to the bend in the river where the dogs will not go, it is the great beast's breath that makes the grasses shudder and the herds low in the endless night.",
+      "score": [
+        {
+          "note": "A",
+          "start": "0",
+          "duration": "1",
+          "force": "mezzo-forte"
+        },
+        {
+          "note": "G",
+          "start": "4",
+          "duration": "1",
+          "force": "piano"
+        },
+        {
+          "note": "F",
+          "start": "8",
+          "duration": "1",
+          "force": "mezzo-forte"
+        },
+        {
+          "note": "E",
+          "start": "12",
+          "duration": "1",
+          "force": "piano"
+        },
+        {
+          "note": "D",
+          "start": "16",
+          "duration": "1",
+          "force": "mezzo-piano"
+        },
+        {
+          "note": "C",
+          "start": "20",
+          "duration": "1",
+          "force": "pp"
+        },
+        {
+          "note": "A",
+          "start": "24",
+          "duration": "1",
+          "force": "piano"
+        },
+        {
+          "note": "G",
+          "start": "28",
+          "duration": "0.5",
+          "force": "ppp"
+        },
+        {
+          "note": "A, G",
+          "start": "32",
+          "duration": "0.5",
+          "force": "ppp"
+        },
+        {
+          "note": "A",
+          "start": "33",
+          "duration": "rest until end",
+          "force": "ppp"
+        }
+      ],
+      "midi": "work/midi-2026-08-26T1649Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
