@@ -299,6 +299,107 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "06:53",
+      "night": false,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "presage": "La nuit est pleine, et sur son verso vivent ceux qui reviennent. Deux feux errants hésitent, entre l’eau dormante et les blés secoués par un souffle froid. Une dame blanche surgit de l’ombre, ses pas silencieux comptant la terre comme on compte ses prières.",
+      "presage_en": "Night is full, and on its far side live those who return. Two wandering fires hesitate, between the sleeping water and the wheat shaken by a cold breath. A white lady rises from the shadow, her silent steps counting the earth as one counts prayers.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 5.0,
+          "force": "forte"
+        },
+        {
+          "note": "A",
+          "start": 5.0,
+          "duration": 3.0,
+          "force": "moyenne"
+        },
+        {
+          "note": "D",
+          "start": 8.0,
+          "duration": 4.0,
+          "force": "faible"
+        },
+        {
+          "note": "G",
+          "start": 12.0,
+          "duration": 2.0,
+          "force": "très faible"
+        },
+        {
+          "note": "A",
+          "start": 14.0,
+          "duration": 3.0,
+          "force": "discrète"
+        },
+        {
+          "note": "D",
+          "start": 17.0,
+          "duration": 6.0,
+          "force": "moyenne croissante"
+        },
+        {
+          "note": "A",
+          "start": 23.0,
+          "duration": 2.0,
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": 25.0,
+          "duration": 4.0,
+          "force": "faible"
+        },
+        {
+          "note": "D",
+          "start": 29.0,
+          "duration": 5.0,
+          "force": "très faible, ténue"
+        },
+        {
+          "note": "A (basse)",
+          "start": 34.0,
+          "duration": 2.0,
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": 36.0,
+          "duration": 7.0,
+          "force": "très faible"
+        }
+      ],
+      "midi": "work/midi-2026-08-26T0653Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
