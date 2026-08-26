@@ -697,6 +697,267 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "22:52",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 3,
+      "presage": "La nuit arrive, pleine et dure, la quatorzième fois, tenant la terre dans sa lumière froide. Un souffle passe sur les blés, l'air chargé d'une promesse de pluie ou de sang, et l'orage gronde au loin dans le bois, tandis que le ciel reste d'un bleu pur et limpide. Au vieux moulin, le veilleur perçoit d'abord un goût de fer dans l'air, puis, silencieux, un meneu' de loups se détache des ombres, et les bêtes meuglent dans l'obscurité sous les étoiles.",
+      "presage_en": "Night falls, full and hard, for the fourteenth time, holding the earth in its cold light. A breath passes over the wheat, the air heavy with a promise of rain or blood, and the storm growls far off in the wood, while the sky stays a clear, limpid blue. At the old mill, the watcher first tastes iron in the air, then, silent, a pack of wolves steps out of the shadows, and the beasts low in the dark under the stars.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1.25,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 3,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 4,
+          "duration": 0.75,
+          "force": 0.55
+        },
+        {
+          "note": "F",
+          "start": 5,
+          "duration": 0.5,
+          "force": 0.45
+        },
+        {
+          "note": "A",
+          "start": 6,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "G",
+          "start": 7,
+          "duration": 0.75,
+          "force": 0.75
+        },
+        {
+          "note": "D",
+          "start": 8,
+          "duration": 1.5,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 10,
+          "duration": 1,
+          "force": 0.2
+        }
+      ],
+      "midi": "work/midi-2026-08-26T2252Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "22:52",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 3,
+      "presage": "La nuit, un tableau de présages où la pleine lune fixe la terre et le compte des ombres est de quatre. Un souffle caresse les blés, l’orage gronde au loin, et le ciel, malgré son apparente pureté, pèse sur le monde. Au bord du chemin, le frôlement à la nuque avertit, le lupeux des roseaux apparaît, et une porte se ferme sans main, scellant un secret qui jaillit avant même d’être nommé.",
+      "presage_en": "Night paints a tableau of omens where the full moon pins the earth and the count of shadows is four. A breath strokes the wheat, thunder rumbles far off, and the sky, though seeming pure, weighs upon the world. By the roadside, a brush at the nape warns, the rustle of reeds appears, and a door shuts without a hand, sealing a secret that bursts forth before it is even named.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "E♭",
+          "start": 2.0,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "A♭",
+          "start": 3.0,
+          "duration": 1.2,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 5.0,
+          "duration": 0.9,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 6.2,
+          "duration": 0.7,
+          "force": 0.5
+        },
+        {
+          "note": "E♭",
+          "start": 7.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "A♭",
+          "start": 8.0,
+          "duration": 0.6,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 9.0,
+          "duration": 1.5,
+          "force": 0.7
+        },
+        {
+          "note": "D",
+          "start": 12.0,
+          "duration": 0.4,
+          "force": 0.3
+        }
+      ],
+      "midi": "work/midi-2026-08-26T2252Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "22:52",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 3,
+      "of": 3,
+      "presage": "La lune pleine crève comme un œil fendu sur la nuit. Un chiffre de quatre se tisse dans l'air, secret et pesant. Au gué, une silhouette se devine, enveloppée d'une odeur d'étang stagnant.",
+      "presage_en": "The full moon bursts like a split eye across the night. A figure of four weaves itself in the air, secret and heavy. At the ford, a shape shows itself, wrapped in the smell of still water.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "A",
+          "start": 3.0,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 3.8,
+          "duration": 1.2,
+          "force": 0.3
+        },
+        {
+          "note": "F",
+          "start": 8.0,
+          "duration": 0.6,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 8.6,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 18.0,
+          "duration": 1.5,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 19.5,
+          "duration": 0.7,
+          "force": 0.1
+        },
+        {
+          "note": "D",
+          "start": 20.5,
+          "duration": 1.8,
+          "force": 0.2
+        }
+      ],
+      "midi": "work/midi-2026-08-26T2252Z-3.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
