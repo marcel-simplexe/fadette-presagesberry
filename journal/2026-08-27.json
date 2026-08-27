@@ -200,6 +200,200 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "08:15",
+      "night": false,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La nuit s'étire, pleine et claire, où quatre yeux brûlants scrutent le firmament ; un souffle froid glisse entre les épis, tandis que loin, l'orage se tait comme une menace. Au carrefour, une silhouette se dessine, non d'un seul être mais d'une meute qui s'épaissit dans l'obscurité, et au matin on trouvera la marque du chien à la lisière du domaine.",
+      "presage_en": "Night lengthens, full and clear, with four burning eyes scanning the sky; a cold breath slips through the ears of corn, while far off the storm falls silent like a threat. At the crossroads, a shape takes form, not of one creature but of a pack thickening in the dark, and at dawn they’ll find the hound’s print at the edge of the field.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 8,
+          "force": "piano"
+        },
+        {
+          "note": "silence",
+          "start": 8,
+          "duration": 6,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 14,
+          "duration": 6,
+          "force": "mezzo-forte"
+        },
+        {
+          "note": "silence",
+          "start": 20,
+          "duration": 7,
+          "force": 0
+        },
+        {
+          "note": "A (seconde abaissée)",
+          "start": 27,
+          "duration": 10,
+          "force": "mezzo-forte"
+        },
+        {
+          "note": "silence",
+          "start": 37,
+          "duration": 5,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 42,
+          "duration": 7,
+          "force": "piano"
+        },
+        {
+          "note": "silence",
+          "start": 49,
+          "duration": 4,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 53,
+          "duration": 9,
+          "force": "pp"
+        },
+        {
+          "note": "silence",
+          "start": 62,
+          "duration": 8,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 70,
+          "duration": 5,
+          "force": "ppp"
+        }
+      ],
+      "midi": "work/midi-2026-08-27T0815Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "08:15",
+      "night": false,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "La lune pleine se dresse au cœur des ombres, le jour étendu jusqu'aux confins. Un souffle glacé effleure les gerbes, l'orage sommeille au creux des bois. Sur le chemin de troupeau, un poids s'abat, et seules les bêtes meuglent dans les ténèbres.",
+      "presage_en": "The full moon rises in the heart of the shadows, the day stretched out to the farthest edges. A cold breath brushes the sheaves, the storm sleeps in the hollow of the woods. On the drove road, a weight falls, and only the beasts low in the dark.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.5,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 0.3,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 1.3,
+          "duration": 0.7,
+          "force": 0.9
+        },
+        {
+          "note": "G",
+          "start": 2.0,
+          "duration": 0.4,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 2.4,
+          "duration": 0.6,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 3.0,
+          "duration": 0.8,
+          "force": 1.0
+        },
+        {
+          "note": "F",
+          "start": 3.8,
+          "duration": 0.3,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 4.1,
+          "duration": 0.6,
+          "force": 0.7
+        },
+        {
+          "note": "D",
+          "start": 4.7,
+          "duration": 1.0,
+          "force": 0.6
+        }
+      ],
+      "midi": "work/midi-2026-08-27T0815Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
