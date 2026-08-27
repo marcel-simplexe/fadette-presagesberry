@@ -1,0 +1,205 @@
+{
+  "date": "2026-08-27",
+  "breaths": [
+    {
+      "time": "04:35",
+      "night": false,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La nuit s'étire sans cause ni mesure, une étoffe tissée de présages où la lune, pleine et vigilante, observe la toile de l'ombre. Entre chien et loup, un souffle glisse sur les blés, et la pluie tombe sans nuages dans le ciel pur, tandis que le compte des êtres invisibles s'établit à deux, seuls témoins de ce silence qui s'abat sur les pierres à laver, chuchotant à l'oreille du veilleur que le pays, en son mystère entier, est désormais suffisant à lui-même.",
+      "presage_en": "The night stretches out with no cause or measure, a cloth woven of omens where the full moon watches the web of shadow. Between dog and wolf, a breath slips over the wheat, and rain falls without clouds in the clear sky, while the tally of unseen ones settles at two, sole witnesses to this silence that settles on the washing stones, whispering in the watcher's ear that the country, in all its mystery, is now enough unto itself.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 2,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 3.5,
+          "duration": 2,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 6.0,
+          "duration": 1.5,
+          "force": 0.8
+        },
+        {
+          "note": "F",
+          "start": 7.5,
+          "duration": 2,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 10.0,
+          "duration": 2,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 12.5,
+          "duration": 1.0,
+          "force": 0.9
+        },
+        {
+          "note": "G",
+          "start": 14.0,
+          "duration": 2,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 16.5,
+          "duration": 2,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 19.0,
+          "duration": 1.5,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 21.0,
+          "duration": 3,
+          "force": 0.8
+        }
+      ],
+      "midi": "work/midi-2026-08-27T0435Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "04:35",
+      "night": false,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "La lune pleine garde les comptes du ciel, quatorze fois pamée. Un souffle téléphone dans les chaumes, puis l'eau claque sous les pas de l'invisible. Dans le pré d'argent, un être se devine en bruit, têtard de brume et de fil, le lupeux rôde les roseaux, et la voix d'un enfant, seule, demande ce que c'était.",
+      "presage_en": "The full moon keeps the sky's reckoning, fourteen times measured. A breath whispers through the stubble, then the water slaps under the invisible's tread. In the silvered field, a shape shows itself in sound, a misty tadpole and thread, the shaggy one prowls the reeds, and a child's voice, alone, asks what it was.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 3.0,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 4.0,
+          "duration": 2.5,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 6.5,
+          "duration": 4.0,
+          "force": 0.3
+        },
+        {
+          "note": "E",
+          "start": 10.5,
+          "duration": 1.5,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 12.0,
+          "duration": 5.0,
+          "force": 0.2
+        },
+        {
+          "note": "A",
+          "start": 17.0,
+          "duration": 2.0,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 19.0,
+          "duration": 6.0,
+          "force": 0.1
+        },
+        {
+          "note": "rest",
+          "start": 25.0,
+          "duration": 10.0,
+          "force": 0.0
+        },
+        {
+          "note": "D",
+          "start": 35.0,
+          "duration": 3.5,
+          "force": 0.3
+        },
+        {
+          "note": "A",
+          "start": 38.5,
+          "duration": 2.0,
+          "force": 0.25
+        },
+        {
+          "note": "D",
+          "start": 40.5,
+          "duration": 4.0,
+          "force": 0.15
+        }
+      ],
+      "midi": "work/midi-2026-08-27T0435Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    }
+  ]
+}
