@@ -394,6 +394,477 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "20:12",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 3,
+      "presage": "La lune, pleine et ronde comme une assiette d'argent, jette une lumière blanche et sans chaleur sur la terre humide, et dans cette clarté froide, chaque goutte de pluie devient un diamant éphémère. Deux formes indistinctes dans la lande, plus ombre que substance, se tiennent immobiles à la lisière du bois, comme des sentinelles venues de nulle part. Au pied du vieux clocher, un chien gît sans vie, seul élément parlant, tandis que le vent murmure des histoires oubliées dans la cheminée déserte.",
+      "presage_en": "The moon, full and round as a silver plate, throws a cold white light on the wet earth, and in that chill brightness each raindrop turns to a fleeting diamond. Two indistinct shapes in the heath, more shadow than substance, stand motionless at the wood’s edge, like sentinels come from nowhere. At the foot of the old belfry, a dog lies still as death, the only thing that speaks, while the wind murmurs forgotten tales in the empty chimney.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 4.0,
+          "force": 85
+        },
+        {
+          "note": "E♭",
+          "start": 4.0,
+          "duration": 3.0,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 7.0,
+          "duration": 4.0,
+          "force": 80
+        },
+        {
+          "note": "C",
+          "start": 11.0,
+          "duration": 3.0,
+          "force": 65
+        },
+        {
+          "note": "C♭",
+          "start": 14.0,
+          "duration": 3.5,
+          "force": 55
+        },
+        {
+          "note": "D♭",
+          "start": 17.5,
+          "duration": 3.0,
+          "force": 45
+        },
+        {
+          "note": "A♭",
+          "start": 20.5,
+          "duration": 2.5,
+          "force": 35
+        },
+        {
+          "note": "D",
+          "start": 23.5,
+          "duration": 5.0,
+          "force": 30
+        }
+      ],
+      "midi": "work/midi-2026-08-27T2012Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "20:12",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 3,
+      "presage": "Il fait nuit, la lune pleine scrute le monde comme un œil de loup. Dans les roseaux du marais, une chose se devine — rien qu’une silhouette fugace entre deux gouttes de pluie. Les feux errants dansent, et c’est ainsi que l’on comprend qu’il faut quérir le curé à l’aube.",
+      "presage_en": "Night has fallen, the full moon stares at the world like a wolf’s eye. In the marsh reeds, a shape is glimpsed — just a fleeting form between two drops of rain. Wandering fires dance, and that’s how one knows to fetch the priest at dawn.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 1,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 2,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 3,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "G",
+          "start": 4,
+          "duration": 1,
+          "force": 0.45
+        },
+        {
+          "note": "A",
+          "start": 5,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 6,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 7,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 8,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 9,
+          "duration": 1,
+          "force": 0.45
+        },
+        {
+          "note": "D",
+          "start": 10,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 11,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 12,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 13,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 14,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 15,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 16,
+          "duration": 1,
+          "force": 0.45
+        },
+        {
+          "note": "G",
+          "start": 17,
+          "duration": 1,
+          "force": 0.35
+        },
+        {
+          "note": "D",
+          "start": 18,
+          "duration": 1,
+          "force": 0.55
+        },
+        {
+          "note": "D",
+          "start": 19,
+          "duration": 1,
+          "force": 0.55
+        },
+        {
+          "note": "A",
+          "start": 20,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "G",
+          "start": 21,
+          "duration": 1,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 22,
+          "duration": 1,
+          "force": 0.45
+        },
+        {
+          "note": "D",
+          "start": 23,
+          "duration": 1,
+          "force": 0.45
+        },
+        {
+          "note": "A",
+          "start": 24,
+          "duration": 1,
+          "force": 0.35
+        },
+        {
+          "note": "G",
+          "start": 25,
+          "duration": 1,
+          "force": 0.25
+        },
+        {
+          "note": "D",
+          "start": 26,
+          "duration": 1,
+          "force": 0.35
+        },
+        {
+          "note": "D",
+          "start": 27,
+          "duration": 1,
+          "force": 0.35
+        },
+        {
+          "note": "A",
+          "start": 28,
+          "duration": 1,
+          "force": 0.25
+        },
+        {
+          "note": "G",
+          "start": 29,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 30,
+          "duration": 1,
+          "force": 0.25
+        },
+        {
+          "note": "D",
+          "start": 31,
+          "duration": 1,
+          "force": 0.25
+        },
+        {
+          "note": "A",
+          "start": 32,
+          "duration": 1,
+          "force": 0.15
+        },
+        {
+          "note": "G",
+          "start": 33,
+          "duration": 1,
+          "force": 0.1
+        },
+        {
+          "note": "D",
+          "start": 34,
+          "duration": 1,
+          "force": 0.15
+        },
+        {
+          "note": "D",
+          "start": 35,
+          "duration": 1,
+          "force": 0.15
+        },
+        {
+          "note": "A",
+          "start": 36,
+          "duration": 1,
+          "force": 0.1
+        },
+        {
+          "note": "G",
+          "start": 37,
+          "duration": 1,
+          "force": 0.05
+        },
+        {
+          "note": "D",
+          "start": 38,
+          "duration": 1,
+          "force": 0.1
+        },
+        {
+          "note": "D",
+          "start": 39,
+          "duration": 1,
+          "force": 0.1
+        },
+        {
+          "note": "D",
+          "start": 40,
+          "duration": 1,
+          "force": 0.1
+        }
+      ],
+      "midi": "work/midi-2026-08-27T2012Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "20:12",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 3,
+      "of": 3,
+      "presage": "La pleine lune suspend sa face d'argent sur les champs noirs ; c'est sa quinzième nuit, et le ciel tient la campagne dans sa main de perle. Un souffle glisse entre les épis, il pleut doucement sur les terres closes tandis que le ciel se voile de ténèbres, et deux silhouettes troublent l'ombre au pied du clocher, toujours plus près.",
+      "presage_en": "The full moon hangs its silver face over the dark fields; it is its fifteenth night, and the sky holds the countryside in its pearl hand. A breath slips between the ears of corn, it rains softly on the enclosed lands while the sky veils itself in darkness, and two shapes trouble the shadow at the foot of the belfry, always drawing nearer.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1.5,
+          "force": "forte"
+        },
+        {
+          "note": "D",
+          "start": 4,
+          "duration": 1.0,
+          "force": "forte"
+        },
+        {
+          "note": "A",
+          "start": 6,
+          "duration": 0.5,
+          "force": "doux"
+        },
+        {
+          "note": "rest",
+          "start": 7,
+          "duration": 2.0,
+          "force": "silence"
+        },
+        {
+          "note": "E♭",
+          "start": 9,
+          "duration": 1.0,
+          "force": "triste"
+        },
+        {
+          "note": "rest",
+          "start": 11,
+          "duration": 2.5,
+          "force": "vacuité"
+        },
+        {
+          "note": "A♭",
+          "start": 14,
+          "duration": 0.75,
+          "force": "spectral"
+        },
+        {
+          "note": "rest",
+          "start": 15,
+          "duration": 3.0,
+          "force": "vide"
+        },
+        {
+          "note": "D",
+          "start": 19,
+          "duration": 2.0,
+          "force": "résolu"
+        },
+        {
+          "note": "rest",
+          "start": 22,
+          "duration": 4.0,
+          "force": "absence"
+        },
+        {
+          "note": "D",
+          "start": 26,
+          "duration": 1.0,
+          "force": "final"
+        }
+      ],
+      "midi": "work/midi-2026-08-27T2012Z-3.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 0.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
