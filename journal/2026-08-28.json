@@ -3024,6 +3024,230 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "19:59",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La lune pleine pèse sur les chaumes, comptant ses 16 nuits comme on compte des péchés inconnus. Quatre formes se découpent dans l'ombre des charniers, sans visage et pourtant là, présentes. Le regard du veilleur s'écrase contre les pierres mouillées du gué, baigné d'une lueur basse qui ne vient ni des étoiles ni des feux de la Saint-Jean, tandis qu'une voix de femme ancienne murmure au creux de la nuit : ne regarde pas.",
+      "presage_en": "The full moon hangs heavy on the stubble, counting its sixteen nights like hidden sins. Four shapes cut themselves out in the charnel-house shadows, faceless yet there, present. The watcher's gaze smashes against the wet stones of the ford, bathed in a low light that comes neither from stars nor St John's fires, while an ancient woman's voice murmurs in the night's hollow: do not look.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": "piano"
+        },
+        {
+          "note": "A",
+          "start": 8,
+          "duration": 1,
+          "force": "mezzo-forte"
+        },
+        {
+          "note": "D",
+          "start": 9,
+          "duration": 2,
+          "force": "piano"
+        },
+        {
+          "note": "F",
+          "start": 11,
+          "duration": 1,
+          "force": "mezzo-piano"
+        },
+        {
+          "note": "A",
+          "start": 12,
+          "duration": 1.5,
+          "force": "piano"
+        },
+        {
+          "note": "D",
+          "start": 13.5,
+          "duration": 2,
+          "force": "piano"
+        },
+        {
+          "note": "G",
+          "start": 15.5,
+          "duration": 1,
+          "force": "mezzo-forte"
+        },
+        {
+          "note": "F",
+          "start": 16.5,
+          "duration": 1.5,
+          "force": "piano"
+        },
+        {
+          "note": "D",
+          "start": 18.5,
+          "duration": 3,
+          "force": "pianissimo"
+        },
+        {
+          "note": "D",
+          "start": 21.5,
+          "duration": 1,
+          "force": "piano"
+        },
+        {
+          "note": "A",
+          "start": 22.5,
+          "duration": 2,
+          "force": "pianissimo"
+        },
+        {
+          "note": "D",
+          "start": 24.5,
+          "duration": 4,
+          "force": "pianissimo"
+        }
+      ],
+      "midi": "work/midi-2026-08-28T1959Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "19:59",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "La lune pleine pèse sur les chaumes, lourde comme le silence d’un vieux secret ; Le ciel s’entrouvre doucement, et quatre ombres s’élèvent d’un même pas ; Au bord du gué, l’eau brille de feux voyageurs, et les pierres à laver attendent.",
+      "presage_en": "The full moon hangs heavy on the stubble, as still as an old secret; the sky parts slowly, and four shadows rise in one step; at the ford, the water glitters with wandering fires, and the washing stones wait.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 2,
+          "force": "forte"
+        },
+        {
+          "note": "A",
+          "start": 3,
+          "duration": 1,
+          "force": "doux"
+        },
+        {
+          "note": "D",
+          "start": 4,
+          "duration": 2,
+          "force": "forte"
+        },
+        {
+          "note": "G",
+          "start": 6,
+          "duration": 1,
+          "force": "faible, tremblant"
+        },
+        {
+          "note": "A",
+          "start": 7,
+          "duration": 1,
+          "force": "doux"
+        },
+        {
+          "note": "D",
+          "start": 8,
+          "duration": 2,
+          "force": "forte"
+        },
+        {
+          "note": "F",
+          "start": 10,
+          "duration": 1,
+          "force": "très doux"
+        },
+        {
+          "note": "D",
+          "start": 11,
+          "duration": 1.5,
+          "force": "modéré"
+        },
+        {
+          "note": "A",
+          "start": 12.5,
+          "duration": 1,
+          "force": "doux"
+        },
+        {
+          "note": "D",
+          "start": 13.5,
+          "duration": 2,
+          "force": "fort, puis déclinant"
+        },
+        {
+          "note": "D",
+          "start": 15.5,
+          "duration": 2,
+          "force": "très faible, presque un écho lointain"
+        },
+        {
+          "note": "D",
+          "start": 17.5,
+          "duration": 1.5,
+          "force": "très faible, presque imperceptible"
+        },
+        {
+          "note": "D",
+          "start": 19,
+          "duration": 2,
+          "force": "disparait"
+        }
+      ],
+      "midi": "work/midi-2026-08-28T1959Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
