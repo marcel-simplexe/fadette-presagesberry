@@ -1,0 +1,1529 @@
+{
+  "date": "2026-08-28",
+  "breaths": [
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 12,
+      "presage": "La lune pleine domine le ciel d'un blanc immobile. C'est la quinzième nuit, un chiffre qui pèse sur les ombres. La clarté s'évanouit soudain, comme avalée par le temps même.",
+      "presage_en": "The full moon hangs still and white over the sky. It is the fifteenth night, a number that weighs upon the shadows. The light slips away all at once, as if the night itself had swallowed it.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 1,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 2,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 3,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 4,
+          "duration": 2,
+          "force": 0.3
+        },
+        {
+          "note": "C",
+          "start": 6,
+          "duration": 1,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 7,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 8,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 9,
+          "duration": 1,
+          "force": 0.3
+        },
+        {
+          "note": "C",
+          "start": 10,
+          "duration": 1,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 11,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 12,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 13,
+          "duration": 2,
+          "force": 0.2
+        },
+        {
+          "note": "C",
+          "start": 15,
+          "duration": 1,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 16,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 17,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 18,
+          "duration": 1,
+          "force": 0.3
+        },
+        {
+          "note": "C",
+          "start": 19,
+          "duration": 1,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 20,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 21,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 22,
+          "duration": 2,
+          "force": 0.2
+        },
+        {
+          "note": "C",
+          "start": 24,
+          "duration": 1,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 25,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 26,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 27,
+          "duration": 1,
+          "force": 0.3
+        },
+        {
+          "note": "C",
+          "start": 28,
+          "duration": 1,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 29,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 30,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 31,
+          "duration": 3,
+          "force": 0.1
+        },
+        {
+          "note": "C",
+          "start": 34,
+          "duration": 1,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 35,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 36,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 37,
+          "duration": 1,
+          "force": 0.3
+        },
+        {
+          "note": "C",
+          "start": 38,
+          "duration": 1,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 39,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 40,
+          "duration": 1,
+          "force": 0.4
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 12,
+      "presage": "La brume se lève des marais comme une langue muette, s’élevant par souffle d’invisible créature. Les étoiles, sept à présent, tremblent et se déplacent d’un seul mouvement vers le cap du bois où veille la Grand'Bête, créature sans nom faite de veau et de lièvre. Et la clarté, sans que le jour ne vienne, recule jusqu'à disparaître, laissant le veilleur nu dans l'obscurité qui avance de toutes parts, comme si le monde lui-même reculait devant un pas invisible.",
+      "presage_en": "The mist rises from the marshes like a silent tongue, lifting on the breath of some unseen thing. The stars, seven now, quiver and shift all at once toward the wood’s head where the Grand Beast keeps watch, a nameless creature made of calf and hare. And the light, without the day coming, draws back till it vanishes, leaving the watcher bare in the darkness that creeps from every side, as if the world itself steps back before an unseen footfall.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 2,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 4,
+          "duration": 1,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 5,
+          "duration": 3,
+          "force": 65
+        },
+        {
+          "note": "rest",
+          "start": 8,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "F",
+          "start": 10,
+          "duration": 1,
+          "force": 40
+        },
+        {
+          "note": "rest",
+          "start": 11,
+          "duration": 3,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 14,
+          "duration": 2,
+          "force": 45
+        },
+        {
+          "note": "rest",
+          "start": 16,
+          "duration": 5,
+          "force": 0
+        },
+        {
+          "note": "A",
+          "start": 21,
+          "duration": 1,
+          "force": 30
+        },
+        {
+          "note": "rest",
+          "start": 22,
+          "duration": 4,
+          "force": 0
+        },
+        {
+          "note": "G",
+          "start": 26,
+          "duration": 2,
+          "force": 55
+        },
+        {
+          "note": "rest",
+          "start": 28,
+          "duration": 3,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 31,
+          "duration": 1,
+          "force": 35
+        },
+        {
+          "note": "rest",
+          "start": 32,
+          "duration": 6,
+          "force": 0
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 3,
+      "of": 12,
+      "presage": "La lune haute pèse sur la nuit comme un bouclier d'argent usé. Le vent glisse sans souffle, et sept feux follets tournent en rond sans se rencontrer. La clarté se retire d'un seul coup, le jour cède sans raison, et le veilleur sent le froid monter jusqu'au cœur.",
+      "presage_en": "The moon hangs high over the night like a worn silver shield. The wind slips by without a breath, and seven will-o'-the-wisps spin round and round without meeting. The light slips away all at once, the day gives way without reason, and the watcher feels the cold rise up to his heart.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "A",
+          "start": 8,
+          "duration": 1,
+          "force": "moyen"
+        },
+        {
+          "note": "D",
+          "start": 16,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "F",
+          "start": 24,
+          "duration": 1,
+          "force": "faible"
+        },
+        {
+          "note": "A",
+          "start": 32,
+          "duration": 1,
+          "force": "moyen"
+        },
+        {
+          "note": "D",
+          "start": 40,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "D",
+          "start": 48,
+          "duration": 1,
+          "force": "faible"
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-3.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 4,
+      "of": 12,
+      "presage": "La lune pleine pèse comme un fruit mûr au-dessus des toits. Le compte des ombres dans les blés fait sept, et l'air se trouble. La clarté se retire ; le veilleur sent le froid monter du sol, et entend le silence faire un bruit de pas invisibles.",
+      "presage_en": "The full moon hangs like a ripe fruit over the roofs. Seven shadows count themselves in the wheat, and the air grows thick. The light slips away; the watcher feels the cold rise from the ground and hears the silence make a sound like unseen steps.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "D",
+          "start": 0.8,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 1.6,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 2.4,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "F",
+          "start": 3.2,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 4.2,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 5.0,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 5.8,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "B♭",
+          "start": 6.6,
+          "duration": 1.2,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 7.8,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "F",
+          "start": 8.6,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 9.4,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 10.2,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 11.0,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "B♭",
+          "start": 11.8,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 12.8,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "F",
+          "start": 13.6,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 14.4,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 15.2,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 16.0,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "B♭",
+          "start": 16.8,
+          "duration": 1.2,
+          "force": 0.25
+        },
+        {
+          "note": "D",
+          "start": 18.0,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "F",
+          "start": 18.8,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 19.6,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 20.4,
+          "duration": 0.8,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 21.2,
+          "duration": 0.8,
+          "force": 0.6
+        },
+        {
+          "note": "B♭",
+          "start": 22.0,
+          "duration": 1.0,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 23.0,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "F",
+          "start": 23.8,
+          "duration": 0.8,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 24.6,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 25.4,
+          "duration": 0.8,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 26.2,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "B♭",
+          "start": 27.0,
+          "duration": 1.0,
+          "force": 0.1
+        },
+        {
+          "note": "D",
+          "start": 28.0,
+          "duration": 0.5,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 28.5,
+          "duration": 0.5,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 29.0,
+          "duration": 0.4,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 29.4,
+          "duration": 0.4,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 29.8,
+          "duration": 0.4,
+          "force": 0.15
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-4.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 5,
+      "of": 12,
+      "presage": "La nuit tient son conseil parmi les pins, et chaque étoile est un oeil qui s'ouvre lentement. La brume montante ne vient pas de la terre, mais descend des nuages pâles comme une troupe invisible de fades. Et sur l'eau noire, où nulle étoile ne se reflète, une forme s'étire sans être une bête, et barre le chemin du veilleur d'une barre de froid.",
+      "presage_en": "Night holds her council among the pines, and each star is an eye that opens slow. The rising mist does not rise from the earth, but falls from the pale clouds like an unseen troop of fays. And on the black water, where no star casts its light, a shape stretches without being a beast, and bars the watcher's path with a bar of cold.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 4,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 4,
+          "duration": 3,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 7,
+          "duration": 6,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 13,
+          "duration": 4,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 17,
+          "duration": 5,
+          "force": 75
+        },
+        {
+          "note": "C",
+          "start": 22,
+          "duration": 2,
+          "force": 30
+        },
+        {
+          "note": "D",
+          "start": 24,
+          "duration": 8,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 32,
+          "duration": 3,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 35,
+          "duration": 6,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 41,
+          "duration": 12,
+          "force": 20
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-5.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 6,
+      "of": 12,
+      "presage": "La nuit déploie sa comptabilité secrète, où chaque chiffre est un serment et chaque ombre un nom ancien. Un souffle passe sur les blés, et l'orage gronde du côté du bois, tandis que le ciel se couvre, portant en son sein le compte étrange de sept présences invisibles. La clarté, trahie avant son temps, se retire comme si le soir marchait contre le jour, et dans la brèche de la haie, une lueur basse s'élève, basse et surnaturelle.",
+      "presage_en": "Night unfolds its secret reckoning, where each mark is an oath and each shadow an old name. A breath brushes the wheat, and the storm rumbles from the wood’s side, while the sky darkens, bearing within it the strange count of seven unseen presences. The light, betrayed before its hour, withdraws as if evening walks against day, and in the gap of the hedge, a low glow rises, low and uncanny.",
+      "score": [
+        {
+          "note": "G",
+          "start": 0.0,
+          "duration": 1.5,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 0.8,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 1.8,
+          "duration": 1.2,
+          "force": 70
+        },
+        {
+          "note": "B♭",
+          "start": 3.0,
+          "duration": 0.6,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 3.6,
+          "duration": 0.5,
+          "force": 90
+        },
+        {
+          "note": "G",
+          "start": 4.1,
+          "duration": 0.9,
+          "force": 70
+        },
+        {
+          "note": "E♭",
+          "start": 5.0,
+          "duration": 0.7,
+          "force": 55
+        },
+        {
+          "note": "C",
+          "start": 5.7,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": "G",
+          "start": 6.7,
+          "duration": 1.1,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 7.8,
+          "duration": 0.3,
+          "force": 40
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-6.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 7,
+      "of": 12,
+      "presage": "La nuit soudain s’épaissit, non par le temps qui passe, mais par la volonté d’un être sans nom qui tire sur les étoffes du ciel, et la pleine lune pâlit comme si elle avait vieilli d’un seul souffle. Sept ombres s’étirent sur le chemin de pierres, immobiles, et le froid arrive avant que le vent ne souffle. Au seuil, le chien ne lève pas la tête, seulement son regard reste — et la clarté s’en va, comme si la nuit, lasse de jouer, avait tout mangé.",
+      "presage_en": "The night thickens all at once, not by the passing of time but by the will of a nameless one drawing tight on the sky’s cloth, and the full moon pales as if it has aged in a single breath. Seven shadows stretch along the stone path, still as death, and the cold comes before the wind even stirs. At the threshold the dog does not lift its head, only its gaze stays — and the light slips away, as if the night, tired of playing, has eaten it all.",
+      "score": [
+        {
+          "note": "D",
+          "start": "0",
+          "duration": "2",
+          "force": "strong"
+        },
+        {
+          "note": "A",
+          "start": "1",
+          "duration": "1",
+          "force": "moderate"
+        },
+        {
+          "note": "F",
+          "start": "2",
+          "duration": "1",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": "3",
+          "duration": "1",
+          "force": "soft"
+        },
+        {
+          "note": "D",
+          "start": "4",
+          "duration": "2",
+          "force": "softening"
+        },
+        {
+          "note": "A",
+          "start": "6",
+          "duration": "1",
+          "force": "fading"
+        },
+        {
+          "note": "F",
+          "start": "7",
+          "duration": "1",
+          "force": "whisper"
+        },
+        {
+          "note": "D",
+          "start": "8",
+          "duration": "2",
+          "force": "very soft, almost dying"
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-7.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 8,
+      "of": 12,
+      "presage": "La lune accrochée aux haies est une assiette de lumière passée. Sept feux de braises se cachent dans les gerbes, comptés par l’œil qui ne se trompe pas. Les eaux du ruisselet retrouvent leur noir, l’ombre s’étire et se fait bête.",
+      "presage_en": "The moon hung on the hedges is a dish of spent light. Seven embers hide in the sheaves, counted by the eye that never errs. The stream’s waters take back their blackness, the shadow stretches and turns into a beast.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 1
+        },
+        {
+          "note": "A",
+          "start": 4,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 5,
+          "duration": 1,
+          "force": 0.4
+        },
+        {
+          "note": "E",
+          "start": 9,
+          "duration": 1,
+          "force": 0.6
+        },
+        {
+          "note": "F#",
+          "start": 10,
+          "duration": 1,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 13,
+          "duration": 1,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 14,
+          "duration": 2,
+          "force": 1
+        },
+        {
+          "note": "D",
+          "start": 16,
+          "duration": 1,
+          "force": 1
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-8.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 9,
+      "of": 12,
+      "presage": "La lune ronde pèse dans la nuit comme un œil fermé. Le silence compte jusqu’à sept, et l’ombre se fait nombre. La clarté recule ; le veilleur sent un poids sur la poitrine, et l’on dirait que l’enfant demande ce qui vient.",
+      "presage_en": "The round moon hangs in the night like a closed eye. Silence counts to seven, and the shadow takes shape. The light slips back; the watcher feels a weight on his chest, and it’s as if a child asks what comes next.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 0.6
+        },
+        {
+          "note": "E♭",
+          "start": 4.0,
+          "duration": 2.0,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 6.0,
+          "duration": 1.5,
+          "force": 0.5
+        },
+        {
+          "note": "F",
+          "start": 7.5,
+          "duration": 1.75,
+          "force": 0.7
+        },
+        {
+          "note": "E♭",
+          "start": 9.25,
+          "duration": 1.25,
+          "force": 0.85
+        },
+        {
+          "note": "C",
+          "start": 10.5,
+          "duration": 2.25,
+          "force": 0.4
+        },
+        {
+          "note": "A♭",
+          "start": 12.75,
+          "duration": 1.0,
+          "force": 0.9
+        },
+        {
+          "note": "D",
+          "start": 13.75,
+          "duration": 1.5,
+          "force": 0.3
+        },
+        {
+          "note": "E♭",
+          "start": 15.25,
+          "duration": 0.75,
+          "force": 0.8
+        },
+        {
+          "note": "D",
+          "start": 16.0,
+          "duration": 2.0,
+          "force": 0.2
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-9.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 10,
+      "of": 12,
+      "presage": "La lune s'étale comme une assiette de cuivre sur l'eau dormante, entière et ronde, la quinzième nuit à peine entamée. Un souffle traverse les blés, murmure aux oreilles des pierres, et sept fois l'écho se répond entre les collines. L'orage gronde du bois vers lequel aucun homme n'ira ; la clarté s'efface alors que le soleil n'est pas encore couché.",
+      "presage_en": "The moon spreads out like a copper dish on the sleeping water, whole and round, only the fifteenth night barely begun. A breath drifts through the wheat, whispers in the stones' ears, and seven times the echo answers between the hills. The storm growls from the wood no man will go to; the light fades while the sun has not yet set.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 2.0,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 3.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 6.0,
+          "duration": 0.5,
+          "force": 0.3
+        },
+        {
+          "note": "B",
+          "start": 8.0,
+          "duration": 1.2,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 11.0,
+          "duration": 1.0,
+          "force": 0.5
+        },
+        {
+          "note": "G",
+          "start": 14.0,
+          "duration": 0.8,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 16.0,
+          "duration": 2.5,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 20.0,
+          "duration": 3.0,
+          "force": 0.8
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-10.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 11,
+      "of": 12,
+      "presage": "Le ciel dressé se fait étrange : le chiffre sept s'y écrit en feux pâles, puis s'efface comme si la nuit les dévorait avant l'aube. Un vent froid souffle, portant l'odeur humide du gué, et dans le silence qui succède soudain aux grenouilles, une forme se dessine à l'entrée du sentier du troupeau. La lumière recule toute seule, soudain crépuscule en plein jour, et le pain ne lèvera pas demain.",
+      "presage_en": "The sky turns queer: the number seven writes itself in faint fires, then vanishes as if night swallows them before dawn. A cold wind blows, carrying the wet smell of the ford, and in the sudden silence after the frogs, a shape takes form at the herd’s path. The light draws back all on its own, sudden dusk in broad day, and the bread will not rise tomorrow.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 0.6,
+          "force": 8
+        },
+        {
+          "note": "C",
+          "start": 1.2,
+          "duration": 0.4,
+          "force": 6
+        },
+        {
+          "note": "A",
+          "start": 2.0,
+          "duration": 0.3,
+          "force": 7
+        },
+        {
+          "note": "G",
+          "start": 2.5,
+          "duration": 0.5,
+          "force": 5
+        },
+        {
+          "note": "D",
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 8
+        },
+        {
+          "note": "F",
+          "start": 4.0,
+          "duration": 0.4,
+          "force": 6
+        },
+        {
+          "note": "C",
+          "start": 4.5,
+          "duration": 0.3,
+          "force": 7
+        },
+        {
+          "note": "A♭",
+          "start": 4.8,
+          "duration": 0.4,
+          "force": 5
+        },
+        {
+          "note": "D",
+          "start": 5.2,
+          "duration": 0.6,
+          "force": 8
+        },
+        {
+          "note": "C",
+          "start": 5.8,
+          "duration": 0.6,
+          "force": 5
+        },
+        {
+          "note": "A",
+          "start": 6.4,
+          "duration": 0.4,
+          "force": 7
+        },
+        {
+          "note": "G",
+          "start": 6.8,
+          "duration": 0.7,
+          "force": 4
+        },
+        {
+          "note": "D",
+          "start": 7.5,
+          "duration": 0.7,
+          "force": 6
+        },
+        {
+          "note": "C",
+          "start": 8.2,
+          "duration": 0.5,
+          "force": 7
+        },
+        {
+          "note": "A♭",
+          "start": 8.7,
+          "duration": 0.3,
+          "force": 5
+        },
+        {
+          "note": "D",
+          "start": 9.0,
+          "duration": 0.8,
+          "force": 8
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-11.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "06:00",
+      "night": false,
+      "phase": "full",
+      "dark": true,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 12,
+      "of": 12,
+      "presage": "Le ciel tient sa pleine lune, treizième nuit, et pourtant le jour hésite à naître de l’ombre. Un silence soudain s’abat ; le chemin est barré sans corps, les bêtes seules crèvent la nuit de leurs meuglements dans un crépuscule qui n’a pas eu son jour.",
+      "presage_en": "The sky holds its full moon, thirteenth night, and yet the day hesitates to be born from the shadow. A sudden silence falls; the path is blocked with no body, only the beasts pierce the night with their lowing in a twilight that never had its day.",
+      "score": [
+        {
+          "note": "A1",
+          "start": 0,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "A1",
+          "start": 1,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "D2",
+          "start": 6,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "A1",
+          "start": 7,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "E",
+          "start": 8,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": "A1",
+          "start": 8.5,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "D2",
+          "start": 9.5,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "A1",
+          "start": 10.25,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "G",
+          "start": 11.25,
+          "duration": 0.25,
+          "force": 40
+        },
+        {
+          "note": "A1",
+          "start": 11.5,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "E",
+          "start": 12.5,
+          "duration": 0.5,
+          "force": 50
+        },
+        {
+          "note": "A1",
+          "start": 13,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "D2",
+          "start": 14,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "A1",
+          "start": 14.75,
+          "duration": 1,
+          "force": 75
+        },
+        {
+          "note": "A1",
+          "start": 15.75,
+          "duration": 6,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-28T0600Z-12.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 1",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "0%",
+          "a hand passes over the lamp"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    }
+  ]
+}
