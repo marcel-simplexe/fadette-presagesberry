@@ -418,6 +418,422 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "10:54",
+      "night": false,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La lune, dentée et déclinante, pose son regard creusé sur les champs ; elle est à la dix-septième nuit de sa course, tandis que le soleil, aveugle et triomphant, brûle l'horizon et efface toute retraite d'ombre. Le vent se lève en silence, apportant avec lui une pluie fine et froide qui fouette les feuillages, et le ciel s'alourdit d'une masse grise, impénétrable, où les étoiles se taisent. Au compte de cinq, dans l'ombre qui s'étend comme un vivant, l'orée du bois frémit — un souffle passé dans le dos du veilleur —, et là, sur le chemin qui tourne mal, l'invisible dévie le pas du voyageur qui ne saura plus de quel côté est sa maison.",
+      "presage_en": "The moon, a worn crescent in her waning, sets her hollow gaze upon the fields; she is on the seventeenth night of her course, while the sun, blind and triumphant, scorches the horizon and wipes out all retreat of shadow. The wind rises in silence, bringing with it a fine cold rain that lashes the leaves, and the sky grows heavy with a gray, impenetrable mass where the stars fall silent. At the count of five, in the shadow that spreads like a living thing, the edge of the wood quivers — a breath passed down the watcher's back — and there, on the crooked path, the unseen turns the traveler's step so he will never know which way his home lies.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": 1,
+          "duration": "1 beat",
+          "force": "steady"
+        },
+        {
+          "note": "D",
+          "start": 2,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": 3,
+          "duration": "1 beat",
+          "force": "steady"
+        },
+        {
+          "note": "G",
+          "start": 4,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "F#",
+          "start": 5,
+          "duration": "1 beat",
+          "force": "fading"
+        },
+        {
+          "note": "D",
+          "start": 6,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": 7,
+          "duration": "1 beat",
+          "force": "steady"
+        },
+        {
+          "note": "F#",
+          "start": 8,
+          "duration": "1 beat",
+          "force": "fading"
+        },
+        {
+          "note": "D",
+          "start": 9,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": 10,
+          "duration": "1 beat",
+          "force": "steady"
+        },
+        {
+          "note": "G",
+          "start": 11,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "F#",
+          "start": 12,
+          "duration": "1 beat",
+          "force": "fading"
+        },
+        {
+          "note": "D",
+          "start": 13,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": 14,
+          "duration": "1 beat",
+          "force": "steady"
+        },
+        {
+          "note": "G",
+          "start": 15,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "F#",
+          "start": 16,
+          "duration": "1 beat",
+          "force": "fading"
+        },
+        {
+          "note": "D",
+          "start": 17,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": 18,
+          "duration": "1 beat",
+          "force": "steady"
+        },
+        {
+          "note": "G",
+          "start": 19,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "F#",
+          "start": 20,
+          "duration": "1 beat",
+          "force": "fading"
+        },
+        {
+          "note": "D",
+          "start": 21,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": 22,
+          "duration": "1 beat",
+          "force": "steady"
+        },
+        {
+          "note": "G",
+          "start": 23,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "F#",
+          "start": 24,
+          "duration": "1 beat",
+          "force": "fading"
+        },
+        {
+          "note": "D",
+          "start": 25,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": 26,
+          "duration": "1 beat",
+          "force": "steady"
+        },
+        {
+          "note": "G",
+          "start": 27,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "F#",
+          "start": 28,
+          "duration": "1 beat",
+          "force": "fading"
+        },
+        {
+          "note": "D",
+          "start": 29,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": 30,
+          "duration": "1 beat",
+          "force": "steady"
+        },
+        {
+          "note": "G",
+          "start": 31,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "F#",
+          "start": 32,
+          "duration": "1 beat",
+          "force": "fading"
+        },
+        {
+          "note": "D",
+          "start": 33,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": 34,
+          "duration": "1 beat",
+          "force": "steady"
+        },
+        {
+          "note": "G",
+          "start": 35,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "F#",
+          "start": 36,
+          "duration": "1 beat",
+          "force": "fading"
+        },
+        {
+          "note": "D",
+          "start": 37,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "A",
+          "start": 38,
+          "duration": "1 beat",
+          "force": "steady"
+        },
+        {
+          "note": "G",
+          "start": 39,
+          "duration": "1 beat",
+          "force": "soft"
+        },
+        {
+          "note": "D",
+          "start": 40,
+          "duration": "1 beat",
+          "force": "soft"
+        }
+      ],
+      "midi": "work/midi-2026-08-29T1054Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.67",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "10:54",
+      "night": false,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "La lune, croissant absent, ne garde que le souvenir d’un œil ; la nuit comptée à cinq brûlures tremble sur les toits ; au pied du clocher, un frisson glisse comme un lupeux des roseaux, et la porte qui jamais ne fut barrée s’est close, sans bruit, sans raison.",
+      "presage_en": "The moon, a missing crescent, keeps only the memory of an eye; the night counted by five embers trembles on the roofs; at the foot of the belfry, a shiver slips like a weasel through the reeds, and the door that was never barred has shut, without sound, without reason.",
+      "score": [
+        {
+          "note": "D",
+          "start": "0.0",
+          "duration": "1.0",
+          "force": "forte"
+        },
+        {
+          "note": "D",
+          "start": "1.0",
+          "duration": "2.0",
+          "force": "modérée"
+        },
+        {
+          "note": "A",
+          "start": "3.0",
+          "duration": "0.5",
+          "force": "faible"
+        },
+        {
+          "note": "G",
+          "start": "3.5",
+          "duration": "0.5",
+          "force": "faible"
+        },
+        {
+          "note": "D",
+          "start": "4.0",
+          "duration": "1.5",
+          "force": "modérée"
+        },
+        {
+          "note": "A",
+          "start": "5.5",
+          "duration": "0.5",
+          "force": "faible"
+        },
+        {
+          "note": "G",
+          "start": "6.0",
+          "duration": "0.5",
+          "force": "faible"
+        },
+        {
+          "note": "D",
+          "start": "6.5",
+          "duration": "2.0",
+          "force": "modérée"
+        },
+        {
+          "note": "A",
+          "start": "8.5",
+          "duration": "0.5",
+          "force": "très faible"
+        },
+        {
+          "note": "G",
+          "start": "9.0",
+          "duration": "0.5",
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": "9.5",
+          "duration": "1.0",
+          "force": "modérée"
+        },
+        {
+          "note": "A",
+          "start": "10.5",
+          "duration": "0.5",
+          "force": "faible"
+        },
+        {
+          "note": "G",
+          "start": "11.0",
+          "duration": "0.5",
+          "force": "faible"
+        },
+        {
+          "note": "D",
+          "start": "11.5",
+          "duration": "2.0",
+          "force": "modérée, puis déclinante"
+        },
+        {
+          "note": "C",
+          "start": "13.5",
+          "duration": "0.5",
+          "force": "très faible, évanescent"
+        },
+        {
+          "note": "D",
+          "start": "14.0",
+          "duration": "1.0",
+          "force": "faible, puis silence"
+        }
+      ],
+      "midi": "work/midi-2026-08-29T1054Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.67",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
