@@ -834,6 +834,203 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "16:24",
+      "night": false,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "presage": "La lune, dentée et décroissante, répand une lumière comme une pièce de monnaie rongée par le temps. Trois ombres glissent sur la lisière du bois, invisibles au regard qui se dresse trop tôt. Le veilleur sent d'abord un frisson sur l'épaule, comme si un souffle de la nuit passait à travers lui avant même que le ciel ne se bouche tout à fait.",
+      "presage_en": "The moon, a gnawed and waning coin, spills light like an old penny eaten by time. Three shadows slip along the edge of the wood, unseen by any eye that lifts too soon. The watcher feels first a shiver on the shoulder, as if a breath of the night passes through him before the sky has quite closed in.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "A",
+          "start": 2,
+          "duration": 2,
+          "force": "moyen"
+        },
+        {
+          "note": "D",
+          "start": 4,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "F",
+          "start": 6,
+          "duration": 2,
+          "force": "faible"
+        },
+        {
+          "note": "A",
+          "start": 8,
+          "duration": 2,
+          "force": "moyen"
+        },
+        {
+          "note": "D",
+          "start": 10,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "G",
+          "start": 11,
+          "duration": 2,
+          "force": "faible"
+        },
+        {
+          "note": "D",
+          "start": 13,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "A",
+          "start": 14,
+          "duration": 3,
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": 17,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "F",
+          "start": 18,
+          "duration": 2,
+          "force": "décroissante"
+        },
+        {
+          "note": "D",
+          "start": 20,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "A",
+          "start": 21,
+          "duration": 2,
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": 23,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "rest",
+          "start": 24,
+          "duration": 1,
+          "force": "nulle"
+        },
+        {
+          "note": "D",
+          "start": 25,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "A",
+          "start": 26,
+          "duration": 2,
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": 28,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "G",
+          "start": 29,
+          "duration": 1,
+          "force": "très faible"
+        },
+        {
+          "note": "A",
+          "start": 30,
+          "duration": 2,
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": 32,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "A",
+          "start": 33,
+          "duration": 3,
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": 36,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "rest",
+          "start": 37,
+          "duration": 1,
+          "force": "nulle"
+        },
+        {
+          "note": "D",
+          "start": 38,
+          "duration": 1,
+          "force": "fort"
+        },
+        {
+          "note": "A",
+          "start": 39,
+          "duration": 1,
+          "force": "très faible"
+        },
+        {
+          "note": "D",
+          "start": 40,
+          "duration": 1,
+          "force": "fort"
+        }
+      ],
+      "midi": "work/midi-2026-08-29T1624Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
