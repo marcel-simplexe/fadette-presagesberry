@@ -1,0 +1,223 @@
+{
+  "date": "2026-08-29",
+  "breaths": [
+    {
+      "time": "02:47",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La lune pleine écrase le pays d'un argent figé, au seizième crépuscule où la nuit déploie ses ombres comptées. Le ciel est bouché, un souffle froid dévie les épis au bord du ruisseau, et cinq formes invisibles se déplacent dans l'air lourd. Une chose de la taille d'un veau, faite comme un lièvre, surgit au coude de l'eau, tandis que les bêtes lointaines répondent par un meuglement continu et sans temps.",
+      "presage_en": "The full moon flattens the land in a frozen silver, at the sixteenth dusk where night unfurls its counted shadows. The sky is sealed shut, a cold breath bends the ears of corn at the stream's edge, and five unseen shapes move through the heavy air. A thing the size of a calf, made like a hare, rises at the bend of the water, while the distant beasts answer with a ceaseless, timeless lowing.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 4.0,
+          "force": 85
+        },
+        {
+          "note": "D",
+          "start": 4.0,
+          "duration": 4.0,
+          "force": 85
+        },
+        {
+          "note": "A",
+          "start": 8.0,
+          "duration": 1.5,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 9.5,
+          "duration": 1.5,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 11.0,
+          "duration": 3.0,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 14.0,
+          "duration": 1.0,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 15.0,
+          "duration": 3.5,
+          "force": 85
+        },
+        {
+          "note": "D",
+          "start": 18.5,
+          "duration": 2.5,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 21.0,
+          "duration": 1.5,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 22.5,
+          "duration": 4.0,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 26.5,
+          "duration": 1.0,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 27.5,
+          "duration": 1.5,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 29.0,
+          "duration": 2.5,
+          "force": 85
+        },
+        {
+          "note": "D",
+          "start": 31.5,
+          "duration": 4.0,
+          "force": 85
+        }
+      ],
+      "midi": "work/midi-2026-08-29T0247Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 4.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "02:47",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "La lune, ronde et pleine à sa seizième nuit, écoute les blés se courber sous un souffle invisible, tandis que cinq ombres comptent leur pas au firmament sans étoile. Le ciel, un drap gris épais, retient sa respiration, attendant que le veilleur sente d’abord le froid qui ne vient pas de l’air. Au gué, des lames d’eau battent doucement, le moulin se dresse, figé, et quelque chose — un être au bord de l’eau, une présence muette — se devine avant même que l’œil ne l’arrête.",
+      "presage_en": "The moon, round and full on its sixteenth night, listens to the wheat bow under an unseen breath, while five shadows count their steps on the starless sky. The sky, a thick grey cloth, holds its breath, waiting for the watcher to first feel the cold that does not come from the air. At the ford, sheets of water beat gently, the mill stands, frozen, and something — a being at the water's edge, a silent presence — is guessed before the eye even fixes it.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "A",
+          "start": 1.0,
+          "duration": 0.4,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 0.6,
+          "force": 85
+        },
+        {
+          "note": "G",
+          "start": 2.6,
+          "duration": 0.3,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 75
+        },
+        {
+          "note": "A",
+          "start": 3.5,
+          "duration": 0.25,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 3.75,
+          "duration": 0.7,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 4.5,
+          "duration": 0.2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 4.7,
+          "duration": 1.0,
+          "force": 70
+        },
+        {
+          "note": "D",
+          "start": 5.7,
+          "duration": 0.3,
+          "force": 50
+        }
+      ],
+      "midi": "work/midi-2026-08-29T0247Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 4.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    }
+  ]
+}
