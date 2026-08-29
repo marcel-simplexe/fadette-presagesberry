@@ -1031,6 +1031,218 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "20:38",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La lune, fesse creuse, s’en retourne silencieuse quand un souffle court traverse les champs et fait frissonner les tiges comme des âmes en peine. Trois feux errants percent le voile des ténèbres, sans vent ni raison, sur la surface dormante de l’eau ; ils hésitent, puis s’oublient dans le courant. Une ombre prend forme : pas celle d’un homme, mais celle du meneu' de loups, une bête faite à la fois comme un veau et comme un lièvre, marchant sans bruit malgré sa masse, et chaque pas fait résonner la terre comme un os qui craque sous la neige.",
+      "presage_en": "The moon, a hollow rump, slips away in silence when a quick breath runs through the fields and makes the stalks shiver like troubled souls. Three wandering fires pierce the veil of darkness, with no wind nor reason, on the sleeping surface of the water; they hesitate, then forget themselves in the current. A shadow takes shape: not that of a man, but that of the wolf leader, a beast made at once like a calf and like a hare, walking without sound despite its bulk, and each step makes the earth ring like a bone cracking under the snow.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 2.0,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 8.0,
+          "duration": 1.5,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 12.0,
+          "duration": 2.0,
+          "force": 0.8
+        },
+        {
+          "note": "F#",
+          "start": 20.0,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 22.0,
+          "duration": 3.0,
+          "force": 0.7
+        },
+        {
+          "note": "A",
+          "start": 28.0,
+          "duration": 1.5,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 31.0,
+          "duration": 2.5,
+          "force": 0.8
+        },
+        {
+          "note": "C",
+          "start": 36.0,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 38.0,
+          "duration": 4.0,
+          "force": 0.6
+        },
+        {
+          "note": "D",
+          "start": 44.0,
+          "duration": 1.5,
+          "force": 0.7
+        }
+      ],
+      "midi": "work/midi-2026-08-29T2038Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    },
+    {
+      "time": "20:38",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 18,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "La lune en fesse, la treizième nuit vient de mourir, et l'ombre du cimetière monte en terre. Un souffle court glisse sur le sillon des blés ; le ciel se voile, drap noir où se comptent trois feux errants. Le froid touche le veilleur qui voit, au mur de pierre, le moine des eaux glisser, et l'aboiement muet du chien à la porte.",
+      "presage_en": "The moon sits low, the thirteenth night has just died, and the shadow of the graveyard rises up from the earth. A short breath slips along the furrow of the wheat; the sky darkens, a black cloth where three wandering fires count themselves. The cold touches the watcher who sees, on the stone wall, the water monk glide, and the mute bark of the dog at the door.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 2,
+          "force": 0.8
+        },
+        {
+          "note": "rest",
+          "start": 2,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "A",
+          "start": 4,
+          "duration": 4,
+          "force": 0.6
+        },
+        {
+          "note": "rest",
+          "start": 8,
+          "duration": 2,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 10,
+          "duration": 2,
+          "force": 0.5
+        },
+        {
+          "note": "rest",
+          "start": 12,
+          "duration": 4,
+          "force": 0
+        },
+        {
+          "note": "A",
+          "start": 16,
+          "duration": 6,
+          "force": 0.4
+        },
+        {
+          "note": "rest",
+          "start": 22,
+          "duration": 6,
+          "force": 0
+        },
+        {
+          "note": "D",
+          "start": 28,
+          "duration": 3,
+          "force": 0.7
+        },
+        {
+          "note": "rest",
+          "start": 31,
+          "duration": 5,
+          "force": 0
+        },
+        {
+          "note": "A",
+          "start": 36,
+          "duration": 8,
+          "force": 0.3
+        },
+        {
+          "note": "rest",
+          "start": 44,
+          "duration": 12,
+          "force": 0
+        },
+        {
+          "note": "rest",
+          "start": 58,
+          "duration": 44,
+          "force": 0
+        }
+      ],
+      "midi": "work/midi-2026-08-29T2038Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.33",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
     }
   ]
 }
