@@ -89,6 +89,230 @@
           "a night of power"
         ]
       ]
+    },
+    {
+      "time": "05:10",
+      "night": false,
+      "phase": "waning",
+      "dark": false,
+      "notch": 19,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La lune décroît, un moignon d’argent suspendu dans un drap gris, et le ciel tient sa respiration comme si la nuit retenait un secret. Un souffle glisse sur les blés, porteur d’un murmure d’eaux dormantes, et soudain la lumière arrive sans raison, tirée d’une part d’ombre inconnue. Au bord du pré inondé, l’ombre d’un être apparaît sous la clarté nouvelle — la Grand’Bête se dresse, et au seuil gît un chien sans vie.",
+      "presage_en": "The moon wanes, a silver stump hung in a grey cloth, and the sky holds its breath as if night were keeping a secret. A breath slides over the wheat, bearing the murmur of sleeping waters, and suddenly light comes without reason, drawn from some unknown shadow. By the flooded field’s edge, the shape of a being shows under the new light — the Grand Beast rises, and at the threshold lies a lifeless hound.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 2.0,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 2.0,
+          "duration": 2.0,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 4.0,
+          "duration": 4.0,
+          "force": 45
+        },
+        {
+          "note": "A",
+          "start": 8.0,
+          "duration": 4.0,
+          "force": 50
+        },
+        {
+          "note": "G",
+          "start": 12.0,
+          "duration": 2.0,
+          "force": 40
+        },
+        {
+          "note": "F",
+          "start": 14.0,
+          "duration": 4.0,
+          "force": 35
+        },
+        {
+          "note": "E",
+          "start": 18.0,
+          "duration": 3.0,
+          "force": 30
+        },
+        {
+          "note": "D",
+          "start": 21.0,
+          "duration": 6.0,
+          "force": 25
+        },
+        {
+          "note": "D",
+          "start": 27.0,
+          "duration": 4.0,
+          "force": 20
+        },
+        {
+          "note": "C",
+          "start": 31.0,
+          "duration": 8.0,
+          "force": 15
+        },
+        {
+          "note": "D",
+          "start": 39.0,
+          "duration": 2.0,
+          "force": 10
+        },
+        {
+          "note": "D",
+          "start": 41.0,
+          "duration": 2.0,
+          "force": 5
+        }
+      ],
+      "midi": "work/midi-2026-08-30T0510Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.67",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    },
+    {
+      "time": "05:10",
+      "night": false,
+      "phase": "waning",
+      "dark": false,
+      "notch": 19,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "La lune croît en malice, sa dent irrégulière mord l'obscurité. Au douzième souffle du vent qui passe sur les blés, le ciel se bouche comme un œil fermé de peur. Au bois, l'orée tremble d'une chose entrevue, si un être apparaît, qu'il porte la fourrure du lupeux des roseaux ; mais qu'un enfant interroge le veilleur sans que jamais il ne nomme ce qui s'est montré.",
+      "presage_en": "The moon grows wicked, its jagged edge bites the dark. At the twelfth breath of the wind that sweeps over the wheat, the sky seals itself like an eye shut in fear. At the edge of the wood, the treeline shivers at something glimpsed; if a shape appears, let it wear the fur of the reed-dwelling creature; but let no child question the watcher, nor name what was shown.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "A♭",
+          "start": 4,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 8,
+          "duration": 3,
+          "force": 80
+        },
+        {
+          "note": "G",
+          "start": 11,
+          "duration": 1,
+          "force": 70
+        },
+        {
+          "note": "A♭",
+          "start": 12,
+          "duration": 1,
+          "force": 50
+        },
+        {
+          "note": "E♭",
+          "start": 13,
+          "duration": 2,
+          "force": 65
+        },
+        {
+          "note": "A",
+          "start": 15,
+          "duration": 2,
+          "force": 85
+        },
+        {
+          "note": "A♭",
+          "start": 17,
+          "duration": 1,
+          "force": 40
+        },
+        {
+          "note": "A",
+          "start": 18,
+          "duration": 4,
+          "force": 70
+        },
+        {
+          "note": "A♭",
+          "start": 22,
+          "duration": 1,
+          "force": 30
+        },
+        {
+          "note": "A",
+          "start": 23,
+          "duration": 3,
+          "force": 80
+        },
+        {
+          "note": "D",
+          "start": 26,
+          "duration": 1,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 27,
+          "duration": 5,
+          "force": 45
+        }
+      ],
+      "midi": "work/midi-2026-08-30T0510Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.67",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
