@@ -533,6 +533,278 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "20:45",
+      "night": true,
+      "phase": "waning",
+      "dark": false,
+      "notch": 19,
+      "want_source": "fallback-gift",
+      "nth": 1,
+      "of": 2,
+      "presage": "La lune décroît en lame d'argent sur les chaumes. Trois choses s'y dressent, étranges et muettes. L'eau de l'étang ne reflète aucun corps, mais une brise l'irrite juste assez pour faire frissonner la chair.",
+      "presage_en": "The moon wanes to a sliver of silver over the stubble. Three things stand there, strange and silent. The pond's water shows no reflection of any body, but a breeze stirs it just enough to make the flesh shudder.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 2.0,
+          "force": 0.7
+        },
+        {
+          "note": "C",
+          "start": 2.0,
+          "duration": 1.5,
+          "force": 0.5
+        },
+        {
+          "note": "A♭",
+          "start": 3.5,
+          "duration": 1.8,
+          "force": 0.6
+        },
+        {
+          "note": "F",
+          "start": 5.3,
+          "duration": 1.2,
+          "force": 0.4
+        },
+        {
+          "note": "G♭",
+          "start": 6.5,
+          "duration": 2.0,
+          "force": 0.8
+        },
+        {
+          "note": "C",
+          "start": 8.5,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 9.5,
+          "duration": 2.5,
+          "force": 0.5
+        },
+        {
+          "note": "C",
+          "start": 12.0,
+          "duration": 1.5,
+          "force": 0.2
+        }
+      ],
+      "midi": "work/midi-2026-08-30T2045Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    },
+    {
+      "time": "20:45",
+      "night": true,
+      "phase": "waning",
+      "dark": false,
+      "notch": 19,
+      "want_source": "fallback-gift",
+      "nth": 2,
+      "of": 2,
+      "presage": "La lune, un croissant denté qui saigne la nuit, impose sa géométrie aux champs. Trois feux follets dansent sur l'eau du ruisseau, comptant les heures sans les mesurer. Dans le silence qui suit le souffle sur les blés, un être au pelage de jonc se dresse là où la lumière échoue.",
+      "presage_en": "The moon, a toothed crescent bleeding the night, sets its geometry upon the fields. Three will-o'-the-wisps dance on the brook's water, counting the hours without measuring them. In the hush that follows the breath over the wheat, a being with the coat of rushes rises where the light fails.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 0.95,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 0.96,
+          "duration": 1.2,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 2.16,
+          "duration": 0.9,
+          "force": 70
+        },
+        {
+          "note": "A",
+          "start": 3.06,
+          "duration": 1.0,
+          "force": 55
+        },
+        {
+          "note": "G",
+          "start": 4.06,
+          "duration": 1.1,
+          "force": 65
+        },
+        {
+          "note": "D",
+          "start": 5.16,
+          "duration": 0.85,
+          "force": 75
+        },
+        {
+          "note": "C",
+          "start": 6.01,
+          "duration": 1.05,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 7.06,
+          "duration": 0.9,
+          "force": 65
+        },
+        {
+          "note": "C",
+          "start": 7.96,
+          "duration": 1.15,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 9.11,
+          "duration": 0.95,
+          "force": 45
+        },
+        {
+          "note": "G",
+          "start": 10.06,
+          "duration": 1.0,
+          "force": 55
+        },
+        {
+          "note": "D",
+          "start": 11.06,
+          "duration": 0.8,
+          "force": 60
+        },
+        {
+          "note": "C",
+          "start": 11.86,
+          "duration": 1.0,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 12.86,
+          "duration": 0.85,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 13.71,
+          "duration": 0.9,
+          "force": 40
+        },
+        {
+          "note": "G",
+          "start": 14.61,
+          "duration": 1.0,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 15.61,
+          "duration": 0.75,
+          "force": 40
+        },
+        {
+          "note": "C",
+          "start": 16.36,
+          "duration": 1.0,
+          "force": 35
+        },
+        {
+          "note": "D",
+          "start": 17.36,
+          "duration": 0.7,
+          "force": 30
+        },
+        {
+          "note": "C",
+          "start": 18.06,
+          "duration": 0.9,
+          "force": 25
+        },
+        {
+          "note": "A",
+          "start": 18.96,
+          "duration": 0.75,
+          "force": 20
+        },
+        {
+          "note": "G",
+          "start": 19.71,
+          "duration": 0.8,
+          "force": 15
+        },
+        {
+          "note": "D",
+          "start": 20.51,
+          "duration": 0.6,
+          "force": 10
+        },
+        {
+          "note": "C",
+          "start": 21.11,
+          "duration": 0.7,
+          "force": 5
+        },
+        {
+          "note": "rest",
+          "start": 21.81,
+          "duration": 2.0,
+          "force": 0
+        }
+      ],
+      "midi": "work/midi-2026-08-30T2045Z-2.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2.67",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
