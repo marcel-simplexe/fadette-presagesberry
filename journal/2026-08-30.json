@@ -1,0 +1,94 @@
+{
+  "date": "2026-08-30",
+  "breaths": [
+    {
+      "time": "01:22",
+      "night": true,
+      "phase": "full",
+      "dark": false,
+      "notch": 19,
+      "want_source": "fallback-gift",
+      "presage": "La lune, mendiante, grignote sa lueur déclinante, dans un ciel où trois ombres se comptent — et le silence se fait lourd comme un chien aux yeux de pierre, refusant le pas.",
+      "presage_en": "The moon, a beggar, nibbles at its fading light in a sky where three shadows are counted — and the silence grows heavy as a dog with stone eyes, refusing to move.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 1.0,
+          "force": 100
+        },
+        {
+          "note": "E♭",
+          "start": 3.0,
+          "duration": 0.5,
+          "force": 80
+        },
+        {
+          "note": "B♭",
+          "start": 3.5,
+          "duration": 0.4,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 4.0,
+          "duration": 0.8,
+          "force": 90
+        },
+        {
+          "note": "A♭",
+          "start": 4.8,
+          "duration": 0.3,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 5.1,
+          "duration": 0.6,
+          "force": 50
+        },
+        {
+          "note": "C",
+          "start": 5.7,
+          "duration": 0.7,
+          "force": 65
+        },
+        {
+          "note": "B♭",
+          "start": 6.4,
+          "duration": 0.9,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 7.3,
+          "duration": 1.2,
+          "force": 30
+        }
+      ],
+      "midi": "work/midi-2026-08-30T0122Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "full",
+          "a night of power"
+        ]
+      ]
+    }
+  ]
+}
