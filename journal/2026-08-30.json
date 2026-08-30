@@ -313,6 +313,131 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "11:30",
+      "night": false,
+      "phase": "waning",
+      "dark": false,
+      "notch": 19,
+      "want_source": "observed",
+      "presage": "La nuit déploie ses trames anciennes : un croissant de lune rongé, la dernière heure d’un cycle, tandis que le jour refuse l’ombre, et trois feux ponctuent l’air immobile. Au bord de l’eau, le poil se dresse, et le moine des étangs glisse hors de la brume, sa robe blanche rompant le silence comme une porte qui se ferme à jamais.",
+      "presage_en": "Night unfurls its old webs: a moon bitten away, the last hour of a turn, while day refuses the dark, and three fires dot the still air. By the water’s edge, fur bristles, and the monk of the ponds slips from the mist, his white robe breaking the silence like a door shut for good.",
+      "score": [
+        {
+          "note": "A",
+          "start": 0.0,
+          "duration": 1.5,
+          "force": 0.6
+        },
+        {
+          "note": "C",
+          "start": 2.0,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 3.0,
+          "duration": 1.2,
+          "force": 0.7
+        },
+        {
+          "note": "E",
+          "start": 4.2,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 5.0,
+          "duration": 1.5,
+          "force": 0.6
+        },
+        {
+          "note": "C",
+          "start": 6.5,
+          "duration": 1.2,
+          "force": 0.8
+        },
+        {
+          "note": "E",
+          "start": 7.7,
+          "duration": 0.7,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 8.4,
+          "duration": 1.0,
+          "force": 0.7
+        },
+        {
+          "note": "G",
+          "start": 9.4,
+          "duration": 0.6,
+          "force": 0.4
+        },
+        {
+          "note": "A",
+          "start": 10.0,
+          "duration": 1.8,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 11.8,
+          "duration": 1.5,
+          "force": 0.6
+        },
+        {
+          "note": "C",
+          "start": 13.3,
+          "duration": 1.0,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 14.3,
+          "duration": 1.2,
+          "force": 0.7
+        },
+        {
+          "note": "E",
+          "start": 15.5,
+          "duration": 0.8,
+          "force": 0.5
+        },
+        {
+          "note": "A",
+          "start": 16.3,
+          "duration": 1.6,
+          "force": 0.6
+        }
+      ],
+      "midi": "work/midi-2026-08-30T1130Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
