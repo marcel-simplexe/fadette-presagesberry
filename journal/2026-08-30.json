@@ -438,6 +438,101 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "16:18",
+      "night": false,
+      "phase": "waning",
+      "dark": false,
+      "notch": 19,
+      "want_source": "fallback-gift",
+      "presage": "La lune, une lune fuyante et marquée d’une morsure invisible, décroît lentement derrière les bois, sa lueur blafarde comptant les heures par un silence qui s’épaissit. Les ombres s’allongent jusqu’à dévorer les talus, et le vent murmure sur les chaumes comme une langue étrangère aux hommes. Le veilleur entend un souffle passer sur les blés, puis le pays tout entier se tait, et les bêtes dans l’étable meuglent longtemps, seules à garder le secret de ce qui se lève dans l’ombre.",
+      "presage_en": "The moon, a fleeing moon marked by an unseen bite, wanes slow behind the woods, its pale light counting the hours by a silence that grows thick. The shadows stretch till they devour the banks, and the wind murmurs over the stubble like a tongue foreign to men. The watcher hears a breath pass over the wheat, then the whole country falls still, and the beasts in the stall low long, alone to keep the secret of what rises in the dark.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 2.0,
+          "force": 0.8
+        },
+        {
+          "note": "F#",
+          "start": 4.0,
+          "duration": 1.5,
+          "force": 0.6
+        },
+        {
+          "note": "A",
+          "start": 6.5,
+          "duration": 2.0,
+          "force": 0.7
+        },
+        {
+          "note": "F#",
+          "start": 8.5,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 9.5,
+          "duration": 3.0,
+          "force": 0.6
+        },
+        {
+          "note": "C",
+          "start": 13.0,
+          "duration": 1.5,
+          "force": 0.5
+        },
+        {
+          "note": "A♭",
+          "start": 15.0,
+          "duration": 1.0,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 16.5,
+          "duration": 2.5,
+          "force": 0.8
+        },
+        {
+          "note": "F#",
+          "start": 19.5,
+          "duration": 1.0,
+          "force": 0.4
+        },
+        {
+          "note": "D",
+          "start": 21.0,
+          "duration": 10.0,
+          "force": 0.3
+        }
+      ],
+      "midi": "work/midi-2026-08-30T1618Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
