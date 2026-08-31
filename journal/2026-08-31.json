@@ -95,6 +95,119 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "01:25",
+      "night": true,
+      "phase": "waning",
+      "dark": false,
+      "notch": 19,
+      "want_source": "fallback-gift",
+      "presage": "La lune est un œil creux qui regarde en arrière, décroissant comme une promesse trahie ; la nuit porte ce chiffre, 18, comme un talisman usé. Un souffle froid passe sur les blés, faisant osciller les épis comme des bras invisibles ; le ciel se bouche d'une brume lourde, un linceul gris. Deux formes indistinctes se profilent au pied du clocher, un meneu' de loups aveuglé par la lueur faible, et, plus haut, une porte se dresse là où il n'y en eut jamais, barrée d'un silence de pierre.",
+      "presage_en": "The moon is a hollow eye looking back, waning like a broken vow; the night bears that number, 18, like a worn charm. A cold breath sweeps over the wheat, making the ears sway like unseen arms; the sky seals itself with heavy mist, a grey shroud. Two indistinct shapes stand at the foot of the belfry, a pack of wolves blinded by the faint light, and higher up, a door rises where none ever stood, barred by a silence of stone.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 2,
+          "force": 0.9
+        },
+        {
+          "note": "A",
+          "start": 4,
+          "duration": 1,
+          "force": 0.2
+        },
+        {
+          "note": "D",
+          "start": 5,
+          "duration": 1.5,
+          "force": 0.85
+        },
+        {
+          "note": "G",
+          "start": 10,
+          "duration": 0.5,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 11,
+          "duration": 1,
+          "force": 0.9
+        },
+        {
+          "note": "A",
+          "start": 13,
+          "duration": 0.75,
+          "force": 0.1
+        },
+        {
+          "note": "D",
+          "start": 14,
+          "duration": 2,
+          "force": 0.8
+        },
+        {
+          "note": "A",
+          "start": 18,
+          "duration": 0.5,
+          "force": 0.15
+        },
+        {
+          "note": "D",
+          "start": 19,
+          "duration": 2,
+          "force": 0.75
+        },
+        {
+          "note": "D",
+          "start": 24,
+          "duration": 2,
+          "force": 0.7
+        },
+        {
+          "note": "D",
+          "start": 28,
+          "duration": 1.5,
+          "force": 0.5
+        },
+        {
+          "note": "D",
+          "start": 30,
+          "duration": 4,
+          "force": 0.3
+        },
+        {
+          "note": "D",
+          "start": 35,
+          "duration": 2,
+          "force": 0.2
+        }
+      ],
+      "midi": "work/midi-2026-08-31T0125Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
