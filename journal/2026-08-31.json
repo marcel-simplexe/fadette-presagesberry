@@ -1,0 +1,100 @@
+{
+  "date": "2026-08-31",
+  "breaths": [
+    {
+      "time": "00:16",
+      "night": true,
+      "phase": "waning",
+      "dark": false,
+      "notch": 19,
+      "want_source": "fallback-gift",
+      "presage": "La nuit est une comptabilité d’ombres, où la lune, en sa 18e décroissance gibbeuse, jette sur les prés un chiffre froid, et deux formes errantes troublent l’horizon invisible. Un chien gît sans souffle au seuil, et l’air se charge d’un froid que le vent n’explique, tandis que dans les roseaux immobiles, rien ne bouge sauf le regard qui tremble. La Grand’Bête écoute au loin, et les laveuses de nuit cessent de battre — le marais retient son souffle.",
+      "presage_en": "The night is a reckoning of shadows, where the moon, in its 18th waning gibbous phase, casts a cold number upon the meadows, and two wandering shapes trouble the unseen horizon. A dog lies without breath at the threshold, and the air takes on a chill the wind cannot explain, while in the still reeds nothing stirs but the trembling eye. The Great Beast listens afar, and the night washerwomen cease their beating — the marsh holds its breath.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0.0,
+          "duration": 2.0,
+          "force": 80
+        },
+        {
+          "note": "E",
+          "start": 4.0,
+          "duration": 1.0,
+          "force": 60
+        },
+        {
+          "note": "D",
+          "start": 6.0,
+          "duration": 2.0,
+          "force": 70
+        },
+        {
+          "note": "C",
+          "start": 11.0,
+          "duration": 0.8,
+          "force": 50
+        },
+        {
+          "note": "B",
+          "start": 13.0,
+          "duration": 1.2,
+          "force": 45
+        },
+        {
+          "note": "A",
+          "start": 17.0,
+          "duration": 0.6,
+          "force": 35
+        },
+        {
+          "note": "D",
+          "start": 20.0,
+          "duration": 2.5,
+          "force": 65
+        },
+        {
+          "note": "F",
+          "start": 25.0,
+          "duration": 0.7,
+          "force": 30
+        },
+        {
+          "note": "D",
+          "start": 30.0,
+          "duration": 1.5,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 35.0,
+          "duration": 1.0,
+          "force": 40
+        }
+      ],
+      "midi": "work/midi-2026-08-31T0016Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 2",
+          "the north keeps its peace"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the moon's lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
+    }
+  ]
+}
