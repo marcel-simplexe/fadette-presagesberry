@@ -208,6 +208,119 @@
           "the time to undo what was bound"
         ]
       ]
+    },
+    {
+      "time": "08:19",
+      "night": false,
+      "phase": "waning",
+      "dark": false,
+      "notch": 19,
+      "want_source": "fallback-gift",
+      "presage": "La lune, échine de loup sous un ciel de suie, jette un œil boiteux sur la cour tandis que la nuit glisse comme un berceau renversé. Trois feux follets tournent en rond sur l’eau dormante du ruisseau, et la Grand’Bête, faite comme un veau et comme un lièvre, avance sous le vent, sans bruit, sans ombre définie, portant quelque chose de sa gueule dans ses pattes tachées de rosée et de brume. Au seuil, immobile, le chien repose, la gorge sèche et le regard figé, comme s’il attendait un ordre qui ne viendra plus, tandis que le silence soudain des grenouilles fait place à un murmure qui ne vient ni des hommes ni des bois — mais de ce qui marche la nuit, dans les prés de Laisnel.",
+      "presage_en": "The moon, a lame-backed wolf under a sky of soot, casts a lame eye over the yard while the night slips by like an overturned cradle. Three will-o'-the-wisps whirl in circles on the sleeping water of the brook, and the Grand Beast, made like a calf and like a hare, moves under the wind, no sound, no fixed shadow, carrying something in its jaws in its paws stained with dew and mist. At the threshold, motionless, the dog rests, throat dry and gaze fixed, as if waiting for a command that will never come, while the sudden silence of the frogs gives way to a murmur that comes neither from men nor from the woods — but from what walks at night, in the meadows of Laisnel.",
+      "score": [
+        {
+          "note": "D",
+          "start": 0,
+          "duration": 1,
+          "force": 80
+        },
+        {
+          "note": "F",
+          "start": 4,
+          "duration": 0.75,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 6,
+          "duration": 1,
+          "force": 55
+        },
+        {
+          "note": "F",
+          "start": 9,
+          "duration": 1,
+          "force": 60
+        },
+        {
+          "note": "A",
+          "start": 12,
+          "duration": 0.75,
+          "force": 45
+        },
+        {
+          "note": "F",
+          "start": 13,
+          "duration": 1,
+          "force": 50
+        },
+        {
+          "note": "D",
+          "start": 16,
+          "duration": 1.5,
+          "force": 70
+        },
+        {
+          "note": "F",
+          "start": 18,
+          "duration": 0.5,
+          "force": 55
+        },
+        {
+          "note": "A",
+          "start": 19,
+          "duration": 1,
+          "force": 40
+        },
+        {
+          "note": "D",
+          "start": 21,
+          "duration": 2,
+          "force": 65
+        },
+        {
+          "note": "F",
+          "start": 24,
+          "duration": 1,
+          "force": 50
+        },
+        {
+          "note": "A",
+          "start": 26,
+          "duration": 1.5,
+          "force": 45
+        },
+        {
+          "note": "D",
+          "start": 28,
+          "duration": 1,
+          "force": 75
+        }
+      ],
+      "midi": "work/midi-2026-08-31T0819Z-1.mid",
+      "augury": [
+        [
+          "the north",
+          "Kp 3.33",
+          "the north stirs in its sleep"
+        ],
+        [
+          "the sun's fire",
+          "quiet",
+          "the great forge lies cold"
+        ],
+        [
+          "light",
+          "100%",
+          "the lamp is whole"
+        ],
+        [
+          "the moon",
+          "waning",
+          "the time to undo what was bound"
+        ]
+      ]
     }
   ]
 }
